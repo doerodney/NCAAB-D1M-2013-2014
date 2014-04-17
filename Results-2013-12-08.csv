@@ -1,0 +1,620 @@
+"gameKey","college","minutes","athlete","fieldGoalsMade","fieldGoalsAttempted","threePointersMade","threePointersAttempted","freeThrowsMade","freeThrowsAttempted","offensiveRebounds","defensiveRebounds","totalRebounds","assists","turnovers","steals","blockedShots","personalFouls","pointsScored"
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Seton Hall",34,"Gene Teague",6,8,0,0,4,7,7, 9,16,4,7,5,0,3,16
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Seton Hall",22,"Brian Oliver",4,11,3,8,0,0,0, 1,1,0,2,1,1,2,11
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Seton Hall",6,"Aaron Geramipoor",0,1,0,0,2,2,1, 0,1,0,1,0,0,2,2
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Seton Hall",17,"Haralds Karlis",0,2,0,2,0,0,1, 1,2,0,2,2,0,4,0
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Seton Hall",20,"Brandon Mobley",3,6,3,5,2,2,0, 3,3,0,0,0,1,5,11
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Seton Hall",32,"Sterling Gibbs",7,12,3,4,10,10,0, 4,4,4,2,1,0,1,27
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Seton Hall",16,"Tom Maayan",1,1,0,0,2,3,0, 0,0,0,3,0,0,0,4
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Seton Hall",33,"Jaren Sina",1,4,0,2,0,0,1, 2,3,3,2,0,0,3,2
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Seton Hall",20,"Stephane Manga",1,3,0,0,2,3,0, 4,4,1,1,0,0,4,4
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Rutgers",18,"Wally Judge",0,3,0,0,2,2,0, 2,2,0,2,0,2,3,2
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Rutgers",28,"J.J. Moore",4,8,1,3,4,5,1, 2,3,0,3,2,1,1,13
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Rutgers",12,"D'Von Campbell",1,4,0,2,0,0,1, 1,2,3,0,0,0,0,2
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Rutgers",28,"Kadeem Jack",4,10,0,0,2,2,3, 5,8,1,2,2,2,3,10
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Rutgers",4,"Malick Kone",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Rutgers",11,"Greg Lewis",0,1,0,0,1,2,1, 0,1,0,0,1,0,3,1
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Rutgers",37,"Myles Mack",7,15,3,6,3,4,2, 1,3,4,4,2,0,2,20
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Rutgers",31,"Jerome Seagears",6,15,2,6,4,6,0, 1,1,3,2,1,1,5,18
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Rutgers",14,"Craig Brown",1,2,0,0,0,0,1, 1,2,0,0,0,0,2,2
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Rutgers",17,"Junior Etou",1,4,0,2,1,4,1, 2,3,0,0,0,1,3,3
+"http://sports.yahoo.com/ncaab/virginia-tech-hokies-miami-fl-hurricanes-201312080355","Virginia Tech",11,"Cadarian Raines",0,1,0,0,0,0,0, 1,1,0,0,0,0,2,0
+"http://sports.yahoo.com/ncaab/virginia-tech-hokies-miami-fl-hurricanes-201312080355","Virginia Tech",43,"Jarell Eddie",9,23,6,14,0,0,1, 7,8,0,2,2,0,1,24
+"http://sports.yahoo.com/ncaab/virginia-tech-hokies-miami-fl-hurricanes-201312080355","Virginia Tech",35,"Joey Van Zegeren",4,9,0,0,0,0,6, 4,10,0,2,1,2,3,8
+"http://sports.yahoo.com/ncaab/virginia-tech-hokies-miami-fl-hurricanes-201312080355","Virginia Tech",4,"Christian Beyer",0,1,0,0,0,0,0, 1,1,0,0,0,1,2,0
+"http://sports.yahoo.com/ncaab/virginia-tech-hokies-miami-fl-hurricanes-201312080355","Virginia Tech",21,"Adam Smith",3,9,2,6,0,0,0, 1,1,3,0,0,0,0,8
+"http://sports.yahoo.com/ncaab/virginia-tech-hokies-miami-fl-hurricanes-201312080355","Virginia Tech",3,"Will Johnston",0,1,0,1,0,0,0, 2,2,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/virginia-tech-hokies-miami-fl-hurricanes-201312080355","Virginia Tech",30,"Marshall Wood",3,9,3,6,0,0,1, 5,6,1,2,1,0,0,9
+"http://sports.yahoo.com/ncaab/virginia-tech-hokies-miami-fl-hurricanes-201312080355","Virginia Tech",40,"Devin Wilson",0,2,0,0,1,3,0, 2,2,5,1,1,0,4,1
+"http://sports.yahoo.com/ncaab/virginia-tech-hokies-miami-fl-hurricanes-201312080355","Virginia Tech",34,"Ben Emelogu",5,14,1,7,0,0,1, 4,5,2,2,1,0,0,11
+"http://sports.yahoo.com/ncaab/virginia-tech-hokies-miami-fl-hurricanes-201312080355","Virginia Tech",4,"Trevor Thompson",0,0,0,0,0,0,0, 0,0,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/virginia-tech-hokies-miami-fl-hurricanes-201312080355","Miami (FL)",34,"Garrius Adams",5,9,2,4,2,4,0, 3,3,2,0,1,1,2,14
+"http://sports.yahoo.com/ncaab/virginia-tech-hokies-miami-fl-hurricanes-201312080355","Miami (FL)",29,"Donnavan Kirk",2,7,0,1,2,4,4, 7,11,0,3,0,2,1,6
+"http://sports.yahoo.com/ncaab/virginia-tech-hokies-miami-fl-hurricanes-201312080355","Miami (FL)",9,"Raphael Akpejiori",0,1,0,0,0,0,0, 2,2,0,1,0,0,2,0
+"http://sports.yahoo.com/ncaab/virginia-tech-hokies-miami-fl-hurricanes-201312080355","Miami (FL)",38,"Rion Brown",4,15,1,5,0,0,2, 2,4,2,0,1,0,2,9
+"http://sports.yahoo.com/ncaab/virginia-tech-hokies-miami-fl-hurricanes-201312080355","Miami (FL)",4,"Erik Swoope",0,0,0,0,0,0,1, 1,2,1,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/virginia-tech-hokies-miami-fl-hurricanes-201312080355","Miami (FL)",21,"Tonye Jekiri",1,5,0,0,0,0,3, 4,7,0,0,0,1,0,2
+"http://sports.yahoo.com/ncaab/virginia-tech-hokies-miami-fl-hurricanes-201312080355","Miami (FL)",32,"Davon Reed",4,10,1,3,1,2,2, 3,5,0,3,0,0,0,10
+"http://sports.yahoo.com/ncaab/virginia-tech-hokies-miami-fl-hurricanes-201312080355","Miami (FL)",27,"Manu Lecomte",3,8,0,1,1,2,0, 4,4,2,3,1,0,2,7
+"http://sports.yahoo.com/ncaab/virginia-tech-hokies-miami-fl-hurricanes-201312080355","Miami (FL)",31,"James Kelly",5,14,0,1,2,2,3, 6,9,0,2,1,0,4,12
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Maryland",15,"Jonathan Graham",1,2,0,0,3,3,2, 3,5,0,2,0,3,1,5
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Maryland",30,"Evan Smotrycz",2,9,2,6,5,6,1, 5,6,1,3,1,0,4,11
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Maryland",23,"Dez Wells",7,14,0,1,2,4,0, 3,3,0,1,2,1,5,16
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Maryland",30,"Nick Faust",2,7,1,5,2,2,0, 2,2,3,3,3,1,3,7
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Maryland",23,"Charles Mitchell",2,6,0,0,2,2,4, 2,6,0,1,0,0,3,6
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Maryland",35,"Jake Layman",5,12,1,4,2,3,5, 1,6,0,3,1,0,0,13
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Maryland",11,"Shaquille Cleare",1,1,0,0,1,2,2, 1,3,0,1,0,0,2,3
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Maryland",11,"Varun Ram",1,2,1,2,0,1,0, 0,0,0,1,1,0,2,3
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Maryland",3,"Damonte Dodd",0,1,0,0,0,0,1, 0,1,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Maryland",19,"Roddy Peters",4,10,0,1,3,3,1, 0,1,3,2,3,0,3,11
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Geo. Washington",33,"Isaiah Armwood",4,8,0,0,3,3,3, 9,12,0,3,0,2,4,11
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Geo. Washington",36,"Maurice Creek",6,11,3,6,10,12,1, 3,4,1,5,1,0,1,25
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Geo. Washington",15,"Nemanja Mikic",1,1,0,0,0,0,0, 0,0,0,2,0,0,2,2
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Geo. Washington",19,"John Kopriva",2,2,0,0,1,2,1, 3,4,0,1,1,1,3,5
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Geo. Washington",24,"Kevin Larsen",2,7,0,0,1,2,1, 6,7,1,1,0,0,5,5
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Geo. Washington",32,"Kethan Savage",6,14,0,2,2,3,1, 1,2,2,5,4,0,3,14
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Geo. Washington",35,"Joe McDonald",2,8,0,1,9,11,5, 3,8,9,2,4,0,1,13
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Geo. Washington",2,"Paris Maragkos",0,0,0,0,0,0,0, 0,0,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Geo. Washington",2,"Miguel Cartagena",0,1,0,0,0,0,0, 0,0,2,0,0,0,2,0
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Geo. Washington",2,"Nick Griffin",1,2,0,1,0,0,0, 0,0,0,0,0,0,1,2
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Jacksonville St.",12,"Avery Moore",2,5,2,5,4,4,0, 0,0,1,1,1,0,0,10
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Jacksonville St.",8,"Rico Sanders",1,5,0,1,0,0,0, 0,0,0,0,0,0,0,2
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Jacksonville St.",29,"Brian Williams",2,9,0,2,1,3,0, 4,4,5,2,4,0,1,5
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Jacksonville St.",20,"Nick Cook",2,4,0,0,0,2,4, 1,5,0,5,0,2,3,4
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Jacksonville St.",26,"Grant White",3,7,0,1,1,2,0, 1,1,3,3,1,0,1,7
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Jacksonville St.",18,"Teraes Clemmons",5,6,1,1,3,3,1, 2,3,0,0,0,0,5,14
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Jacksonville St.",11,"Mike Louder",0,5,0,1,0,0,1, 0,1,0,1,0,0,4,0
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Jacksonville St.",7,"Giovanni Smith",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Jacksonville St.",20,"Undra Mitchem",1,4,1,2,0,0,0, 0,0,0,2,0,0,5,3
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Jacksonville St.",24,"D.J. Felder",3,6,0,0,0,0,1, 1,2,0,2,1,0,1,6
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Jacksonville St.",25,"Jamal Hunter",1,1,0,0,0,0,2, 3,5,1,0,1,0,4,2
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Florida St.",27,"Okaro White",7,9,3,5,0,0,2, 2,4,0,1,0,0,1,17
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Florida St.",24,"Ian Miller",3,8,1,5,2,4,0, 1,1,3,4,2,0,1,9
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Florida St.",21,"Boris Bojanovsky",5,5,0,0,5,5,0, 2,2,1,2,0,4,1,15
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Florida St.",29,"Devon Bookert",0,2,0,2,0,0,1, 2,3,4,1,0,0,3,0
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Florida St.",26,"Montay Brandon",4,7,2,2,4,5,2, 1,3,3,0,2,0,0,14
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Florida St.",13,"Robert Gilchrist",0,1,0,0,0,0,0, 0,0,1,2,2,1,1,0
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Florida St.",2,"Joell Hopkins",0,2,0,1,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Florida St.",17,"Michael Ojo",1,1,0,0,1,2,2, 5,7,0,1,0,2,2,3
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Florida St.",24,"Aaron Thomas",3,7,0,1,6,7,0, 5,5,1,3,2,0,2,12
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Florida St.",2,"Brandon Allen",0,0,0,0,0,0,0, 0,0,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Florida St.",15,"Jarquez Smith",1,2,1,2,4,4,0, 3,3,0,1,0,0,3,7
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","Boston Coll.",15,"Alex Dragicevich",0,4,0,4,0,0,0, 1,1,0,0,1,0,0,0
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","Boston Coll.",9,"Danny Rubin",1,3,1,3,0,0,1, 0,1,0,0,0,0,0,3
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","Boston Coll.",26,"Eddie Odio",2,5,1,2,0,0,3, 1,4,1,0,1,1,4,5
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","Boston Coll.",21,"KC Caudill",3,5,0,0,5,8,2, 3,5,2,2,0,1,2,11
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","Boston Coll.",23,"Ryan Anderson",5,11,1,3,2,5,1, 2,3,0,1,2,0,2,13
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","Boston Coll.",26,"Lonnie Jackson",3,10,3,9,0,0,0, 2,2,1,1,0,0,4,9
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","Boston Coll.",6,"Patrick Heckmann",0,2,0,2,0,0,0, 1,1,0,1,0,0,1,0
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","Boston Coll.",29,"Olivier Hanlan",2,5,2,5,0,0,0, 4,4,0,3,0,0,4,6
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","Boston Coll.",39,"Joe Rahon",5,12,1,7,0,0,1, 5,6,9,2,0,1,2,11
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","Boston Coll.",0,"Garland Owens",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","Boston Coll.",6,"Will Magarity",1,2,0,0,2,2,0, 0,0,0,0,0,0,1,4
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","USC",23,"Omar Oraby",2,5,0,0,0,1,2, 3,5,1,3,0,4,2,4
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","USC",35,"Pe'Shon Howard",4,12,3,9,3,4,0, 2,2,4,3,2,0,1,14
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","USC",16,"D.J. Haley",1,3,0,0,1,1,2, 1,3,0,0,0,1,2,3
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","USC",38,"Byron Wesley",5,12,1,2,1,2,2, 3,5,3,2,1,0,3,12
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","USC",5,"Brendyn Taylor",0,0,0,0,0,0,1, 2,3,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","USC",5,"Chass Bryan",0,1,0,1,0,0,0, 0,0,1,0,1,0,2,0
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","USC",36,"Julian Jacobs",5,7,2,2,4,6,0, 8,8,5,4,0,0,2,16
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","USC",23,"Nikola Jovanovic",6,11,0,2,3,3,3, 4,7,1,0,0,0,1,15
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","USC",19,"Roschon Prince",4,7,0,0,6,6,1, 4,5,0,0,2,0,3,14
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","Oklahoma",36,"Cameron Clark",9,20,0,1,4,4,3, 7,10,0,0,2,1,4,22
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","Oklahoma",29,"Ryan Spangler",4,7,0,0,5,6,5, 8,13,2,2,0,1,4,13
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","Oklahoma",10,"D.J. Bennett",1,1,0,0,3,4,2, 2,4,0,1,0,0,3,5
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","Oklahoma",3,"C.J. Cole",0,0,0,0,0,0,0, 3,3,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","Oklahoma",27,"Isaiah Cousins",3,6,0,1,2,2,3, 2,5,1,8,1,0,4,8
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","Oklahoma",35,"Buddy Hield",4,11,0,5,4,7,1, 9,10,1,2,2,0,2,12
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","Oklahoma",18,"Je'lon Hornbeak",3,3,0,0,0,0,0, 0,0,2,2,1,0,2,6
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","Oklahoma",12,"Frank Booker",0,5,0,4,0,0,2, 1,3,0,0,1,0,0,0
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","Oklahoma",30,"Jordan Woodard",5,7,1,1,4,6,0, 1,1,3,4,1,0,3,15
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","George Mason",28,"Sherrod Wright",2,9,0,4,3,4,0, 2,2,0,3,1,1,1,7
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","George Mason",13,"Johnny Williams",1,3,0,0,2,2,1, 0,1,1,1,0,0,1,4
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","George Mason",30,"Bryon Allen",5,17,3,9,2,2,1, 2,3,3,3,3,0,2,15
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","George Mason",21,"Erik Copes",1,1,0,0,0,0,3, 3,6,1,2,0,1,4,2
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","George Mason",15,"Corey Edwards",1,2,1,1,2,4,0, 2,2,3,0,1,0,2,5
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","George Mason",23,"Vaughn Gray",3,11,1,6,0,0,0, 2,2,0,2,1,0,0,7
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","George Mason",28,"Marko Gujanicic",1,6,0,2,6,7,1, 3,4,0,3,0,0,4,8
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","George Mason",12,"Patrick Holloway",3,7,2,6,0,0,0, 0,0,0,1,0,0,3,8
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","George Mason",18,"Jalen Jenkins",1,4,0,0,6,9,3, 2,5,1,0,1,1,5,8
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","George Mason",12,"Marquise Moore",1,3,0,0,0,0,2, 0,2,2,0,1,1,1,2
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","Old Dominion",35,"Dimitri Batten",4,11,0,3,0,0,0, 4,4,2,3,1,0,4,8
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","Old Dominion",34,"Richard Ross",4,10,0,0,0,2,5, 4,9,2,0,1,4,2,8
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","Old Dominion",29,"Aaron Bacote",4,12,3,5,2,2,1, 2,3,2,9,0,1,3,13
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","Old Dominion",8,"Ambrose Mosley",0,2,0,2,0,0,0, 2,2,1,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","Old Dominion",27,"Keenan Palmore",6,11,0,0,1,3,2, 3,5,3,6,2,1,3,13
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","Old Dominion",1,"Martin Shaw",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","Old Dominion",20,"Jordan Baker",0,3,0,2,0,0,0, 1,1,1,1,0,0,2,0
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","Old Dominion",18,"Joe Ebondo",0,3,0,0,0,0,2, 4,6,0,0,1,0,2,0
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","Old Dominion",28,"Denzell Taylor",3,4,0,0,0,0,3, 1,4,0,2,2,1,2,6
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","VCU",13,"Terrance Shannon",0,3,0,0,0,0,4, 4,8,1,2,1,1,0,0
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","VCU",30,"Juvonte Reddic",12,16,0,0,0,3,5, 7,12,0,2,2,4,2,24
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","VCU",22,"Rob Brandenberg",2,8,1,4,1,2,1, 0,1,0,0,2,0,2,6
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","VCU",27,"Briante Weber",1,6,0,1,0,0,1, 1,2,3,2,5,0,3,2
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","VCU",28,"Treveon Graham",4,8,3,5,2,2,2, 2,4,5,3,1,0,2,13
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","VCU",11,"Jarred Guest",1,7,0,0,0,0,5, 0,5,0,1,2,0,0,2
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","VCU",9,"Mo Alie-Cox",1,3,0,0,0,0,2, 1,3,0,0,0,2,1,2
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","VCU",16,"Jordan Burgess",1,6,1,2,0,0,1, 1,2,1,1,0,0,0,3
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","VCU",20,"Melvin Johnson",1,4,0,0,4,4,1, 2,3,3,1,0,0,0,6
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","VCU",1,"Torey Burston",0,0,0,0,0,0,0, 1,1,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","VCU",2,"Jairus Lyles",0,1,0,0,0,0,0, 0,0,0,1,0,0,0,0
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","VCU",16,"JeQuan Lewis",3,7,2,4,0,0,2, 2,4,2,1,0,0,3,8
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","VCU",5,"Doug Brooks",1,3,0,0,1,2,1, 1,2,0,0,0,0,1,3
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","VCU",0,"Emerson Burk",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Rhode Island",34,"Gilvydas Biruta",6,10,0,0,2,6,3, 7,10,0,5,0,1,3,14
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Rhode Island",21,"T.J. Buchanan",1,2,0,1,0,2,0, 3,3,3,2,1,0,0,2
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Rhode Island",15,"Jarelle Reischel",1,2,0,0,0,0,0, 3,3,1,0,0,1,1,2
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Rhode Island",32,"Biggie Minnis",3,6,1,1,1,4,1, 0,1,4,1,2,0,3,8
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Rhode Island",36,"Xavier Munford",9,18,3,9,1,1,1, 1,2,1,3,0,0,3,22
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Rhode Island",30,"E.C. Matthews",4,13,2,8,2,4,0, 3,3,2,3,0,1,3,12
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Rhode Island",22,"Hassan Martin",2,5,0,0,2,2,3, 5,8,0,0,0,3,3,6
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Rhode Island",10,"Ifeanyi Onyekaba",1,2,0,0,0,0,3, 1,4,0,0,0,0,3,2
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Detroit",29,"Juwan Howard, Jr.",7,15,1,4,2,2,3, 5,8,0,2,0,0,2,17
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Detroit",31,"Evan Bruinsma",6,8,0,1,3,4,0, 5,5,3,3,0,1,2,15
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Detroit",21,"Carlton Brundidge",1,3,0,1,2,4,0, 0,0,2,1,2,1,1,4
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Detroit",27,"Patrick Onwenu",3,9,0,1,1,3,3, 4,7,2,3,3,2,2,7
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Detroit",3,"Jermaine Lippert",0,2,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Detroit",21,"Ugochukwu Njoku",4,6,0,0,0,1,0, 4,4,0,0,0,2,2,8
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Detroit",16,"Anton Wilson",0,4,0,3,0,0,0, 1,1,1,0,1,0,1,0
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Detroit",23,"Matthew Grant",4,8,0,1,3,4,3, 1,4,0,1,1,0,2,11
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Detroit",29,"Jarod Williams",2,7,0,1,4,4,2, 2,4,4,0,2,1,3,8
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Maryland",15,"Jonathan Graham",1,2,0,0,3,3,2, 3,5,0,2,0,3,1,5
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Maryland",30,"Evan Smotrycz",2,9,2,6,5,6,1, 5,6,1,3,1,0,4,11
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Maryland",23,"Dez Wells",7,14,0,1,2,4,0, 3,3,0,1,2,1,5,16
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Maryland",30,"Nick Faust",2,7,1,5,2,2,0, 2,2,3,3,3,1,3,7
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Maryland",23,"Charles Mitchell",2,6,0,0,2,2,4, 2,6,0,1,0,0,3,6
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Maryland",35,"Jake Layman",5,12,1,4,2,3,5, 1,6,0,3,1,0,0,13
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Maryland",11,"Shaquille Cleare",1,1,0,0,1,2,2, 1,3,0,1,0,0,2,3
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Maryland",11,"Varun Ram",1,2,1,2,0,1,0, 0,0,0,1,1,0,2,3
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Maryland",3,"Damonte Dodd",0,1,0,0,0,0,1, 0,1,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Maryland",19,"Roddy Peters",4,10,0,1,3,3,1, 0,1,3,2,3,0,3,11
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Geo. Washington",33,"Isaiah Armwood",4,8,0,0,3,3,3, 9,12,0,3,0,2,4,11
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Geo. Washington",36,"Maurice Creek",6,11,3,6,10,12,1, 3,4,1,5,1,0,1,25
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Geo. Washington",15,"Nemanja Mikic",1,1,0,0,0,0,0, 0,0,0,2,0,0,2,2
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Geo. Washington",19,"John Kopriva",2,2,0,0,1,2,1, 3,4,0,1,1,1,3,5
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Geo. Washington",24,"Kevin Larsen",2,7,0,0,1,2,1, 6,7,1,1,0,0,5,5
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Geo. Washington",32,"Kethan Savage",6,14,0,2,2,3,1, 1,2,2,5,4,0,3,14
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Geo. Washington",35,"Joe McDonald",2,8,0,1,9,11,5, 3,8,9,2,4,0,1,13
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Geo. Washington",2,"Paris Maragkos",0,0,0,0,0,0,0, 0,0,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Geo. Washington",2,"Miguel Cartagena",0,1,0,0,0,0,0, 0,0,2,0,0,0,2,0
+"http://sports.yahoo.com/ncaab/maryland-terrapins-george-washington-colonials-201312080227","Geo. Washington",2,"Nick Griffin",1,2,0,1,0,0,0, 0,0,0,0,0,0,1,2
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","Oklahoma",36,"Cameron Clark",9,20,0,1,4,4,3, 7,10,0,0,2,1,4,22
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","Oklahoma",29,"Ryan Spangler",4,7,0,0,5,6,5, 8,13,2,2,0,1,4,13
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","Oklahoma",10,"D.J. Bennett",1,1,0,0,3,4,2, 2,4,0,1,0,0,3,5
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","Oklahoma",3,"C.J. Cole",0,0,0,0,0,0,0, 3,3,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","Oklahoma",27,"Isaiah Cousins",3,6,0,1,2,2,3, 2,5,1,8,1,0,4,8
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","Oklahoma",35,"Buddy Hield",4,11,0,5,4,7,1, 9,10,1,2,2,0,2,12
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","Oklahoma",18,"Je'lon Hornbeak",3,3,0,0,0,0,0, 0,0,2,2,1,0,2,6
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","Oklahoma",12,"Frank Booker",0,5,0,4,0,0,2, 1,3,0,0,1,0,0,0
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","Oklahoma",30,"Jordan Woodard",5,7,1,1,4,6,0, 1,1,3,4,1,0,3,15
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","George Mason",28,"Sherrod Wright",2,9,0,4,3,4,0, 2,2,0,3,1,1,1,7
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","George Mason",13,"Johnny Williams",1,3,0,0,2,2,1, 0,1,1,1,0,0,1,4
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","George Mason",30,"Bryon Allen",5,17,3,9,2,2,1, 2,3,3,3,3,0,2,15
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","George Mason",21,"Erik Copes",1,1,0,0,0,0,3, 3,6,1,2,0,1,4,2
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","George Mason",15,"Corey Edwards",1,2,1,1,2,4,0, 2,2,3,0,1,0,2,5
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","George Mason",23,"Vaughn Gray",3,11,1,6,0,0,0, 2,2,0,2,1,0,0,7
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","George Mason",28,"Marko Gujanicic",1,6,0,2,6,7,1, 3,4,0,3,0,0,4,8
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","George Mason",12,"Patrick Holloway",3,7,2,6,0,0,0, 0,0,0,1,0,0,3,8
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","George Mason",18,"Jalen Jenkins",1,4,0,0,6,9,3, 2,5,1,0,1,1,5,8
+"http://sports.yahoo.com/ncaab/oklahoma-sooners-george-mason-patriots-201312080228","George Mason",12,"Marquise Moore",1,3,0,0,0,0,2, 0,2,2,0,1,1,1,2
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Nebraska",23,"Ray Gallegos",1,4,1,3,0,0,0, 3,3,1,0,1,1,2,3
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Nebraska",10,"Leslee Smith",1,2,0,0,4,6,0, 1,1,0,0,0,0,1,6
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Nebraska",27,"Walter Pitchford",3,6,0,3,0,0,1, 3,4,1,0,1,0,2,6
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Nebraska",37,"Terran Petteway",7,12,2,5,5,6,1, 5,6,2,2,1,0,5,21
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Nebraska",18,"Deverell Biggs",2,10,0,2,2,2,2, 4,6,1,0,0,0,3,6
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Nebraska",6,"Benny Parker",0,1,0,0,1,2,0, 0,0,0,1,0,0,3,1
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Nebraska",35,"Shavon Shields",7,13,2,4,6,8,1, 3,4,2,3,1,0,3,22
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Nebraska",11,"Nathan Hawkins",0,2,0,1,0,2,0, 2,2,1,0,0,0,2,0
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Nebraska",33,"Tai Webster",1,2,0,1,0,0,0, 2,2,5,3,0,1,2,2
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Creighton",33,"Grant Gibbs",3,5,0,2,2,2,0, 2,2,8,2,1,1,3,8
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Creighton",29,"Ethan Wragge",4,7,4,7,4,4,0, 9,9,2,1,1,0,5,16
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Creighton",11,"Will Artino",2,4,0,0,0,0,2, 5,7,0,0,0,0,3,4
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Creighton",30,"Jahenns Manigat",4,8,2,5,0,0,1, 1,2,2,1,2,0,1,10
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Creighton",37,"Doug McDermott",12,23,5,10,4,4,2, 6,8,1,1,1,0,0,33
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Creighton",30,"Austin Chatman",2,3,0,1,3,6,0, 2,2,6,2,0,0,1,7
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Creighton",6,"Avery Dingman",0,1,0,1,0,0,0, 1,1,0,3,0,0,3,0
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Creighton",0,"Alex Olsen",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Creighton",11,"Isaiah Zierden",0,3,0,2,2,4,0, 0,0,0,0,0,0,1,2
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Creighton",12,"Devin Brooks",0,1,0,1,2,2,3, 0,3,2,1,1,0,2,2
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Creighton",1,"Zach Hanson",0,0,0,0,0,0,0, 0,0,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Seton Hall",34,"Gene Teague",6,8,0,0,4,7,7, 9,16,4,7,5,0,3,16
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Seton Hall",22,"Brian Oliver",4,11,3,8,0,0,0, 1,1,0,2,1,1,2,11
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Seton Hall",6,"Aaron Geramipoor",0,1,0,0,2,2,1, 0,1,0,1,0,0,2,2
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Seton Hall",17,"Haralds Karlis",0,2,0,2,0,0,1, 1,2,0,2,2,0,4,0
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Seton Hall",20,"Brandon Mobley",3,6,3,5,2,2,0, 3,3,0,0,0,1,5,11
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Seton Hall",32,"Sterling Gibbs",7,12,3,4,10,10,0, 4,4,4,2,1,0,1,27
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Seton Hall",16,"Tom Maayan",1,1,0,0,2,3,0, 0,0,0,3,0,0,0,4
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Seton Hall",33,"Jaren Sina",1,4,0,2,0,0,1, 2,3,3,2,0,0,3,2
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Seton Hall",20,"Stephane Manga",1,3,0,0,2,3,0, 4,4,1,1,0,0,4,4
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Rutgers",18,"Wally Judge",0,3,0,0,2,2,0, 2,2,0,2,0,2,3,2
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Rutgers",28,"J.J. Moore",4,8,1,3,4,5,1, 2,3,0,3,2,1,1,13
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Rutgers",12,"D'Von Campbell",1,4,0,2,0,0,1, 1,2,3,0,0,0,0,2
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Rutgers",28,"Kadeem Jack",4,10,0,0,2,2,3, 5,8,1,2,2,2,3,10
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Rutgers",4,"Malick Kone",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Rutgers",11,"Greg Lewis",0,1,0,0,1,2,1, 0,1,0,0,1,0,3,1
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Rutgers",37,"Myles Mack",7,15,3,6,3,4,2, 1,3,4,4,2,0,2,20
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Rutgers",31,"Jerome Seagears",6,15,2,6,4,6,0, 1,1,3,2,1,1,5,18
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Rutgers",14,"Craig Brown",1,2,0,0,0,0,1, 1,2,0,0,0,0,2,2
+"http://sports.yahoo.com/ncaab/seton-hall-pirates-rutgers-scarlet-knights-201312080492","Rutgers",17,"Junior Etou",1,4,0,2,1,4,1, 2,3,0,0,0,1,3,3
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","Eastern Wash.",14,"Martin Seiferth",2,4,0,0,0,0,1, 1,2,0,0,0,1,3,4
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","Eastern Wash.",34,"Parker Kelly",1,6,0,4,2,2,1, 3,4,2,2,0,0,2,4
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","Eastern Wash.",37,"Tyler Harvey",7,13,2,6,4,5,0, 3,3,1,2,0,0,3,20
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","Eastern Wash.",6,"Daniel Hill",0,1,0,1,0,0,0, 0,0,1,1,1,0,1,0
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","Eastern Wash.",3,"Danny Powell",1,2,0,1,0,1,0, 0,0,0,0,2,0,1,2
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","Eastern Wash.",17,"Thomas Reuter",2,5,1,2,1,2,1, 3,4,1,1,0,0,4,6
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","Eastern Wash.",32,"Venky Jois",2,6,0,0,3,8,2, 9,11,2,4,1,2,2,7
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","Eastern Wash.",3,"Garrett Moon",1,1,0,0,0,0,1, 0,1,0,0,0,0,1,2
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","Eastern Wash.",17,"Ognjen Miljkovic",2,9,0,5,2,2,2, 4,6,0,2,0,1,4,6
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","Eastern Wash.",30,"Drew Brandon",5,10,1,2,3,4,2, 0,2,2,2,1,1,4,14
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","Eastern Wash.",7,"Felix Von Hofe",0,2,0,2,0,0,0, 1,1,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","St. Mary's",7,"Paul McCoy",1,3,0,0,1,1,0, 1,1,1,1,0,0,0,3
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","St. Mary's",7,"Matt Hodgson",1,4,0,0,0,2,1, 1,2,0,0,1,0,1,2
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","St. Mary's",23,"Beau Levesque",4,11,3,5,3,4,2, 5,7,4,1,2,0,3,14
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","St. Mary's",18,"Garrett Jackson",2,8,0,0,0,0,6, 6,12,3,0,2,0,4,4
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","St. Mary's",32,"James Walker III",4,8,1,2,3,6,0, 3,3,1,1,1,0,3,12
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","St. Mary's",32,"Stephen Holt",4,6,1,2,2,3,3, 4,7,6,2,0,0,3,11
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","St. Mary's",29,"Brad Waldow",9,13,0,0,6,11,4, 4,8,1,0,0,1,1,24
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","St. Mary's",18,"Jordan Giusti",0,3,0,2,1,2,0, 2,2,2,4,0,0,2,1
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","St. Mary's",3,"Treaven Duffy",0,0,0,0,2,2,0, 0,0,0,1,1,0,0,2
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","St. Mary's",28,"Kerry Carter",5,8,3,6,5,6,1, 4,5,0,1,2,0,0,18
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","St. Mary's",3,"Dane Pineau",1,1,0,0,0,0,1, 0,1,0,0,0,0,0,2
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Illinois",27,"Joseph Bertrand",3,5,1,2,0,0,0, 1,1,2,1,0,0,2,7
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Illinois",25,"Jon Ekey",5,7,4,6,0,0,1, 5,6,2,0,0,0,3,14
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Illinois",31,"Rayvonte Rice",8,12,2,4,4,4,2, 3,5,3,2,1,0,4,22
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Illinois",29,"Tracy Abrams",7,10,3,5,0,0,0, 7,7,5,2,2,0,3,17
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Illinois",27,"Nnanna Egwu",1,2,0,1,0,0,0, 1,1,0,0,1,1,2,2
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Illinois",2,"Mike LaTulip",0,1,0,1,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Illinois",18,"Jaylon Tate",1,2,1,1,0,0,0, 2,2,4,2,1,0,1,3
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Illinois",12,"Malcolm Hill",1,5,1,2,0,0,0, 2,2,1,3,0,0,0,3
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Illinois",8,"Maverick Morgan",2,3,0,0,1,1,1, 0,1,0,2,0,0,3,5
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Illinois",13,"Kendrick Nunn",2,3,0,1,0,0,0, 1,1,1,2,1,0,0,4
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Illinois",8,"Austin Colbert",2,2,0,0,0,0,1, 0,1,1,0,0,0,1,4
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Auburn",36,"KT Harrell",6,11,3,6,8,8,0, 0,0,2,4,1,0,1,23
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Auburn",29,"Chris Denson",3,7,0,2,2,5,2, 3,5,4,2,2,0,3,8
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Auburn",24,"Allen Payne",1,6,0,2,1,1,3, 1,4,1,0,0,0,1,3
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Auburn",8,"Jordon Granger",0,2,0,0,0,0,2, 0,2,0,1,0,0,0,0
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Auburn",24,"Asauhn Dixon-Tatum",3,4,0,0,1,2,3, 5,8,0,2,0,1,0,7
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Auburn",7,"Dion Wade",0,1,0,0,0,0,0, 1,1,1,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Auburn",32,"Tahj Shamsid-Deen",4,8,3,6,2,2,0, 0,0,4,3,1,0,1,13
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Auburn",6,"Alex Thompson",0,1,0,1,0,0,0, 0,0,0,0,0,0,2,0
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Auburn",18,"Malcolm Canada",3,7,0,0,0,0,2, 2,4,1,1,0,0,1,6
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Auburn",16,"Benas Griciunas",1,5,0,2,0,0,0, 1,1,1,0,0,0,0,2
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Nebraska",23,"Ray Gallegos",1,4,1,3,0,0,0, 3,3,1,0,1,1,2,3
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Nebraska",10,"Leslee Smith",1,2,0,0,4,6,0, 1,1,0,0,0,0,1,6
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Nebraska",27,"Walter Pitchford",3,6,0,3,0,0,1, 3,4,1,0,1,0,2,6
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Nebraska",37,"Terran Petteway",7,12,2,5,5,6,1, 5,6,2,2,1,0,5,21
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Nebraska",18,"Deverell Biggs",2,10,0,2,2,2,2, 4,6,1,0,0,0,3,6
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Nebraska",6,"Benny Parker",0,1,0,0,1,2,0, 0,0,0,1,0,0,3,1
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Nebraska",35,"Shavon Shields",7,13,2,4,6,8,1, 3,4,2,3,1,0,3,22
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Nebraska",11,"Nathan Hawkins",0,2,0,1,0,2,0, 2,2,1,0,0,0,2,0
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Nebraska",33,"Tai Webster",1,2,0,1,0,0,0, 2,2,5,3,0,1,2,2
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Creighton",33,"Grant Gibbs",3,5,0,2,2,2,0, 2,2,8,2,1,1,3,8
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Creighton",29,"Ethan Wragge",4,7,4,7,4,4,0, 9,9,2,1,1,0,5,16
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Creighton",11,"Will Artino",2,4,0,0,0,0,2, 5,7,0,0,0,0,3,4
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Creighton",30,"Jahenns Manigat",4,8,2,5,0,0,1, 1,2,2,1,2,0,1,10
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Creighton",37,"Doug McDermott",12,23,5,10,4,4,2, 6,8,1,1,1,0,0,33
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Creighton",30,"Austin Chatman",2,3,0,1,3,6,0, 2,2,6,2,0,0,1,7
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Creighton",6,"Avery Dingman",0,1,0,1,0,0,0, 1,1,0,3,0,0,3,0
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Creighton",0,"Alex Olsen",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Creighton",11,"Isaiah Zierden",0,3,0,2,2,4,0, 0,0,0,0,0,0,1,2
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Creighton",12,"Devin Brooks",0,1,0,1,2,2,3, 0,3,2,1,1,0,2,2
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-creighton-bluejays-201312080133","Creighton",1,"Zach Hanson",0,0,0,0,0,0,0, 0,0,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","Old Dominion",35,"Dimitri Batten",4,11,0,3,0,0,0, 4,4,2,3,1,0,4,8
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","Old Dominion",34,"Richard Ross",4,10,0,0,0,2,5, 4,9,2,0,1,4,2,8
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","Old Dominion",29,"Aaron Bacote",4,12,3,5,2,2,1, 2,3,2,9,0,1,3,13
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","Old Dominion",8,"Ambrose Mosley",0,2,0,2,0,0,0, 2,2,1,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","Old Dominion",27,"Keenan Palmore",6,11,0,0,1,3,2, 3,5,3,6,2,1,3,13
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","Old Dominion",1,"Martin Shaw",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","Old Dominion",20,"Jordan Baker",0,3,0,2,0,0,0, 1,1,1,1,0,0,2,0
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","Old Dominion",18,"Joe Ebondo",0,3,0,0,0,0,2, 4,6,0,0,1,0,2,0
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","Old Dominion",28,"Denzell Taylor",3,4,0,0,0,0,3, 1,4,0,2,2,1,2,6
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","VCU",13,"Terrance Shannon",0,3,0,0,0,0,4, 4,8,1,2,1,1,0,0
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","VCU",30,"Juvonte Reddic",12,16,0,0,0,3,5, 7,12,0,2,2,4,2,24
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","VCU",22,"Rob Brandenberg",2,8,1,4,1,2,1, 0,1,0,0,2,0,2,6
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","VCU",27,"Briante Weber",1,6,0,1,0,0,1, 1,2,3,2,5,0,3,2
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","VCU",28,"Treveon Graham",4,8,3,5,2,2,2, 2,4,5,3,1,0,2,13
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","VCU",11,"Jarred Guest",1,7,0,0,0,0,5, 0,5,0,1,2,0,0,2
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","VCU",9,"Mo Alie-Cox",1,3,0,0,0,0,2, 1,3,0,0,0,2,1,2
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","VCU",16,"Jordan Burgess",1,6,1,2,0,0,1, 1,2,1,1,0,0,0,3
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","VCU",20,"Melvin Johnson",1,4,0,0,4,4,1, 2,3,3,1,0,0,0,6
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","VCU",1,"Torey Burston",0,0,0,0,0,0,0, 1,1,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","VCU",2,"Jairus Lyles",0,1,0,0,0,0,0, 0,0,0,1,0,0,0,0
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","VCU",16,"JeQuan Lewis",3,7,2,4,0,0,2, 2,4,2,1,0,0,3,8
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","VCU",5,"Doug Brooks",1,3,0,0,1,2,1, 1,2,0,0,0,0,1,3
+"http://sports.yahoo.com/ncaab/old-dominion-monarchs-vcu-rams-201312080613","VCU",0,"Emerson Burk",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/charlotte-49ers-appalachian-state-mountaineers-201312080016","Charlotte",28,"Ben Cherry",1,4,1,3,0,0,0, 1,1,1,1,2,0,1,3
+"http://sports.yahoo.com/ncaab/charlotte-49ers-appalachian-state-mountaineers-201312080016","Charlotte",29,"Mike Thorne Jr.",12,18,0,0,2,3,4, 4,8,0,2,0,2,1,26
+"http://sports.yahoo.com/ncaab/charlotte-49ers-appalachian-state-mountaineers-201312080016","Charlotte",25,"Terrence Williams",4,11,0,1,4,5,2, 5,7,1,2,0,0,1,12
+"http://sports.yahoo.com/ncaab/charlotte-49ers-appalachian-state-mountaineers-201312080016","Charlotte",30,"Pierria Henry",4,8,1,2,0,0,1, 2,3,7,3,6,1,1,9
+"http://sports.yahoo.com/ncaab/charlotte-49ers-appalachian-state-mountaineers-201312080016","Charlotte",20,"Shawn Lester",4,6,2,3,0,0,1, 4,5,0,3,0,1,5,10
+"http://sports.yahoo.com/ncaab/charlotte-49ers-appalachian-state-mountaineers-201312080016","Charlotte",25,"Denzel Ingram",1,4,0,0,0,0,0, 1,1,2,2,1,0,1,2
+"http://sports.yahoo.com/ncaab/charlotte-49ers-appalachian-state-mountaineers-201312080016","Charlotte",22,"Willie Clayton",4,5,0,0,3,7,3, 7,10,0,0,0,0,3,11
+"http://sports.yahoo.com/ncaab/charlotte-49ers-appalachian-state-mountaineers-201312080016","Charlotte",1,"Cameron Blakley",0,1,0,1,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/charlotte-49ers-appalachian-state-mountaineers-201312080016","Charlotte",20,"Marcus Bryan",2,6,0,0,0,0,1, 3,4,1,0,0,0,3,4
+"http://sports.yahoo.com/ncaab/charlotte-49ers-appalachian-state-mountaineers-201312080016","Appalachian St.",10,"Tommy Spagnolo",4,7,0,0,1,1,3, 1,4,0,1,0,0,2,9
+"http://sports.yahoo.com/ncaab/charlotte-49ers-appalachian-state-mountaineers-201312080016","Appalachian St.",32,"Tevin Baskin",2,7,0,1,2,3,2, 4,6,0,2,1,1,2,6
+"http://sports.yahoo.com/ncaab/charlotte-49ers-appalachian-state-mountaineers-201312080016","Appalachian St.",26,"Tab Hamilton",3,12,3,8,0,0,1, 0,1,0,1,1,0,1,9
+"http://sports.yahoo.com/ncaab/charlotte-49ers-appalachian-state-mountaineers-201312080016","Appalachian St.",38,"Mike Neal",6,18,0,5,5,8,3, 2,5,5,3,2,0,2,17
+"http://sports.yahoo.com/ncaab/charlotte-49ers-appalachian-state-mountaineers-201312080016","Appalachian St.",29,"Chris Burgess",1,7,0,5,0,0,0, 1,1,2,2,0,0,0,2
+"http://sports.yahoo.com/ncaab/charlotte-49ers-appalachian-state-mountaineers-201312080016","Appalachian St.",24,"Frank Eaves",2,7,1,5,3,4,0, 5,5,1,0,0,0,1,8
+"http://sports.yahoo.com/ncaab/charlotte-49ers-appalachian-state-mountaineers-201312080016","Appalachian St.",20,"Michael Obacha",0,0,0,0,1,4,3, 1,4,0,1,2,0,4,1
+"http://sports.yahoo.com/ncaab/charlotte-49ers-appalachian-state-mountaineers-201312080016","Appalachian St.",17,"Mike Kobani",2,5,0,0,0,1,2, 6,8,0,0,2,1,4,4
+"http://sports.yahoo.com/ncaab/charlotte-49ers-appalachian-state-mountaineers-201312080016","Appalachian St.",4,"Ty Toney",1,1,0,0,1,1,1, 0,1,0,1,0,0,0,3
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Rhode Island",34,"Gilvydas Biruta",6,10,0,0,2,6,3, 7,10,0,5,0,1,3,14
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Rhode Island",21,"T.J. Buchanan",1,2,0,1,0,2,0, 3,3,3,2,1,0,0,2
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Rhode Island",15,"Jarelle Reischel",1,2,0,0,0,0,0, 3,3,1,0,0,1,1,2
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Rhode Island",32,"Biggie Minnis",3,6,1,1,1,4,1, 0,1,4,1,2,0,3,8
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Rhode Island",36,"Xavier Munford",9,18,3,9,1,1,1, 1,2,1,3,0,0,3,22
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Rhode Island",30,"E.C. Matthews",4,13,2,8,2,4,0, 3,3,2,3,0,1,3,12
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Rhode Island",22,"Hassan Martin",2,5,0,0,2,2,3, 5,8,0,0,0,3,3,6
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Rhode Island",10,"Ifeanyi Onyekaba",1,2,0,0,0,0,3, 1,4,0,0,0,0,3,2
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Detroit",29,"Juwan Howard, Jr.",7,15,1,4,2,2,3, 5,8,0,2,0,0,2,17
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Detroit",31,"Evan Bruinsma",6,8,0,1,3,4,0, 5,5,3,3,0,1,2,15
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Detroit",21,"Carlton Brundidge",1,3,0,1,2,4,0, 0,0,2,1,2,1,1,4
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Detroit",27,"Patrick Onwenu",3,9,0,1,1,3,3, 4,7,2,3,3,2,2,7
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Detroit",3,"Jermaine Lippert",0,2,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Detroit",21,"Ugochukwu Njoku",4,6,0,0,0,1,0, 4,4,0,0,0,2,2,8
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Detroit",16,"Anton Wilson",0,4,0,3,0,0,0, 1,1,1,0,1,0,1,0
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Detroit",23,"Matthew Grant",4,8,0,1,3,4,3, 1,4,0,1,1,0,2,11
+"http://sports.yahoo.com/ncaab/rhode-island-rams-detroit-titans-201312080165","Detroit",29,"Jarod Williams",2,7,0,1,4,4,2, 2,4,4,0,2,1,3,8
+"http://sports.yahoo.com/ncaab/iona-gaels-fairfield-stags-201312080201","Iona",5,"DaShawn Gomez",0,0,0,0,0,0,0, 0,0,1,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/iona-gaels-fairfield-stags-201312080201","Iona",35,"Tre Bowman",3,8,0,5,1,1,0, 5,5,0,1,2,1,0,7
+"http://sports.yahoo.com/ncaab/iona-gaels-fairfield-stags-201312080201","Iona",25,"Mike Poole",3,7,0,1,1,1,1, 5,6,0,3,1,1,5,7
+"http://sports.yahoo.com/ncaab/iona-gaels-fairfield-stags-201312080201","Iona",40,"Sean Armand",9,17,1,4,9,11,1, 4,5,7,1,3,1,2,28
+"http://sports.yahoo.com/ncaab/iona-gaels-fairfield-stags-201312080201","Iona",8,"Tavon Sledge",0,0,0,0,0,0,0, 0,0,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/iona-gaels-fairfield-stags-201312080201","Iona",30,"A.J. English",5,10,3,4,5,6,0, 2,2,4,4,0,0,2,18
+"http://sports.yahoo.com/ncaab/iona-gaels-fairfield-stags-201312080201","Iona",3,"Grant Ellis",0,0,0,0,0,0,0, 0,0,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/iona-gaels-fairfield-stags-201312080201","Iona",33,"David Laury",6,11,0,0,7,16,1, 9,10,0,1,1,0,1,19
+"http://sports.yahoo.com/ncaab/iona-gaels-fairfield-stags-201312080201","Iona",17,"Isaiah Williams",1,4,0,3,0,0,0, 5,5,0,0,1,0,3,2
+"http://sports.yahoo.com/ncaab/iona-gaels-fairfield-stags-201312080201","Iona",4,"Daniel Robinson",1,1,0,0,0,0,0, 0,0,0,0,0,0,0,2
+"http://sports.yahoo.com/ncaab/iona-gaels-fairfield-stags-201312080201","Fairfield",38,"Maurice Barrow",10,20,3,6,3,4,3, 7,10,1,2,1,0,1,26
+"http://sports.yahoo.com/ncaab/iona-gaels-fairfield-stags-201312080201","Fairfield",1,"Malcolm Gilbert",0,1,0,0,0,0,0, 0,0,0,0,0,0,2,0
+"http://sports.yahoo.com/ncaab/iona-gaels-fairfield-stags-201312080201","Fairfield",3,"Sean Grennan",0,0,0,0,0,0,0, 1,1,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/iona-gaels-fairfield-stags-201312080201","Fairfield",4,"Justin Jenkins",0,2,0,1,0,0,0, 0,0,0,1,0,0,1,0
+"http://sports.yahoo.com/ncaab/iona-gaels-fairfield-stags-201312080201","Fairfield",16,"Marcus Gilbert",1,5,1,5,0,0,1, 1,2,0,3,0,0,4,3
+"http://sports.yahoo.com/ncaab/iona-gaels-fairfield-stags-201312080201","Fairfield",17,"Amadou Sidibe",1,4,0,0,0,0,4, 5,9,2,1,0,1,5,2
+"http://sports.yahoo.com/ncaab/iona-gaels-fairfield-stags-201312080201","Fairfield",29,"Coleman Johnson",6,13,0,0,4,4,1, 7,8,2,1,0,3,4,16
+"http://sports.yahoo.com/ncaab/iona-gaels-fairfield-stags-201312080201","Fairfield",28,"Lincoln Davis",3,9,3,5,1,2,1, 3,4,1,3,0,0,1,10
+"http://sports.yahoo.com/ncaab/iona-gaels-fairfield-stags-201312080201","Fairfield",37,"K.J. Rose",5,11,1,2,0,1,0, 3,3,7,0,0,0,4,11
+"http://sports.yahoo.com/ncaab/iona-gaels-fairfield-stags-201312080201","Fairfield",5,"Doug Chappell",0,2,0,2,0,0,0, 0,0,0,1,0,0,0,0
+"http://sports.yahoo.com/ncaab/iona-gaels-fairfield-stags-201312080201","Fairfield",22,"Steve Smith",0,6,0,5,4,4,0, 2,2,1,0,0,0,2,4
+"http://sports.yahoo.com/ncaab/siena-saints-canisius-golden-griffins-201312080097","Siena",14,"Evan Hymes",3,6,0,1,1,1,0, 0,0,1,2,0,0,1,7
+"http://sports.yahoo.com/ncaab/siena-saints-canisius-golden-griffins-201312080097","Siena",29,"Rob Poole",3,6,1,4,2,2,1, 1,2,1,2,1,0,2,9
+"http://sports.yahoo.com/ncaab/siena-saints-canisius-golden-griffins-201312080097","Siena",18,"Imoh Silas",4,6,0,0,0,1,1, 4,5,1,1,0,0,2,8
+"http://sports.yahoo.com/ncaab/siena-saints-canisius-golden-griffins-201312080097","Siena",4,"Rich Audu",0,0,0,0,0,0,0, 0,0,2,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/siena-saints-canisius-golden-griffins-201312080097","Siena",8,"Ryan Oliver",0,1,0,1,0,0,0, 0,0,1,0,0,0,2,0
+"http://sports.yahoo.com/ncaab/siena-saints-canisius-golden-griffins-201312080097","Siena",32,"Brett Bisping",7,11,0,0,3,5,5, 4,9,0,2,0,1,2,17
+"http://sports.yahoo.com/ncaab/siena-saints-canisius-golden-griffins-201312080097","Siena",33,"Marquis Wright",4,7,0,1,0,0,1, 2,3,12,3,2,0,1,8
+"http://sports.yahoo.com/ncaab/siena-saints-canisius-golden-griffins-201312080097","Siena",1,"Mike Wilson",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/siena-saints-canisius-golden-griffins-201312080097","Siena",19,"Maurice White",3,8,0,1,4,5,3, 3,6,1,1,0,1,2,10
+"http://sports.yahoo.com/ncaab/siena-saints-canisius-golden-griffins-201312080097","Siena",18,"Lavon Long",2,5,0,0,1,2,1, 1,2,0,4,0,0,4,5
+"http://sports.yahoo.com/ncaab/siena-saints-canisius-golden-griffins-201312080097","Siena",24,"Michael Wolfe",6,7,0,1,2,3,0, 4,4,2,1,1,1,0,14
+"http://sports.yahoo.com/ncaab/siena-saints-canisius-golden-griffins-201312080097","Canisius",34,"Chris Perez",3,5,1,1,0,0,0, 0,0,4,0,1,0,1,7
+"http://sports.yahoo.com/ncaab/siena-saints-canisius-golden-griffins-201312080097","Canisius",36,"Billy Baron",7,15,3,7,4,5,1, 4,5,13,3,2,0,0,21
+"http://sports.yahoo.com/ncaab/siena-saints-canisius-golden-griffins-201312080097","Canisius",22,"Chris Manhertz",2,7,0,0,5,7,4, 2,6,0,2,1,2,5,9
+"http://sports.yahoo.com/ncaab/siena-saints-canisius-golden-griffins-201312080097","Canisius",9,"Josiah Heath",1,3,0,0,0,0,2, 2,4,1,1,0,0,2,2
+"http://sports.yahoo.com/ncaab/siena-saints-canisius-golden-griffins-201312080097","Canisius",31,"Jordan Heath",5,8,3,4,2,5,1, 1,2,3,0,1,4,2,15
+"http://sports.yahoo.com/ncaab/siena-saints-canisius-golden-griffins-201312080097","Canisius",18,"Phil Valenti",1,3,0,1,0,0,2, 0,2,0,2,2,1,2,2
+"http://sports.yahoo.com/ncaab/siena-saints-canisius-golden-griffins-201312080097","Canisius",24,"Dominique Raney",6,7,4,5,3,4,0, 0,0,0,0,1,0,2,19
+"http://sports.yahoo.com/ncaab/siena-saints-canisius-golden-griffins-201312080097","Canisius",16,"Zach Lewis",6,13,4,8,2,3,0, 3,3,1,0,1,0,2,18
+"http://sports.yahoo.com/ncaab/siena-saints-canisius-golden-griffins-201312080097","Canisius",10,"Jeremiah Williams",0,2,0,0,0,0,0, 1,1,2,1,0,0,1,0
+"http://sports.yahoo.com/ncaab/monmouth-hawks-manhattan-jaspers-201312080335","Monmouth",23,"Deon Jones",4,9,0,2,6,8,1, 9,10,1,8,0,1,4,14
+"http://sports.yahoo.com/ncaab/monmouth-hawks-manhattan-jaspers-201312080335","Monmouth",28,"Max DiLeo",2,6,2,3,8,9,1, 3,4,2,4,2,0,3,14
+"http://sports.yahoo.com/ncaab/monmouth-hawks-manhattan-jaspers-201312080335","Monmouth",27,"Andrew Nicholas",4,12,3,7,1,2,0, 2,2,0,0,0,0,5,12
+"http://sports.yahoo.com/ncaab/monmouth-hawks-manhattan-jaspers-201312080335","Monmouth",4,"Khalil Brown",0,1,0,1,0,0,0, 1,1,0,0,0,0,2,0
+"http://sports.yahoo.com/ncaab/monmouth-hawks-manhattan-jaspers-201312080335","Monmouth",31,"Tyrone O'Garro",3,4,0,0,4,6,7, 4,11,2,2,1,0,4,10
+"http://sports.yahoo.com/ncaab/monmouth-hawks-manhattan-jaspers-201312080335","Monmouth",4,"Jalen Palm",0,0,0,0,0,0,0, 0,0,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/monmouth-hawks-manhattan-jaspers-201312080335","Monmouth",3,"Collin Stewart",0,0,0,0,0,0,0, 0,0,0,0,0,0,2,0
+"http://sports.yahoo.com/ncaab/monmouth-hawks-manhattan-jaspers-201312080335","Monmouth",9,"Christian White",1,4,1,4,0,2,0, 0,0,0,0,0,0,1,3
+"http://sports.yahoo.com/ncaab/monmouth-hawks-manhattan-jaspers-201312080335","Monmouth",30,"Josh James",1,8,0,1,4,8,1, 1,2,2,5,3,0,2,6
+"http://sports.yahoo.com/ncaab/monmouth-hawks-manhattan-jaspers-201312080335","Monmouth",8,"Greg Noack",0,2,0,0,0,0,1, 5,6,0,1,0,0,2,0
+"http://sports.yahoo.com/ncaab/monmouth-hawks-manhattan-jaspers-201312080335","Monmouth",14,"Justin Robinson",2,4,1,1,0,0,0, 1,1,3,1,0,0,2,5
+"http://sports.yahoo.com/ncaab/monmouth-hawks-manhattan-jaspers-201312080335","Monmouth",11,"Zac Tillman",1,1,0,0,0,0,2, 0,2,0,0,0,0,0,2
+"http://sports.yahoo.com/ncaab/monmouth-hawks-manhattan-jaspers-201312080335","Monmouth",6,"Chris Brady",0,1,0,0,0,0,1, 1,2,0,2,0,0,2,0
+"http://sports.yahoo.com/ncaab/monmouth-hawks-manhattan-jaspers-201312080335","Monmouth",2,"Marcelo Ruediger",0,0,0,0,0,0,0, 0,0,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/monmouth-hawks-manhattan-jaspers-201312080335","Manhattan",23,"George Beamon",2,10,0,4,7,7,1, 5,6,1,2,1,1,3,11
+"http://sports.yahoo.com/ncaab/monmouth-hawks-manhattan-jaspers-201312080335","Manhattan",18,"Ashton Pankey",0,1,0,0,2,5,1, 2,3,1,4,0,2,4,2
+"http://sports.yahoo.com/ncaab/monmouth-hawks-manhattan-jaspers-201312080335","Manhattan",18,"Michael Alvarado",1,2,0,0,2,4,0, 5,5,4,2,2,0,3,4
+"http://sports.yahoo.com/ncaab/monmouth-hawks-manhattan-jaspers-201312080335","Manhattan",21,"Rhamel Brown",3,8,0,0,4,7,5, 3,8,2,2,1,8,3,10
+"http://sports.yahoo.com/ncaab/monmouth-hawks-manhattan-jaspers-201312080335","Manhattan",17,"Emmy Andujar",4,4,1,1,4,5,2, 4,6,1,0,0,0,2,13
+"http://sports.yahoo.com/ncaab/monmouth-hawks-manhattan-jaspers-201312080335","Manhattan",19,"Donovan Kates",0,5,0,4,0,0,1, 2,3,3,2,0,0,2,0
+"http://sports.yahoo.com/ncaab/monmouth-hawks-manhattan-jaspers-201312080335","Manhattan",11,"RaShawn Stores",1,3,1,3,0,1,0, 1,1,0,1,2,0,3,3
+"http://sports.yahoo.com/ncaab/monmouth-hawks-manhattan-jaspers-201312080335","Manhattan",10,"CJ Jones",0,1,0,0,0,0,1, 0,1,0,1,1,0,2,0
+"http://sports.yahoo.com/ncaab/monmouth-hawks-manhattan-jaspers-201312080335","Manhattan",2,"Adam Lacey",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/monmouth-hawks-manhattan-jaspers-201312080335","Manhattan",24,"Shane Richards",3,9,3,9,0,1,0, 2,2,0,0,0,0,2,9
+"http://sports.yahoo.com/ncaab/monmouth-hawks-manhattan-jaspers-201312080335","Manhattan",22,"Tyler Wilson",6,7,0,0,3,7,1, 0,1,1,3,1,0,4,15
+"http://sports.yahoo.com/ncaab/monmouth-hawks-manhattan-jaspers-201312080335","Manhattan",15,"Rich Williams",3,4,0,0,2,3,2, 1,3,1,1,1,0,2,8
+"http://sports.yahoo.com/ncaab/saint-peters-peacocks-niagara-purple-eagles-201312080408","St. Peter's",32,"Marvin Dominique",4,12,0,1,2,2,3, 13,16,0,3,0,1,3,10
+"http://sports.yahoo.com/ncaab/saint-peters-peacocks-niagara-purple-eagles-201312080408","St. Peter's",36,"Desi Washington",6,12,4,8,0,0,0, 1,1,0,3,2,0,2,16
+"http://sports.yahoo.com/ncaab/saint-peters-peacocks-niagara-purple-eagles-201312080408","St. Peter's",14,"Jamel Fields",0,4,0,3,0,0,1, 1,2,1,2,0,0,1,0
+"http://sports.yahoo.com/ncaab/saint-peters-peacocks-niagara-purple-eagles-201312080408","St. Peter's",10,"Chris Burke",0,1,0,1,1,2,0, 1,1,0,3,0,0,0,1
+"http://sports.yahoo.com/ncaab/saint-peters-peacocks-niagara-purple-eagles-201312080408","St. Peter's",14,"Elias Desport",1,1,0,0,4,4,2, 1,3,1,1,0,2,1,6
+"http://sports.yahoo.com/ncaab/saint-peters-peacocks-niagara-purple-eagles-201312080408","St. Peter's",1,"Vic Adams",0,0,0,0,0,0,0, 0,0,0,2,1,0,0,0
+"http://sports.yahoo.com/ncaab/saint-peters-peacocks-niagara-purple-eagles-201312080408","St. Peter's",32,"Tyler Gaskins",3,10,1,5,0,0,0, 3,3,0,2,2,0,3,7
+"http://sports.yahoo.com/ncaab/saint-peters-peacocks-niagara-purple-eagles-201312080408","St. Peter's",2,"Kris Rolle",0,0,0,0,0,0,0, 0,0,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/saint-peters-peacocks-niagara-purple-eagles-201312080408","St. Peter's",28,"Quadir Welton",3,6,0,0,2,3,5, 4,9,0,2,0,0,5,8
+"http://sports.yahoo.com/ncaab/saint-peters-peacocks-niagara-purple-eagles-201312080408","St. Peter's",31,"Trevis Wyche",1,4,0,0,6,8,0, 4,4,4,3,2,0,1,8
+"http://sports.yahoo.com/ncaab/saint-peters-peacocks-niagara-purple-eagles-201312080408","Niagara",17,"Marcus Ware",1,2,0,0,1,4,0, 3,3,0,0,0,0,3,3
+"http://sports.yahoo.com/ncaab/saint-peters-peacocks-niagara-purple-eagles-201312080408","Niagara",32,"Marvin Jordan",1,9,1,7,0,0,0, 1,1,4,1,2,0,2,3
+"http://sports.yahoo.com/ncaab/saint-peters-peacocks-niagara-purple-eagles-201312080408","Niagara",40,"Antoine Mason",13,24,3,8,6,9,2, 1,3,1,1,5,0,0,35
+"http://sports.yahoo.com/ncaab/saint-peters-peacocks-niagara-purple-eagles-201312080408","Niagara",19,"Joe Thomas",2,4,0,0,0,1,2, 1,3,0,1,0,3,2,4
+"http://sports.yahoo.com/ncaab/saint-peters-peacocks-niagara-purple-eagles-201312080408","Niagara",31,"Rayvon Harris",4,5,0,0,2,4,2, 6,8,2,3,3,0,2,10
+"http://sports.yahoo.com/ncaab/saint-peters-peacocks-niagara-purple-eagles-201312080408","Niagara",23,"Cameron Fowler",0,2,0,1,0,0,1, 1,2,4,1,3,0,4,0
+"http://sports.yahoo.com/ncaab/saint-peters-peacocks-niagara-purple-eagles-201312080408","Niagara",10,"Tahjere McCall",1,3,0,0,0,0,1, 2,3,0,3,1,0,1,2
+"http://sports.yahoo.com/ncaab/saint-peters-peacocks-niagara-purple-eagles-201312080408","Niagara",15,"Wesley Myers",1,6,0,3,1,1,0, 0,0,0,1,0,0,2,3
+"http://sports.yahoo.com/ncaab/saint-peters-peacocks-niagara-purple-eagles-201312080408","Niagara",13,"Ramone Snowden",0,1,0,0,1,2,0, 2,2,0,1,2,0,3,1
+"http://sports.yahoo.com/ncaab/quinnipiac-bobcats-rider-broncs-201312080488","Quinnipiac",25,"Umar Shannon",1,8,1,7,0,0,0, 3,3,2,1,0,0,4,3
+"http://sports.yahoo.com/ncaab/quinnipiac-bobcats-rider-broncs-201312080488","Quinnipiac",29,"Ike Azotam",9,14,0,0,6,6,4, 3,7,2,2,0,0,4,24
+"http://sports.yahoo.com/ncaab/quinnipiac-bobcats-rider-broncs-201312080488","Quinnipiac",7,"Marquis Barnett",2,3,0,0,0,1,4, 0,4,0,0,0,0,4,4
+"http://sports.yahoo.com/ncaab/quinnipiac-bobcats-rider-broncs-201312080488","Quinnipiac",8,"Evan Conti",0,2,0,1,0,0,0, 1,1,0,1,0,0,0,0
+"http://sports.yahoo.com/ncaab/quinnipiac-bobcats-rider-broncs-201312080488","Quinnipiac",30,"Ousmane Drame",0,7,0,0,4,4,3, 7,10,0,2,1,1,3,4
+"http://sports.yahoo.com/ncaab/quinnipiac-bobcats-rider-broncs-201312080488","Quinnipiac",27,"Zaid Hearst",5,9,4,6,1,2,1, 4,5,3,1,0,0,4,15
+"http://sports.yahoo.com/ncaab/quinnipiac-bobcats-rider-broncs-201312080488","Quinnipiac",18,"James Ford, Jr.",4,5,2,3,0,0,0, 2,2,0,0,0,0,1,10
+"http://sports.yahoo.com/ncaab/quinnipiac-bobcats-rider-broncs-201312080488","Quinnipiac",30,"Shaq Shannon",6,12,1,6,5,9,0, 4,4,7,3,0,1,3,18
+"http://sports.yahoo.com/ncaab/quinnipiac-bobcats-rider-broncs-201312080488","Quinnipiac",14,"Kasim Chandler",0,4,0,0,0,0,1, 2,3,0,1,0,1,1,0
+"http://sports.yahoo.com/ncaab/quinnipiac-bobcats-rider-broncs-201312080488","Quinnipiac",12,"Alain Chigha",0,1,0,0,0,2,0, 1,1,0,0,0,0,2,0
+"http://sports.yahoo.com/ncaab/quinnipiac-bobcats-rider-broncs-201312080488","Rider",30,"Anthony Myles",6,9,1,3,7,7,2, 3,5,2,2,1,1,3,20
+"http://sports.yahoo.com/ncaab/quinnipiac-bobcats-rider-broncs-201312080488","Rider",10,"Tommy Pereira",0,1,0,1,0,0,0, 0,0,1,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/quinnipiac-bobcats-rider-broncs-201312080488","Rider",34,"Daniel Stewart",5,14,2,4,13,15,2, 5,7,1,0,2,1,2,25
+"http://sports.yahoo.com/ncaab/quinnipiac-bobcats-rider-broncs-201312080488","Rider",20,"Junior Fortunat",3,5,0,0,2,8,1, 2,3,0,2,0,0,4,8
+"http://sports.yahoo.com/ncaab/quinnipiac-bobcats-rider-broncs-201312080488","Rider",14,"Khalil Alford",0,0,0,0,0,0,1, 2,3,0,0,1,0,0,0
+"http://sports.yahoo.com/ncaab/quinnipiac-bobcats-rider-broncs-201312080488","Rider",26,"Zedric Sadler",4,7,0,2,1,1,0, 3,3,3,0,1,0,2,9
+"http://sports.yahoo.com/ncaab/quinnipiac-bobcats-rider-broncs-201312080488","Rider",22,"Shawn Valentine",1,4,0,2,1,2,0, 1,1,1,0,1,0,1,3
+"http://sports.yahoo.com/ncaab/quinnipiac-bobcats-rider-broncs-201312080488","Rider",8,"Xavier Lundy",0,1,0,0,0,0,0, 2,2,0,0,0,0,2,0
+"http://sports.yahoo.com/ncaab/quinnipiac-bobcats-rider-broncs-201312080488","Rider",25,"Jimmie Taylor",8,17,4,6,1,2,2, 5,7,2,1,0,0,3,21
+"http://sports.yahoo.com/ncaab/quinnipiac-bobcats-rider-broncs-201312080488","Rider",11,"Kahlil Thomas",2,6,0,0,0,0,4, 4,8,0,0,0,1,4,4
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","Washington",36,"C.J. Wilcox",7,15,3,5,0,0,0, 4,4,4,3,1,0,3,17
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","Washington",16,"Shawn Kemp, Jr.",0,2,0,0,0,0,0, 2,2,0,1,0,0,3,0
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","Washington",36,"Perris Blackwell",3,9,0,0,0,0,2, 9,11,1,1,0,1,4,6
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","Washington",29,"Andrew Andrews",2,8,2,3,7,8,1, 5,6,2,3,0,0,4,13
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","Washington",29,"Mike Anderson",3,5,0,0,2,2,2, 3,5,1,1,0,0,4,8
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","Washington",19,"Darin Johnson",2,8,0,2,1,1,1, 1,2,0,1,1,0,0,5
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","Washington",4,"Jahmel Taylor",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","Washington",31,"Nigel Williams-Goss",5,10,3,4,1,2,1, 4,5,5,4,1,0,3,14
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","San Diego St.",35,"Josh Davis",3,6,0,0,2,3,2, 8,10,2,3,3,0,0,8
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","San Diego St.",35,"Xavier Thames",6,14,1,5,6,7,0, 1,1,6,1,1,0,2,19
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","San Diego St.",2,"Aqeel Quinn",0,0,0,0,0,0,0, 0,0,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","San Diego St.",13,"Dwayne Polee II",2,3,1,2,0,0,0, 0,0,0,0,0,1,1,5
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","San Diego St.",31,"JJ O'Brien",4,11,0,1,2,5,1, 3,4,1,0,1,0,1,10
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","San Diego St.",30,"Winston Shepard",4,13,1,4,8,10,0, 4,4,2,3,3,1,0,17
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","San Diego St.",14,"Matt Shrigley",1,1,1,1,2,2,1, 2,3,0,0,0,1,2,5
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","San Diego St.",29,"Skylar Spencer",3,4,0,0,0,0,2, 1,3,0,0,0,5,3,6
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","San Diego St.",11,"Dakarai Allen",0,2,0,0,0,0,0, 1,1,0,1,0,3,3,0
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Jacksonville St.",12,"Avery Moore",2,5,2,5,4,4,0, 0,0,1,1,1,0,0,10
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Jacksonville St.",8,"Rico Sanders",1,5,0,1,0,0,0, 0,0,0,0,0,0,0,2
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Jacksonville St.",29,"Brian Williams",2,9,0,2,1,3,0, 4,4,5,2,4,0,1,5
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Jacksonville St.",20,"Nick Cook",2,4,0,0,0,2,4, 1,5,0,5,0,2,3,4
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Jacksonville St.",26,"Grant White",3,7,0,1,1,2,0, 1,1,3,3,1,0,1,7
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Jacksonville St.",18,"Teraes Clemmons",5,6,1,1,3,3,1, 2,3,0,0,0,0,5,14
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Jacksonville St.",11,"Mike Louder",0,5,0,1,0,0,1, 0,1,0,1,0,0,4,0
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Jacksonville St.",7,"Giovanni Smith",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Jacksonville St.",20,"Undra Mitchem",1,4,1,2,0,0,0, 0,0,0,2,0,0,5,3
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Jacksonville St.",24,"D.J. Felder",3,6,0,0,0,0,1, 1,2,0,2,1,0,1,6
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Jacksonville St.",25,"Jamal Hunter",1,1,0,0,0,0,2, 3,5,1,0,1,0,4,2
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Florida St.",27,"Okaro White",7,9,3,5,0,0,2, 2,4,0,1,0,0,1,17
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Florida St.",24,"Ian Miller",3,8,1,5,2,4,0, 1,1,3,4,2,0,1,9
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Florida St.",21,"Boris Bojanovsky",5,5,0,0,5,5,0, 2,2,1,2,0,4,1,15
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Florida St.",29,"Devon Bookert",0,2,0,2,0,0,1, 2,3,4,1,0,0,3,0
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Florida St.",26,"Montay Brandon",4,7,2,2,4,5,2, 1,3,3,0,2,0,0,14
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Florida St.",13,"Robert Gilchrist",0,1,0,0,0,0,0, 0,0,1,2,2,1,1,0
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Florida St.",2,"Joell Hopkins",0,2,0,1,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Florida St.",17,"Michael Ojo",1,1,0,0,1,2,2, 5,7,0,1,0,2,2,3
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Florida St.",24,"Aaron Thomas",3,7,0,1,6,7,0, 5,5,1,3,2,0,2,12
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Florida St.",2,"Brandon Allen",0,0,0,0,0,0,0, 0,0,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/jacksonville-state-gamecocks-florida-state-seminoles-201312080213","Florida St.",15,"Jarquez Smith",1,2,1,2,4,4,0, 3,3,0,1,0,0,3,7
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","Washington",36,"C.J. Wilcox",7,15,3,5,0,0,0, 4,4,4,3,1,0,3,17
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","Washington",16,"Shawn Kemp, Jr.",0,2,0,0,0,0,0, 2,2,0,1,0,0,3,0
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","Washington",36,"Perris Blackwell",3,9,0,0,0,0,2, 9,11,1,1,0,1,4,6
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","Washington",29,"Andrew Andrews",2,8,2,3,7,8,1, 5,6,2,3,0,0,4,13
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","Washington",29,"Mike Anderson",3,5,0,0,2,2,2, 3,5,1,1,0,0,4,8
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","Washington",19,"Darin Johnson",2,8,0,2,1,1,1, 1,2,0,1,1,0,0,5
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","Washington",4,"Jahmel Taylor",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","Washington",31,"Nigel Williams-Goss",5,10,3,4,1,2,1, 4,5,5,4,1,0,3,14
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","San Diego St.",35,"Josh Davis",3,6,0,0,2,3,2, 8,10,2,3,3,0,0,8
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","San Diego St.",35,"Xavier Thames",6,14,1,5,6,7,0, 1,1,6,1,1,0,2,19
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","San Diego St.",2,"Aqeel Quinn",0,0,0,0,0,0,0, 0,0,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","San Diego St.",13,"Dwayne Polee II",2,3,1,2,0,0,0, 0,0,0,0,0,1,1,5
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","San Diego St.",31,"JJ O'Brien",4,11,0,1,2,5,1, 3,4,1,0,1,0,1,10
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","San Diego St.",30,"Winston Shepard",4,13,1,4,8,10,0, 4,4,2,3,3,1,0,17
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","San Diego St.",14,"Matt Shrigley",1,1,1,1,2,2,1, 2,3,0,0,0,1,2,5
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","San Diego St.",29,"Skylar Spencer",3,4,0,0,0,0,2, 1,3,0,0,0,5,3,6
+"http://sports.yahoo.com/ncaab/washington-huskies-san-diego-state-aztecs-201312080498","San Diego St.",11,"Dakarai Allen",0,2,0,0,0,0,0, 1,1,0,1,0,3,3,0
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Oregon",41,"Mike Moser",8,13,3,5,5,6,1, 9,10,3,5,1,0,2,24
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Oregon",31,"Jason Calliste",3,6,2,3,5,6,0, 3,3,2,0,1,0,3,13
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Oregon",39,"Johnathan Loyd",4,7,1,2,14,16,0, 2,2,15,4,2,0,4,23
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Oregon",36,"Joseph Young",7,13,4,4,1,2,2, 2,4,3,1,2,0,5,19
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Oregon",26,"Damyean Dotson",6,13,1,4,0,0,1, 5,6,2,0,0,1,1,13
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Oregon",6,"Waverly Austin",0,0,0,0,0,0,0, 0,0,0,0,0,0,4,0
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Oregon",3,"Jalil Abdul-Bassit",0,0,0,0,0,0,0, 0,0,0,1,0,0,0,0
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Oregon",22,"Elgin Cook",6,8,0,0,2,3,2, 0,2,0,1,3,0,4,14
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Oregon",21,"Richard Amardi",4,5,0,0,1,2,0, 3,3,0,3,2,0,4,9
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Mississippi",36,"Marshall Henderson",11,27,10,23,7,10,0, 2,2,2,0,0,0,4,39
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Mississippi",33,"Demarco Cox",4,6,0,0,2,4,3, 4,7,1,4,1,2,3,10
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Mississippi",39,"Aaron Jones",3,5,0,1,0,0,7, 2,9,1,0,1,2,3,6
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Mississippi",27,"Jarvis Summers",4,12,2,3,2,2,0, 1,1,4,1,0,0,4,12
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Mississippi",25,"Ladarius White",4,8,2,4,5,5,0, 1,1,4,8,0,0,2,15
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Mississippi",25,"Derrick Millinghaus",3,7,1,2,8,12,1, 4,5,3,2,1,0,5,15
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Mississippi",15,"Martavious Newby",0,0,0,0,0,1,0, 2,2,1,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Mississippi",17,"Anthony Perez",0,3,0,2,4,4,2, 0,2,1,3,1,1,5,4
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Mississippi",8,"Sebastian Saiz",2,2,0,0,0,0,0, 0,0,0,0,0,0,2,4
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","Boston Coll.",15,"Alex Dragicevich",0,4,0,4,0,0,0, 1,1,0,0,1,0,0,0
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","Boston Coll.",9,"Danny Rubin",1,3,1,3,0,0,1, 0,1,0,0,0,0,0,3
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","Boston Coll.",26,"Eddie Odio",2,5,1,2,0,0,3, 1,4,1,0,1,1,4,5
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","Boston Coll.",21,"KC Caudill",3,5,0,0,5,8,2, 3,5,2,2,0,1,2,11
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","Boston Coll.",23,"Ryan Anderson",5,11,1,3,2,5,1, 2,3,0,1,2,0,2,13
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","Boston Coll.",26,"Lonnie Jackson",3,10,3,9,0,0,0, 2,2,1,1,0,0,4,9
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","Boston Coll.",6,"Patrick Heckmann",0,2,0,2,0,0,0, 1,1,0,1,0,0,1,0
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","Boston Coll.",29,"Olivier Hanlan",2,5,2,5,0,0,0, 4,4,0,3,0,0,4,6
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","Boston Coll.",39,"Joe Rahon",5,12,1,7,0,0,1, 5,6,9,2,0,1,2,11
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","Boston Coll.",0,"Garland Owens",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","Boston Coll.",6,"Will Magarity",1,2,0,0,2,2,0, 0,0,0,0,0,0,1,4
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","USC",23,"Omar Oraby",2,5,0,0,0,1,2, 3,5,1,3,0,4,2,4
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","USC",35,"Pe'Shon Howard",4,12,3,9,3,4,0, 2,2,4,3,2,0,1,14
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","USC",16,"D.J. Haley",1,3,0,0,1,1,2, 1,3,0,0,0,1,2,3
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","USC",38,"Byron Wesley",5,12,1,2,1,2,2, 3,5,3,2,1,0,3,12
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","USC",5,"Brendyn Taylor",0,0,0,0,0,0,1, 2,3,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","USC",5,"Chass Bryan",0,1,0,1,0,0,0, 0,0,1,0,1,0,2,0
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","USC",36,"Julian Jacobs",5,7,2,2,4,6,0, 8,8,5,4,0,0,2,16
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","USC",23,"Nikola Jovanovic",6,11,0,2,3,3,3, 4,7,1,0,0,0,1,15
+"http://sports.yahoo.com/ncaab/boston-college-eagles-usc-trojans-201312080609","USC",19,"Roschon Prince",4,7,0,0,6,6,1, 4,5,0,0,2,0,3,14
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Illinois",27,"Joseph Bertrand",3,5,1,2,0,0,0, 1,1,2,1,0,0,2,7
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Illinois",25,"Jon Ekey",5,7,4,6,0,0,1, 5,6,2,0,0,0,3,14
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Illinois",31,"Rayvonte Rice",8,12,2,4,4,4,2, 3,5,3,2,1,0,4,22
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Illinois",29,"Tracy Abrams",7,10,3,5,0,0,0, 7,7,5,2,2,0,3,17
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Illinois",27,"Nnanna Egwu",1,2,0,1,0,0,0, 1,1,0,0,1,1,2,2
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Illinois",2,"Mike LaTulip",0,1,0,1,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Illinois",18,"Jaylon Tate",1,2,1,1,0,0,0, 2,2,4,2,1,0,1,3
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Illinois",12,"Malcolm Hill",1,5,1,2,0,0,0, 2,2,1,3,0,0,0,3
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Illinois",8,"Maverick Morgan",2,3,0,0,1,1,1, 0,1,0,2,0,0,3,5
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Illinois",13,"Kendrick Nunn",2,3,0,1,0,0,0, 1,1,1,2,1,0,0,4
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Illinois",8,"Austin Colbert",2,2,0,0,0,0,1, 0,1,1,0,0,0,1,4
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Auburn",36,"KT Harrell",6,11,3,6,8,8,0, 0,0,2,4,1,0,1,23
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Auburn",29,"Chris Denson",3,7,0,2,2,5,2, 3,5,4,2,2,0,3,8
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Auburn",24,"Allen Payne",1,6,0,2,1,1,3, 1,4,1,0,0,0,1,3
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Auburn",8,"Jordon Granger",0,2,0,0,0,0,2, 0,2,0,1,0,0,0,0
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Auburn",24,"Asauhn Dixon-Tatum",3,4,0,0,1,2,3, 5,8,0,2,0,1,0,7
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Auburn",7,"Dion Wade",0,1,0,0,0,0,0, 1,1,1,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Auburn",32,"Tahj Shamsid-Deen",4,8,3,6,2,2,0, 0,0,4,3,1,0,1,13
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Auburn",6,"Alex Thompson",0,1,0,1,0,0,0, 0,0,0,0,0,0,2,0
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Auburn",18,"Malcolm Canada",3,7,0,0,0,0,2, 2,4,1,1,0,0,1,6
+"http://sports.yahoo.com/ncaab/illinois-fighting-illini-auburn-tigers-201312080028","Auburn",16,"Benas Griciunas",1,5,0,2,0,0,0, 1,1,1,0,0,0,0,2
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Oregon",41,"Mike Moser",8,13,3,5,5,6,1, 9,10,3,5,1,0,2,24
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Oregon",31,"Jason Calliste",3,6,2,3,5,6,0, 3,3,2,0,1,0,3,13
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Oregon",39,"Johnathan Loyd",4,7,1,2,14,16,0, 2,2,15,4,2,0,4,23
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Oregon",36,"Joseph Young",7,13,4,4,1,2,2, 2,4,3,1,2,0,5,19
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Oregon",26,"Damyean Dotson",6,13,1,4,0,0,1, 5,6,2,0,0,1,1,13
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Oregon",6,"Waverly Austin",0,0,0,0,0,0,0, 0,0,0,0,0,0,4,0
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Oregon",3,"Jalil Abdul-Bassit",0,0,0,0,0,0,0, 0,0,0,1,0,0,0,0
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Oregon",22,"Elgin Cook",6,8,0,0,2,3,2, 0,2,0,1,3,0,4,14
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Oregon",21,"Richard Amardi",4,5,0,0,1,2,0, 3,3,0,3,2,0,4,9
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Mississippi",36,"Marshall Henderson",11,27,10,23,7,10,0, 2,2,2,0,0,0,4,39
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Mississippi",33,"Demarco Cox",4,6,0,0,2,4,3, 4,7,1,4,1,2,3,10
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Mississippi",39,"Aaron Jones",3,5,0,1,0,0,7, 2,9,1,0,1,2,3,6
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Mississippi",27,"Jarvis Summers",4,12,2,3,2,2,0, 1,1,4,1,0,0,4,12
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Mississippi",25,"Ladarius White",4,8,2,4,5,5,0, 1,1,4,8,0,0,2,15
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Mississippi",25,"Derrick Millinghaus",3,7,1,2,8,12,1, 4,5,3,2,1,0,5,15
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Mississippi",15,"Martavious Newby",0,0,0,0,0,1,0, 2,2,1,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Mississippi",17,"Anthony Perez",0,3,0,2,4,4,2, 0,2,1,3,1,1,5,4
+"http://sports.yahoo.com/ncaab/oregon-ducks-ole-miss-rebels-201312080365","Mississippi",8,"Sebastian Saiz",2,2,0,0,0,0,0, 0,0,0,0,0,0,2,4
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","Eastern Wash.",14,"Martin Seiferth",2,4,0,0,0,0,1, 1,2,0,0,0,1,3,4
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","Eastern Wash.",34,"Parker Kelly",1,6,0,4,2,2,1, 3,4,2,2,0,0,2,4
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","Eastern Wash.",37,"Tyler Harvey",7,13,2,6,4,5,0, 3,3,1,2,0,0,3,20
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","Eastern Wash.",6,"Daniel Hill",0,1,0,1,0,0,0, 0,0,1,1,1,0,1,0
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","Eastern Wash.",3,"Danny Powell",1,2,0,1,0,1,0, 0,0,0,0,2,0,1,2
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","Eastern Wash.",17,"Thomas Reuter",2,5,1,2,1,2,1, 3,4,1,1,0,0,4,6
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","Eastern Wash.",32,"Venky Jois",2,6,0,0,3,8,2, 9,11,2,4,1,2,2,7
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","Eastern Wash.",3,"Garrett Moon",1,1,0,0,0,0,1, 0,1,0,0,0,0,1,2
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","Eastern Wash.",17,"Ognjen Miljkovic",2,9,0,5,2,2,2, 4,6,0,2,0,1,4,6
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","Eastern Wash.",30,"Drew Brandon",5,10,1,2,3,4,2, 0,2,2,2,1,1,4,14
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","Eastern Wash.",7,"Felix Von Hofe",0,2,0,2,0,0,0, 1,1,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","St. Mary's",7,"Paul McCoy",1,3,0,0,1,1,0, 1,1,1,1,0,0,0,3
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","St. Mary's",7,"Matt Hodgson",1,4,0,0,0,2,1, 1,2,0,0,1,0,1,2
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","St. Mary's",23,"Beau Levesque",4,11,3,5,3,4,2, 5,7,4,1,2,0,3,14
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","St. Mary's",18,"Garrett Jackson",2,8,0,0,0,0,6, 6,12,3,0,2,0,4,4
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","St. Mary's",32,"James Walker III",4,8,1,2,3,6,0, 3,3,1,1,1,0,3,12
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","St. Mary's",32,"Stephen Holt",4,6,1,2,2,3,3, 4,7,6,2,0,0,3,11
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","St. Mary's",29,"Brad Waldow",9,13,0,0,6,11,4, 4,8,1,0,0,1,1,24
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","St. Mary's",18,"Jordan Giusti",0,3,0,2,1,2,0, 2,2,2,4,0,0,2,1
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","St. Mary's",3,"Treaven Duffy",0,0,0,0,2,2,0, 0,0,0,1,1,0,0,2
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","St. Mary's",28,"Kerry Carter",5,8,3,6,5,6,1, 4,5,0,1,2,0,0,18
+"http://sports.yahoo.com/ncaab/eastern-washington-eagles-saint-marys-gaels-201312080538","St. Mary's",3,"Dane Pineau",1,1,0,0,0,0,1, 0,1,0,0,0,0,0,2

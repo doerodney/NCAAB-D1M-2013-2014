@@ -1,0 +1,820 @@
+"gameKey","college","minutes","athlete","fieldGoalsMade","fieldGoalsAttempted","threePointersMade","threePointersAttempted","freeThrowsMade","freeThrowsAttempted","offensiveRebounds","defensiveRebounds","totalRebounds","assists","turnovers","steals","blockedShots","personalFouls","pointsScored"
+"http://sports.yahoo.com/ncaab/rutgers-scarlet-knights-ucf-knights-201402260103","Rutgers",11,"Wally Judge",1,1,0,0,0,0,1, 2,3,1,2,0,0,5,2
+"http://sports.yahoo.com/ncaab/rutgers-scarlet-knights-ucf-knights-201402260103","Rutgers",28,"J.J. Moore",3,12,2,10,0,0,0, 2,2,0,2,0,0,3,8
+"http://sports.yahoo.com/ncaab/rutgers-scarlet-knights-ucf-knights-201402260103","Rutgers",3,"D'Von Campbell",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/rutgers-scarlet-knights-ucf-knights-201402260103","Rutgers",32,"Kadeem Jack",5,14,0,0,2,3,5, 4,9,1,3,1,0,5,12
+"http://sports.yahoo.com/ncaab/rutgers-scarlet-knights-ucf-knights-201402260103","Rutgers",19,"Malick Kone",1,1,0,0,0,2,0, 3,3,0,1,0,1,5,2
+"http://sports.yahoo.com/ncaab/rutgers-scarlet-knights-ucf-knights-201402260103","Rutgers",14,"Greg Lewis",2,5,0,0,0,0,2, 1,3,3,1,1,1,4,4
+"http://sports.yahoo.com/ncaab/rutgers-scarlet-knights-ucf-knights-201402260103","Rutgers",29,"Myles Mack",7,13,3,4,2,2,0, 4,4,3,5,2,0,1,19
+"http://sports.yahoo.com/ncaab/rutgers-scarlet-knights-ucf-knights-201402260103","Rutgers",7,"Jerome Seagears",0,0,0,0,0,0,0, 1,1,2,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/rutgers-scarlet-knights-ucf-knights-201402260103","Rutgers",0,"Jalen Hyde",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/rutgers-scarlet-knights-ucf-knights-201402260103","Rutgers",25,"Craig Brown",2,7,0,2,0,1,0, 3,3,1,1,0,0,1,4
+"http://sports.yahoo.com/ncaab/rutgers-scarlet-knights-ucf-knights-201402260103","Rutgers",32,"Junior Etou",6,8,1,2,1,2,3, 6,9,1,2,1,0,1,14
+"http://sports.yahoo.com/ncaab/rutgers-scarlet-knights-ucf-knights-201402260103","UCF",32,"Tristan Spurlock",8,19,4,8,3,5,2, 3,5,0,1,3,1,2,23
+"http://sports.yahoo.com/ncaab/rutgers-scarlet-knights-ucf-knights-201402260103","UCF",21,"Isaiah Sykes",4,10,0,0,6,12,3, 4,7,2,3,3,0,4,14
+"http://sports.yahoo.com/ncaab/rutgers-scarlet-knights-ucf-knights-201402260103","UCF",24,"Calvin Newell",0,3,0,1,3,4,0, 1,1,2,1,1,0,3,3
+"http://sports.yahoo.com/ncaab/rutgers-scarlet-knights-ucf-knights-201402260103","UCF",31,"Kasey Wilson",3,8,1,4,4,6,0, 3,3,1,2,3,2,2,11
+"http://sports.yahoo.com/ncaab/rutgers-scarlet-knights-ucf-knights-201402260103","UCF",27,"Staphon Blair",1,2,0,0,2,2,1, 2,3,0,0,0,2,3,4
+"http://sports.yahoo.com/ncaab/rutgers-scarlet-knights-ucf-knights-201402260103","UCF",21,"Daiquan Walker",1,3,0,1,0,0,0, 4,4,3,2,1,0,0,2
+"http://sports.yahoo.com/ncaab/rutgers-scarlet-knights-ucf-knights-201402260103","UCF",16,"Matt Williams",1,4,1,4,0,0,0, 1,1,2,1,0,0,0,3
+"http://sports.yahoo.com/ncaab/rutgers-scarlet-knights-ucf-knights-201402260103","UCF",4,"Isaac Lang",1,1,0,0,0,0,0, 0,0,0,0,0,0,0,2
+"http://sports.yahoo.com/ncaab/rutgers-scarlet-knights-ucf-knights-201402260103","UCF",4,"Brandon Goodwin",0,0,0,0,0,0,0, 1,1,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/rutgers-scarlet-knights-ucf-knights-201402260103","UCF",4,"Steven Haney",1,2,0,1,0,0,0, 0,0,0,0,0,0,0,2
+"http://sports.yahoo.com/ncaab/rutgers-scarlet-knights-ucf-knights-201402260103","UCF",12,"Justin McBride",1,1,0,0,1,1,1, 3,4,0,2,0,1,2,3
+"http://sports.yahoo.com/ncaab/rutgers-scarlet-knights-ucf-knights-201402260103","UCF",4,"Eugene McCrory",0,1,0,0,0,0,0, 0,0,1,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/connecticut-huskies-south-florida-bulls-201402260526","Connecticut",19,"Lasan Kromah",3,5,1,2,1,1,0, 2,2,0,1,1,0,0,8
+"http://sports.yahoo.com/ncaab/connecticut-huskies-south-florida-bulls-201402260526","Connecticut",21,"Tyler Olander",0,2,0,0,0,1,0, 2,2,0,1,0,0,2,0
+"http://sports.yahoo.com/ncaab/connecticut-huskies-south-florida-bulls-201402260526","Connecticut",37,"Shabazz Napier",6,13,2,3,3,3,0, 4,4,7,1,2,0,1,17
+"http://sports.yahoo.com/ncaab/connecticut-huskies-south-florida-bulls-201402260526","Connecticut",36,"Niels Giffey",4,7,3,4,0,0,2, 3,5,1,0,0,1,3,11
+"http://sports.yahoo.com/ncaab/connecticut-huskies-south-florida-bulls-201402260526","Connecticut",32,"Ryan Boatright",3,11,2,4,6,7,0, 3,3,3,3,0,1,1,14
+"http://sports.yahoo.com/ncaab/connecticut-huskies-south-florida-bulls-201402260526","Connecticut",18,"DeAndre Daniels",2,5,1,3,0,0,0, 5,5,0,0,0,0,2,5
+"http://sports.yahoo.com/ncaab/connecticut-huskies-south-florida-bulls-201402260526","Connecticut",7,"Omar Calhoun",0,2,0,2,0,0,0, 0,0,0,1,0,0,0,0
+"http://sports.yahoo.com/ncaab/connecticut-huskies-south-florida-bulls-201402260526","Connecticut",11,"Phillip Nolan",1,2,0,0,0,0,1, 3,4,0,0,0,1,4,2
+"http://sports.yahoo.com/ncaab/connecticut-huskies-south-florida-bulls-201402260526","Connecticut",8,"Amida Brimah",1,1,0,0,0,0,0, 1,1,0,1,0,0,3,2
+"http://sports.yahoo.com/ncaab/connecticut-huskies-south-florida-bulls-201402260526","Connecticut",3,"Kentan Facey",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/connecticut-huskies-south-florida-bulls-201402260526","Connecticut",8,"Terrence Samuel",1,1,0,0,0,0,0, 0,0,1,0,3,0,0,2
+"http://sports.yahoo.com/ncaab/connecticut-huskies-south-florida-bulls-201402260526","South Florida",37,"Victor Rudd",5,17,0,5,4,5,2, 6,8,5,2,1,0,2,14
+"http://sports.yahoo.com/ncaab/connecticut-huskies-south-florida-bulls-201402260526","South Florida",27,"Martino Brock",3,7,1,1,0,0,1, 4,5,1,1,1,0,2,7
+"http://sports.yahoo.com/ncaab/connecticut-huskies-south-florida-bulls-201402260526","South Florida",23,"Shemiye McLendon",2,4,0,0,0,0,1, 1,2,0,2,0,0,3,4
+"http://sports.yahoo.com/ncaab/connecticut-huskies-south-florida-bulls-201402260526","South Florida",6,"Javontae Hawkins",1,1,1,1,0,0,0, 3,3,0,0,0,0,2,3
+"http://sports.yahoo.com/ncaab/connecticut-huskies-south-florida-bulls-201402260526","South Florida",10,"Zach LeDay",0,1,0,0,0,0,1, 0,1,0,1,0,0,2,0
+"http://sports.yahoo.com/ncaab/connecticut-huskies-south-florida-bulls-201402260526","South Florida",22,"Corey Allen Jr.",2,7,0,1,1,1,1, 2,3,0,1,1,1,1,5
+"http://sports.yahoo.com/ncaab/connecticut-huskies-south-florida-bulls-201402260526","South Florida",25,"John Egbunu",3,6,0,0,2,7,4, 5,9,1,2,0,1,2,8
+"http://sports.yahoo.com/ncaab/connecticut-huskies-south-florida-bulls-201402260526","South Florida",29,"Josh Heath",2,4,1,2,2,3,1, 1,2,3,0,2,1,0,7
+"http://sports.yahoo.com/ncaab/connecticut-huskies-south-florida-bulls-201402260526","South Florida",21,"Chris Perry",2,6,0,0,4,5,0, 4,4,0,2,0,1,2,8
+"http://sports.yahoo.com/ncaab/georgia-tech-yellow-jackets-notre-dame-fighting-irish-201402260423","Georgia Tech",20,"Kammeon Holsey",3,6,0,0,0,0,2, 2,4,2,3,0,0,2,6
+"http://sports.yahoo.com/ncaab/georgia-tech-yellow-jackets-notre-dame-fighting-irish-201402260423","Georgia Tech",33,"Daniel Miller",2,7,0,0,2,4,3, 5,8,3,0,1,3,0,6
+"http://sports.yahoo.com/ncaab/georgia-tech-yellow-jackets-notre-dame-fighting-irish-201402260423","Georgia Tech",31,"Trae Golden",0,10,0,5,0,0,0, 0,0,2,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/georgia-tech-yellow-jackets-notre-dame-fighting-irish-201402260423","Georgia Tech",32,"Marcus Georges-Hunt",3,8,1,1,6,7,1, 2,3,3,1,1,0,2,13
+"http://sports.yahoo.com/ncaab/georgia-tech-yellow-jackets-notre-dame-fighting-irish-201402260423","Georgia Tech",24,"Robert Carter, Jr.",8,16,3,6,0,0,2, 8,10,1,1,0,0,4,19
+"http://sports.yahoo.com/ncaab/georgia-tech-yellow-jackets-notre-dame-fighting-irish-201402260423","Georgia Tech",20,"Chris Bolden",3,5,3,3,0,0,1, 2,3,1,1,0,0,0,9
+"http://sports.yahoo.com/ncaab/georgia-tech-yellow-jackets-notre-dame-fighting-irish-201402260423","Georgia Tech",27,"Corey Heyward",1,2,1,2,0,0,0, 1,1,2,0,0,0,3,3
+"http://sports.yahoo.com/ncaab/georgia-tech-yellow-jackets-notre-dame-fighting-irish-201402260423","Georgia Tech",13,"Quinton Stephens",2,5,2,3,0,0,1, 2,3,2,0,0,0,0,6
+"http://sports.yahoo.com/ncaab/georgia-tech-yellow-jackets-notre-dame-fighting-irish-201402260423","Notre Dame",23,"Tom Knight",2,4,0,0,2,2,3, 5,8,0,0,0,2,2,6
+"http://sports.yahoo.com/ncaab/georgia-tech-yellow-jackets-notre-dame-fighting-irish-201402260423","Notre Dame",33,"Garrick Sherman",10,15,0,0,1,2,1, 4,5,0,2,1,1,2,21
+"http://sports.yahoo.com/ncaab/georgia-tech-yellow-jackets-notre-dame-fighting-irish-201402260423","Notre Dame",39,"Eric Atkins",6,13,4,7,1,2,1, 3,4,4,0,0,0,1,17
+"http://sports.yahoo.com/ncaab/georgia-tech-yellow-jackets-notre-dame-fighting-irish-201402260423","Notre Dame",39,"Pat Connaughton",3,11,1,8,2,2,1, 7,8,6,1,1,1,0,9
+"http://sports.yahoo.com/ncaab/georgia-tech-yellow-jackets-notre-dame-fighting-irish-201402260423","Notre Dame",16,"Zach Auguste",2,4,0,0,0,0,2, 2,4,0,0,0,0,1,4
+"http://sports.yahoo.com/ncaab/georgia-tech-yellow-jackets-notre-dame-fighting-irish-201402260423","Notre Dame",8,"Austin Burgett",1,2,0,1,0,0,0, 1,1,1,1,0,1,0,2
+"http://sports.yahoo.com/ncaab/georgia-tech-yellow-jackets-notre-dame-fighting-irish-201402260423","Notre Dame",1,"V.J. Beachem",0,0,0,0,0,0,0, 0,0,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/georgia-tech-yellow-jackets-notre-dame-fighting-irish-201402260423","Notre Dame",11,"Demetrius Jackson",1,4,0,1,0,0,0, 0,0,2,0,1,0,1,2
+"http://sports.yahoo.com/ncaab/georgia-tech-yellow-jackets-notre-dame-fighting-irish-201402260423","Notre Dame",30,"Steve Vasturia",2,5,0,3,0,0,0, 5,5,1,0,0,0,2,4
+"http://sports.yahoo.com/ncaab/miami-fl-hurricanes-virginia-cavaliers-201402260618","Miami (FL)",23,"Garrius Adams",0,4,0,1,2,3,1, 3,4,2,2,1,0,0,2
+"http://sports.yahoo.com/ncaab/miami-fl-hurricanes-virginia-cavaliers-201402260618","Miami (FL)",19,"Donnavan Kirk",2,7,0,1,0,0,2, 1,3,0,2,0,0,3,4
+"http://sports.yahoo.com/ncaab/miami-fl-hurricanes-virginia-cavaliers-201402260618","Miami (FL)",27,"Raphael Akpejiori",0,1,0,0,0,0,0, 4,4,0,1,0,1,3,0
+"http://sports.yahoo.com/ncaab/miami-fl-hurricanes-virginia-cavaliers-201402260618","Miami (FL)",39,"Rion Brown",5,12,0,4,2,6,0, 3,3,1,1,0,1,1,12
+"http://sports.yahoo.com/ncaab/miami-fl-hurricanes-virginia-cavaliers-201402260618","Miami (FL)",25,"Erik Swoope",2,5,0,0,9,10,1, 1,2,0,0,2,0,3,13
+"http://sports.yahoo.com/ncaab/miami-fl-hurricanes-virginia-cavaliers-201402260618","Miami (FL)",1,"Justin Heller",0,1,0,1,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/miami-fl-hurricanes-virginia-cavaliers-201402260618","Miami (FL)",22,"Tonye Jekiri",1,3,0,0,2,4,4, 2,6,0,1,0,0,4,4
+"http://sports.yahoo.com/ncaab/miami-fl-hurricanes-virginia-cavaliers-201402260618","Miami (FL)",16,"Davon Reed",1,8,0,4,0,2,0, 1,1,0,0,1,0,2,2
+"http://sports.yahoo.com/ncaab/miami-fl-hurricanes-virginia-cavaliers-201402260618","Miami (FL)",28,"Manu Lecomte",1,5,0,1,1,2,2, 3,5,0,1,0,0,1,3
+"http://sports.yahoo.com/ncaab/miami-fl-hurricanes-virginia-cavaliers-201402260618","Virginia",28,"Joe Harris",4,9,3,5,0,0,0, 1,1,5,1,0,0,2,11
+"http://sports.yahoo.com/ncaab/miami-fl-hurricanes-virginia-cavaliers-201402260618","Virginia",28,"Akil Mitchell",1,2,0,0,1,1,2, 7,9,0,3,0,0,2,3
+"http://sports.yahoo.com/ncaab/miami-fl-hurricanes-virginia-cavaliers-201402260618","Virginia",3,"Thomas Rogers",0,0,0,0,0,0,0, 1,1,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/miami-fl-hurricanes-virginia-cavaliers-201402260618","Virginia",32,"Malcolm Brogdon",4,9,0,1,7,7,0, 4,4,2,1,2,0,2,15
+"http://sports.yahoo.com/ncaab/miami-fl-hurricanes-virginia-cavaliers-201402260618","Virginia",11,"Darion Atkins",1,2,0,0,0,0,1, 1,2,0,0,0,0,2,2
+"http://sports.yahoo.com/ncaab/miami-fl-hurricanes-virginia-cavaliers-201402260618","Virginia",21,"Anthony Gill",2,4,0,0,5,9,0, 3,3,2,1,0,1,4,9
+"http://sports.yahoo.com/ncaab/miami-fl-hurricanes-virginia-cavaliers-201402260618","Virginia",2,"Rob Vozenilek",0,0,0,0,0,0,0, 0,0,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/miami-fl-hurricanes-virginia-cavaliers-201402260618","Virginia",3,"Teven Jones",0,1,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/miami-fl-hurricanes-virginia-cavaliers-201402260618","Virginia",14,"Mike Tobey",1,4,0,0,0,0,1, 0,1,0,1,0,1,4,2
+"http://sports.yahoo.com/ncaab/miami-fl-hurricanes-virginia-cavaliers-201402260618","Virginia",8,"Evan Nolte",1,2,1,2,0,0,1, 0,1,1,0,0,0,0,3
+"http://sports.yahoo.com/ncaab/miami-fl-hurricanes-virginia-cavaliers-201402260618","Virginia",17,"Justin Anderson",1,5,1,4,2,2,0, 4,4,0,1,1,1,1,5
+"http://sports.yahoo.com/ncaab/miami-fl-hurricanes-virginia-cavaliers-201402260618","Virginia",2,"Caid Kirven",0,1,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/miami-fl-hurricanes-virginia-cavaliers-201402260618","Virginia",28,"London Perrantes",5,5,4,4,1,1,0, 3,3,4,1,0,0,1,15
+"http://sports.yahoo.com/ncaab/miami-fl-hurricanes-virginia-cavaliers-201402260618","Virginia",1,"Maleek Frazier",0,0,0,0,0,0,0, 0,0,0,1,0,0,0,0
+"http://sports.yahoo.com/ncaab/miami-fl-hurricanes-virginia-cavaliers-201402260618","Virginia",2,"Jeff Jones",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/pittsburgh-panthers-boston-college-eagles-201402260058","Pittsburgh",36,"Lamar Patterson",5,12,4,7,2,2,1, 4,5,5,5,2,0,4,16
+"http://sports.yahoo.com/ncaab/pittsburgh-panthers-boston-college-eagles-201402260058","Pittsburgh",28,"Talib Zanna",7,10,0,0,7,8,3, 3,6,1,2,0,0,4,21
+"http://sports.yahoo.com/ncaab/pittsburgh-panthers-boston-college-eagles-201402260058","Pittsburgh",36,"Cameron Wright",6,9,0,0,2,2,4, 2,6,2,4,1,0,2,14
+"http://sports.yahoo.com/ncaab/pittsburgh-panthers-boston-college-eagles-201402260058","Pittsburgh",9,"Derrick Randall",1,2,0,0,0,0,1, 2,3,0,0,0,1,1,2
+"http://sports.yahoo.com/ncaab/pittsburgh-panthers-boston-college-eagles-201402260058","Pittsburgh",3,"Chris Jones",0,0,0,0,0,0,0, 0,0,0,1,0,0,0,0
+"http://sports.yahoo.com/ncaab/pittsburgh-panthers-boston-college-eagles-201402260058","Pittsburgh",33,"James Robinson",0,1,0,0,0,1,1, 3,4,3,0,0,0,4,0
+"http://sports.yahoo.com/ncaab/pittsburgh-panthers-boston-college-eagles-201402260058","Pittsburgh",17,"Jamel Artis",2,4,1,1,2,2,1, 1,2,0,3,1,1,2,7
+"http://sports.yahoo.com/ncaab/pittsburgh-panthers-boston-college-eagles-201402260058","Pittsburgh",22,"Josh Newkirk",1,3,0,1,1,2,0, 2,2,3,0,0,0,1,3
+"http://sports.yahoo.com/ncaab/pittsburgh-panthers-boston-college-eagles-201402260058","Pittsburgh",16,"Michael Young",1,5,0,1,1,2,1, 1,2,1,1,0,0,1,3
+"http://sports.yahoo.com/ncaab/pittsburgh-panthers-boston-college-eagles-201402260058","Boston Coll.",10,"Alex Dragicevich",0,2,0,1,0,0,0, 0,0,1,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/pittsburgh-panthers-boston-college-eagles-201402260058","Boston Coll.",14,"Eddie Odio",0,2,0,1,0,0,1, 1,2,0,1,0,1,1,0
+"http://sports.yahoo.com/ncaab/pittsburgh-panthers-boston-college-eagles-201402260058","Boston Coll.",28,"Ryan Anderson",2,6,0,0,6,7,2, 3,5,1,4,3,1,2,10
+"http://sports.yahoo.com/ncaab/pittsburgh-panthers-boston-college-eagles-201402260058","Boston Coll.",13,"Lonnie Jackson",0,2,0,2,0,0,1, 1,2,0,1,0,0,0,0
+"http://sports.yahoo.com/ncaab/pittsburgh-panthers-boston-college-eagles-201402260058","Boston Coll.",25,"Patrick Heckmann",5,6,3,4,2,6,1, 3,4,0,1,1,0,4,15
+"http://sports.yahoo.com/ncaab/pittsburgh-panthers-boston-college-eagles-201402260058","Boston Coll.",39,"Olivier Hanlan",10,15,1,4,4,7,0, 1,1,3,1,3,0,2,25
+"http://sports.yahoo.com/ncaab/pittsburgh-panthers-boston-college-eagles-201402260058","Boston Coll.",24,"Joe Rahon",0,3,0,3,0,0,0, 1,1,5,1,1,0,1,0
+"http://sports.yahoo.com/ncaab/pittsburgh-panthers-boston-college-eagles-201402260058","Boston Coll.",30,"Garland Owens",3,5,0,0,1,2,2, 1,3,0,2,1,0,3,7
+"http://sports.yahoo.com/ncaab/pittsburgh-panthers-boston-college-eagles-201402260058","Boston Coll.",17,"Will Magarity",1,3,0,1,0,0,0, 0,0,0,0,1,1,2,2
+"http://sports.yahoo.com/ncaab/north-carolina-tar-heels-north-carolina-state-wolfpack-201402260411","North Carolina",31,"Leslie McDonald",1,5,0,3,0,0,0, 1,1,2,2,0,0,5,2
+"http://sports.yahoo.com/ncaab/north-carolina-tar-heels-north-carolina-state-wolfpack-201402260411","North Carolina",1,"Luke Davis",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/north-carolina-tar-heels-north-carolina-state-wolfpack-201402260411","North Carolina",4,"Desmond Hubert",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/north-carolina-tar-heels-north-carolina-state-wolfpack-201402260411","North Carolina",1,"Jackson Simmons",0,0,0,0,0,0,0, 0,0,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/north-carolina-tar-heels-north-carolina-state-wolfpack-201402260411","North Carolina",43,"James Michael McAdoo",2,11,0,0,4,9,3, 4,7,2,2,1,1,2,8
+"http://sports.yahoo.com/ncaab/north-carolina-tar-heels-north-carolina-state-wolfpack-201402260411","North Carolina",3,"Joel James",0,0,0,0,0,0,2, 0,2,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/north-carolina-tar-heels-north-carolina-state-wolfpack-201402260411","North Carolina",41,"Marcus Paige",11,21,7,12,6,8,0, 6,6,5,1,2,0,0,35
+"http://sports.yahoo.com/ncaab/north-carolina-tar-heels-north-carolina-state-wolfpack-201402260411","North Carolina",23,"Brice Johnson",5,8,0,0,0,2,2, 2,4,0,2,0,1,4,10
+"http://sports.yahoo.com/ncaab/north-carolina-tar-heels-north-carolina-state-wolfpack-201402260411","North Carolina",33,"J.P. Tokoto",7,11,0,0,2,4,4, 6,10,5,1,0,0,4,16
+"http://sports.yahoo.com/ncaab/north-carolina-tar-heels-north-carolina-state-wolfpack-201402260411","North Carolina",21,"Nate Britt",1,3,0,0,4,4,0, 0,0,2,1,1,0,4,6
+"http://sports.yahoo.com/ncaab/north-carolina-tar-heels-north-carolina-state-wolfpack-201402260411","North Carolina",21,"Kennedy Meeks",3,7,0,0,2,4,6, 4,10,0,1,0,0,2,8
+"http://sports.yahoo.com/ncaab/north-carolina-tar-heels-north-carolina-state-wolfpack-201402260411","North Carolina",3,"Isaiah Hicks",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/north-carolina-tar-heels-north-carolina-state-wolfpack-201402260411","N.C. State",23,"Jordan Vandenberg",1,1,0,0,2,2,2, 5,7,1,0,0,4,3,4
+"http://sports.yahoo.com/ncaab/north-carolina-tar-heels-north-carolina-state-wolfpack-201402260411","N.C. State",37,"Ralston Turner",5,13,4,11,2,2,0, 2,2,3,3,1,0,2,16
+"http://sports.yahoo.com/ncaab/north-carolina-tar-heels-north-carolina-state-wolfpack-201402260411","N.C. State",20,"Desmond Lee",2,5,1,3,1,2,0, 0,0,1,0,1,0,1,6
+"http://sports.yahoo.com/ncaab/north-carolina-tar-heels-north-carolina-state-wolfpack-201402260411","N.C. State",31,"Tyler Lewis",1,6,1,3,1,2,0, 3,3,6,1,1,0,3,4
+"http://sports.yahoo.com/ncaab/north-carolina-tar-heels-north-carolina-state-wolfpack-201402260411","N.C. State",34,"T.J. Warren",13,25,1,4,9,13,3, 0,3,0,3,0,1,4,36
+"http://sports.yahoo.com/ncaab/north-carolina-tar-heels-north-carolina-state-wolfpack-201402260411","N.C. State",10,"Lennard Freeman",1,1,0,0,0,0,1, 1,2,0,0,0,0,1,2
+"http://sports.yahoo.com/ncaab/north-carolina-tar-heels-north-carolina-state-wolfpack-201402260411","N.C. State",22,"Beejay Anya",4,4,0,0,2,5,4, 0,4,0,1,0,1,4,10
+"http://sports.yahoo.com/ncaab/north-carolina-tar-heels-north-carolina-state-wolfpack-201402260411","N.C. State",13,"Anthony Barber",1,3,0,0,2,4,1, 0,1,1,0,1,0,0,4
+"http://sports.yahoo.com/ncaab/north-carolina-tar-heels-north-carolina-state-wolfpack-201402260411","N.C. State",35,"Kyle Washington",1,4,0,1,0,1,1, 9,10,0,2,0,4,3,2
+"http://sports.yahoo.com/ncaab/richmond-spiders-george-mason-patriots-201402260228","Richmond",33,"Wayne Sparrow",2,4,1,3,0,0,1, 3,4,4,2,0,0,3,5
+"http://sports.yahoo.com/ncaab/richmond-spiders-george-mason-patriots-201402260228","Richmond",39,"Kendall Anthony",9,24,5,17,0,1,0, 1,1,4,2,0,0,2,23
+"http://sports.yahoo.com/ncaab/richmond-spiders-george-mason-patriots-201402260228","Richmond",37,"Trey Davis",3,6,0,0,2,2,5, 7,12,3,0,2,0,3,8
+"http://sports.yahoo.com/ncaab/richmond-spiders-george-mason-patriots-201402260228","Richmond",30,"Alonzo Nelson-Ododa",2,5,0,1,0,1,3, 4,7,0,2,0,3,1,4
+"http://sports.yahoo.com/ncaab/richmond-spiders-george-mason-patriots-201402260228","Richmond",14,"Terry Allen",1,5,0,0,0,0,0, 1,1,0,2,0,0,4,2
+"http://sports.yahoo.com/ncaab/richmond-spiders-george-mason-patriots-201402260228","Richmond",23,"Deion Taylor",3,5,2,3,1,1,1, 1,2,0,0,1,0,5,9
+"http://sports.yahoo.com/ncaab/richmond-spiders-george-mason-patriots-201402260228","Richmond",2,"Josh Jones",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/richmond-spiders-george-mason-patriots-201402260228","Richmond",22,"ShawnDre' Jones",3,13,2,6,1,2,1, 2,3,1,1,1,0,1,9
+"http://sports.yahoo.com/ncaab/richmond-spiders-george-mason-patriots-201402260228","George Mason",35,"Sherrod Wright",7,10,0,0,5,7,0, 2,2,0,2,1,0,3,19
+"http://sports.yahoo.com/ncaab/richmond-spiders-george-mason-patriots-201402260228","George Mason",9,"Johnny Williams",1,3,0,0,0,2,1, 1,2,0,0,0,0,2,2
+"http://sports.yahoo.com/ncaab/richmond-spiders-george-mason-patriots-201402260228","George Mason",36,"Bryon Allen",7,11,2,2,2,3,0, 7,7,4,0,1,0,0,18
+"http://sports.yahoo.com/ncaab/richmond-spiders-george-mason-patriots-201402260228","George Mason",28,"Erik Copes",3,6,0,0,1,4,0, 3,3,0,1,2,2,1,7
+"http://sports.yahoo.com/ncaab/richmond-spiders-george-mason-patriots-201402260228","George Mason",11,"Marko Gujanicic",1,1,0,0,0,0,0, 2,2,1,2,1,0,2,2
+"http://sports.yahoo.com/ncaab/richmond-spiders-george-mason-patriots-201402260228","George Mason",22,"Patrick Holloway",4,10,2,3,0,0,1, 1,2,0,0,0,0,2,10
+"http://sports.yahoo.com/ncaab/richmond-spiders-george-mason-patriots-201402260228","George Mason",33,"Jalen Jenkins",3,4,0,0,1,2,3, 6,9,5,4,0,2,3,7
+"http://sports.yahoo.com/ncaab/richmond-spiders-george-mason-patriots-201402260228","George Mason",26,"Marquise Moore",1,3,0,0,2,2,0, 1,1,2,0,0,1,1,4
+"http://sports.yahoo.com/ncaab/st-bonaventure-bonnies-la-salle-explorers-201402260301","St. Bonaventure",13,"Marquise Simmons",3,5,0,0,0,0,1, 2,3,1,0,2,0,2,6
+"http://sports.yahoo.com/ncaab/st-bonaventure-bonnies-la-salle-explorers-201402260301","St. Bonaventure",36,"Matthew Wright",6,13,5,8,1,2,0, 3,3,3,6,1,0,5,18
+"http://sports.yahoo.com/ncaab/st-bonaventure-bonnies-la-salle-explorers-201402260301","St. Bonaventure",25,"Jordan Gathers",4,9,0,2,0,0,0, 2,2,2,0,1,0,1,8
+"http://sports.yahoo.com/ncaab/st-bonaventure-bonnies-la-salle-explorers-201402260301","St. Bonaventure",31,"Youssou Ndoye",6,13,0,0,4,4,0, 6,6,1,3,1,2,2,16
+"http://sports.yahoo.com/ncaab/st-bonaventure-bonnies-la-salle-explorers-201402260301","St. Bonaventure",34,"Charlon Kloof",2,6,0,1,2,2,2, 1,3,8,1,2,0,4,6
+"http://sports.yahoo.com/ncaab/st-bonaventure-bonnies-la-salle-explorers-201402260301","St. Bonaventure",29,"Dion Wright",5,9,0,0,1,2,2, 3,5,1,0,0,0,1,11
+"http://sports.yahoo.com/ncaab/st-bonaventure-bonnies-la-salle-explorers-201402260301","St. Bonaventure",10,"Denzel Gregg",0,1,0,1,0,0,0, 1,1,0,0,0,1,2,0
+"http://sports.yahoo.com/ncaab/st-bonaventure-bonnies-la-salle-explorers-201402260301","St. Bonaventure",8,"Chris Dees",0,1,0,0,0,0,2, 1,3,0,1,0,0,0,0
+"http://sports.yahoo.com/ncaab/st-bonaventure-bonnies-la-salle-explorers-201402260301","St. Bonaventure",14,"Andell Cumberbatch",1,1,0,0,0,0,2, 0,2,1,3,1,0,1,2
+"http://sports.yahoo.com/ncaab/st-bonaventure-bonnies-la-salle-explorers-201402260301","La Salle",29,"Tyrone Garland",4,9,1,3,3,4,1, 1,2,6,2,0,0,3,12
+"http://sports.yahoo.com/ncaab/st-bonaventure-bonnies-la-salle-explorers-201402260301","La Salle",37,"Tyreek Duren",4,8,2,3,8,8,1, 2,3,3,2,0,0,3,18
+"http://sports.yahoo.com/ncaab/st-bonaventure-bonnies-la-salle-explorers-201402260301","La Salle",33,"Sam Mills",4,8,2,4,2,2,0, 3,3,4,2,2,0,2,12
+"http://sports.yahoo.com/ncaab/st-bonaventure-bonnies-la-salle-explorers-201402260301","La Salle",19,"D.J. Peterson",2,3,2,3,0,0,0, 1,1,1,0,2,0,4,6
+"http://sports.yahoo.com/ncaab/st-bonaventure-bonnies-la-salle-explorers-201402260301","La Salle",37,"Steve Zack",4,6,0,0,1,2,0, 8,8,3,4,1,1,1,9
+"http://sports.yahoo.com/ncaab/st-bonaventure-bonnies-la-salle-explorers-201402260301","La Salle",35,"Jerrell Wright",8,12,0,0,2,8,2, 2,4,1,4,1,0,2,18
+"http://sports.yahoo.com/ncaab/st-bonaventure-bonnies-la-salle-explorers-201402260301","La Salle",7,"Khalid Lewis",0,0,0,0,0,0,0, 0,0,2,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/st-bonaventure-bonnies-la-salle-explorers-201402260301","La Salle",3,"Rohan Brown",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/rhode-island-rams-massachusetts-minutemen-201402260344","Rhode Island",33,"Gilvydas Biruta",7,15,0,1,3,5,2, 6,8,5,4,0,2,3,17
+"http://sports.yahoo.com/ncaab/rhode-island-rams-massachusetts-minutemen-201402260344","Rhode Island",34,"T.J. Buchanan",0,0,0,0,3,4,0, 4,4,3,1,2,0,4,3
+"http://sports.yahoo.com/ncaab/rhode-island-rams-massachusetts-minutemen-201402260344","Rhode Island",20,"Jarelle Reischel",1,1,0,0,2,3,1, 3,4,4,0,1,0,3,4
+"http://sports.yahoo.com/ncaab/rhode-island-rams-massachusetts-minutemen-201402260344","Rhode Island",40,"Xavier Munford",7,18,2,7,0,0,1, 4,5,2,1,2,1,3,16
+"http://sports.yahoo.com/ncaab/rhode-island-rams-massachusetts-minutemen-201402260344","Rhode Island",35,"E.C. Matthews",5,9,2,4,2,4,2, 3,5,4,4,1,2,4,14
+"http://sports.yahoo.com/ncaab/rhode-island-rams-massachusetts-minutemen-201402260344","Rhode Island",6,"Matthew Butler",0,0,0,0,0,0,0, 0,0,0,0,0,0,2,0
+"http://sports.yahoo.com/ncaab/rhode-island-rams-massachusetts-minutemen-201402260344","Rhode Island",29,"Hassan Martin",6,9,0,1,1,2,0, 2,2,2,1,0,1,4,13
+"http://sports.yahoo.com/ncaab/rhode-island-rams-massachusetts-minutemen-201402260344","Rhode Island",3,"Ifeanyi Onyekaba",0,0,0,0,0,0,0, 0,0,0,0,0,1,1,0
+"http://sports.yahoo.com/ncaab/rhode-island-rams-massachusetts-minutemen-201402260344","Massachusetts",31,"Sampson Carter",2,8,1,4,6,8,4, 2,6,1,2,1,0,2,11
+"http://sports.yahoo.com/ncaab/rhode-island-rams-massachusetts-minutemen-201402260344","Massachusetts",17,"Raphiael Putney",2,7,0,4,2,2,1, 3,4,2,1,1,0,3,6
+"http://sports.yahoo.com/ncaab/rhode-island-rams-massachusetts-minutemen-201402260344","Massachusetts",40,"Chaz Williams",5,13,2,3,4,6,1, 1,2,6,3,1,0,4,16
+"http://sports.yahoo.com/ncaab/rhode-island-rams-massachusetts-minutemen-201402260344","Massachusetts",26,"Cady Lalanne",2,6,0,0,5,8,3, 2,5,0,1,1,2,4,9
+"http://sports.yahoo.com/ncaab/rhode-island-rams-massachusetts-minutemen-201402260344","Massachusetts",24,"Maxie Esho",3,5,0,0,0,1,1, 2,3,0,1,2,2,3,6
+"http://sports.yahoo.com/ncaab/rhode-island-rams-massachusetts-minutemen-201402260344","Massachusetts",32,"Derrick Gordon",4,10,0,0,1,2,3, 7,10,4,1,0,1,2,9
+"http://sports.yahoo.com/ncaab/rhode-island-rams-massachusetts-minutemen-201402260344","Massachusetts",3,"Tyler Bergantino",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/rhode-island-rams-massachusetts-minutemen-201402260344","Massachusetts",27,"Trey Davis",4,8,2,3,3,4,1, 4,5,2,1,1,0,1,13
+"http://sports.yahoo.com/ncaab/west-virginia-mountaineers-iowa-state-cyclones-201402260277","West Virginia",38,"Juwan Staten",8,19,0,0,3,4,0, 5,5,4,1,0,0,2,19
+"http://sports.yahoo.com/ncaab/west-virginia-mountaineers-iowa-state-cyclones-201402260277","West Virginia",15,"Kevin Noreen",0,0,0,0,0,0,0, 3,3,1,0,0,0,5,0
+"http://sports.yahoo.com/ncaab/west-virginia-mountaineers-iowa-state-cyclones-201402260277","West Virginia",28,"Gary Browne",1,9,1,5,0,0,2, 4,6,2,1,1,0,0,3
+"http://sports.yahoo.com/ncaab/west-virginia-mountaineers-iowa-state-cyclones-201402260277","West Virginia",38,"Eron Harris",4,14,0,5,7,9,1, 5,6,3,2,3,0,0,15
+"http://sports.yahoo.com/ncaab/west-virginia-mountaineers-iowa-state-cyclones-201402260277","West Virginia",25,"Nathan Adrian",3,7,1,4,0,0,2, 2,4,0,0,1,2,4,7
+"http://sports.yahoo.com/ncaab/west-virginia-mountaineers-iowa-state-cyclones-201402260277","West Virginia",13,"Brandon Watkins",0,1,0,0,0,0,2, 0,2,0,0,0,0,2,0
+"http://sports.yahoo.com/ncaab/west-virginia-mountaineers-iowa-state-cyclones-201402260277","West Virginia",12,"Devin Williams",4,7,0,0,0,2,1, 3,4,0,1,0,0,4,8
+"http://sports.yahoo.com/ncaab/west-virginia-mountaineers-iowa-state-cyclones-201402260277","West Virginia",31,"Remi Dibo",4,10,3,6,3,4,2, 5,7,0,1,1,1,3,14
+"http://sports.yahoo.com/ncaab/west-virginia-mountaineers-iowa-state-cyclones-201402260277","Iowa St.",34,"DeAndre Kane",8,15,1,3,0,0,3, 8,11,3,2,0,2,3,17
+"http://sports.yahoo.com/ncaab/west-virginia-mountaineers-iowa-state-cyclones-201402260277","Iowa St.",20,"Melvin Ejim",3,7,0,1,1,1,1, 6,7,1,1,1,1,4,7
+"http://sports.yahoo.com/ncaab/west-virginia-mountaineers-iowa-state-cyclones-201402260277","Iowa St.",3,"Sherron Dorsey-Walker",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/west-virginia-mountaineers-iowa-state-cyclones-201402260277","Iowa St.",23,"Naz Long",5,9,5,7,0,0,0, 2,2,1,0,0,1,2,15
+"http://sports.yahoo.com/ncaab/west-virginia-mountaineers-iowa-state-cyclones-201402260277","Iowa St.",39,"Georges Niang",9,17,2,5,4,9,1, 6,7,4,5,0,1,2,24
+"http://sports.yahoo.com/ncaab/west-virginia-mountaineers-iowa-state-cyclones-201402260277","Iowa St.",38,"Monte Morris",1,4,0,1,3,3,1, 6,7,12,0,1,0,0,5
+"http://sports.yahoo.com/ncaab/west-virginia-mountaineers-iowa-state-cyclones-201402260277","Iowa St.",13,"Matt Thomas",0,4,0,2,0,0,0, 1,1,1,0,0,0,2,0
+"http://sports.yahoo.com/ncaab/west-virginia-mountaineers-iowa-state-cyclones-201402260277","Iowa St.",28,"Dustin Hogue",7,9,1,1,0,2,5, 4,9,0,2,1,0,2,15
+"http://sports.yahoo.com/ncaab/west-virginia-mountaineers-iowa-state-cyclones-201402260277","Iowa St.",2,"Daniel Edozie",0,0,0,0,0,2,0, 1,1,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/baylor-bears-texas-longhorns-201402260585","Baylor",29,"Cory Jefferson",6,14,0,1,2,6,6, 6,12,2,0,2,2,4,14
+"http://sports.yahoo.com/ncaab/baylor-bears-texas-longhorns-201402260585","Baylor",24,"Brady Heslip",2,4,2,4,0,0,2, 2,4,0,0,0,0,0,6
+"http://sports.yahoo.com/ncaab/baylor-bears-texas-longhorns-201402260585","Baylor",16,"Gary Franklin",0,2,0,2,0,0,0, 0,0,2,1,0,0,4,0
+"http://sports.yahoo.com/ncaab/baylor-bears-texas-longhorns-201402260585","Baylor",36,"Royce O'Neale",4,8,1,4,0,2,2, 3,5,2,2,1,0,2,9
+"http://sports.yahoo.com/ncaab/baylor-bears-texas-longhorns-201402260585","Baylor",35,"Isaiah Austin",1,10,0,3,5,8,1, 1,2,3,1,0,2,4,7
+"http://sports.yahoo.com/ncaab/baylor-bears-texas-longhorns-201402260585","Baylor",12,"Rico Gathers",0,1,0,0,1,2,2, 2,4,0,1,0,1,3,1
+"http://sports.yahoo.com/ncaab/baylor-bears-texas-longhorns-201402260585","Baylor",8,"Taurean Prince",1,4,0,1,3,3,3, 1,4,0,0,0,0,0,5
+"http://sports.yahoo.com/ncaab/baylor-bears-texas-longhorns-201402260585","Baylor",37,"Kenny Chery",8,17,5,7,6,6,0, 3,3,2,0,1,0,1,27
+"http://sports.yahoo.com/ncaab/baylor-bears-texas-longhorns-201402260585","Baylor",3,"Ish Wainright",0,1,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/baylor-bears-texas-longhorns-201402260585","Texas",24,"Jonathan Holmes",6,11,1,4,1,3,4, 4,8,0,0,0,3,3,14
+"http://sports.yahoo.com/ncaab/baylor-bears-texas-longhorns-201402260585","Texas",39,"Javan Felix",7,12,7,9,0,0,0, 0,0,3,2,0,0,0,21
+"http://sports.yahoo.com/ncaab/baylor-bears-texas-longhorns-201402260585","Texas",33,"Demarcus Holland",1,3,0,1,0,1,2, 4,6,2,2,0,1,1,2
+"http://sports.yahoo.com/ncaab/baylor-bears-texas-longhorns-201402260585","Texas",14,"Prince Ibeh",0,2,0,0,0,2,0, 0,0,0,0,0,1,4,0
+"http://sports.yahoo.com/ncaab/baylor-bears-texas-longhorns-201402260585","Texas",18,"Connor Lammert",2,6,0,1,0,0,3, 1,4,3,0,0,0,3,4
+"http://sports.yahoo.com/ncaab/baylor-bears-texas-longhorns-201402260585","Texas",27,"Cameron Ridley",7,13,0,0,6,9,5, 5,10,1,0,0,2,4,20
+"http://sports.yahoo.com/ncaab/baylor-bears-texas-longhorns-201402260585","Texas",4,"Damarcus Croaker",0,1,0,1,0,0,1, 0,1,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/baylor-bears-texas-longhorns-201402260585","Texas",34,"Isaiah Taylor",5,11,0,0,3,4,0, 6,6,7,3,1,1,1,13
+"http://sports.yahoo.com/ncaab/baylor-bears-texas-longhorns-201402260585","Texas",7,"Kendal Yancy",0,0,0,0,0,0,0, 1,1,1,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/butler-bulldogs-villanova-wildcats-201402260617","Butler",20,"Erik Fromm",0,3,0,1,2,5,2, 1,3,0,1,0,0,3,2
+"http://sports.yahoo.com/ncaab/butler-bulldogs-villanova-wildcats-201402260617","Butler",18,"Khyle Marshall",5,10,0,0,0,0,3, 0,3,0,2,1,0,3,10
+"http://sports.yahoo.com/ncaab/butler-bulldogs-villanova-wildcats-201402260617","Butler",36,"Alex Barlow",1,4,1,4,0,0,2, 3,5,3,1,1,0,2,3
+"http://sports.yahoo.com/ncaab/butler-bulldogs-villanova-wildcats-201402260617","Butler",3,"Jackson Aldridge",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/butler-bulldogs-villanova-wildcats-201402260617","Butler",34,"Kameron Woods",2,5,0,0,2,2,2, 4,6,3,3,0,0,0,6
+"http://sports.yahoo.com/ncaab/butler-bulldogs-villanova-wildcats-201402260617","Butler",4,"Elliott Kampen",0,0,0,0,0,0,0, 0,0,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/butler-bulldogs-villanova-wildcats-201402260617","Butler",4,"Devontae Morgan",1,2,0,0,0,0,0, 2,2,0,0,0,0,0,2
+"http://sports.yahoo.com/ncaab/butler-bulldogs-villanova-wildcats-201402260617","Butler",34,"Kellen Dunham",3,13,1,9,5,6,1, 6,7,1,0,0,0,1,12
+"http://sports.yahoo.com/ncaab/butler-bulldogs-villanova-wildcats-201402260617","Butler",21,"Elijah Brown",2,8,2,5,2,4,0, 0,0,0,1,0,0,3,8
+"http://sports.yahoo.com/ncaab/butler-bulldogs-villanova-wildcats-201402260617","Butler",1,"Michael Volovic",1,1,0,0,0,0,0, 0,0,0,0,0,0,0,2
+"http://sports.yahoo.com/ncaab/butler-bulldogs-villanova-wildcats-201402260617","Butler",9,"Nolan Berry",0,0,0,0,2,2,0, 1,1,0,0,1,0,2,2
+"http://sports.yahoo.com/ncaab/butler-bulldogs-villanova-wildcats-201402260617","Butler",1,"Steven Bennett",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/butler-bulldogs-villanova-wildcats-201402260617","Butler",15,"Andrew Chrabascz",0,3,0,0,1,2,1, 1,2,2,2,0,0,2,1
+"http://sports.yahoo.com/ncaab/butler-bulldogs-villanova-wildcats-201402260617","Villanova",13,"Tony Chennault",1,2,0,0,2,2,0, 3,3,0,1,1,0,1,4
+"http://sports.yahoo.com/ncaab/butler-bulldogs-villanova-wildcats-201402260617","Villanova",31,"James Bell",3,10,2,7,3,4,4, 3,7,3,0,0,0,2,11
+"http://sports.yahoo.com/ncaab/butler-bulldogs-villanova-wildcats-201402260617","Villanova",19,"JayVaughn Pinkston",3,5,0,0,2,2,2, 5,7,0,1,0,0,1,8
+"http://sports.yahoo.com/ncaab/butler-bulldogs-villanova-wildcats-201402260617","Villanova",23,"Darrun Hilliard II",5,13,1,7,0,0,2, 2,4,2,0,0,0,1,11
+"http://sports.yahoo.com/ncaab/butler-bulldogs-villanova-wildcats-201402260617","Villanova",5,"Nick McMahon",0,1,0,1,0,0,0, 0,0,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/butler-bulldogs-villanova-wildcats-201402260617","Villanova",23,"Dylan Ennis",0,5,0,4,0,0,0, 1,1,4,2,0,0,3,0
+"http://sports.yahoo.com/ncaab/butler-bulldogs-villanova-wildcats-201402260617","Villanova",26,"Ryan Arcidiacono",3,6,2,5,1,1,0, 2,2,0,0,0,0,3,9
+"http://sports.yahoo.com/ncaab/butler-bulldogs-villanova-wildcats-201402260617","Villanova",1,"Patrick Farrell",0,0,0,0,1,3,0, 0,0,0,0,0,0,0,1
+"http://sports.yahoo.com/ncaab/butler-bulldogs-villanova-wildcats-201402260617","Villanova",4,"Henry Lowe",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/butler-bulldogs-villanova-wildcats-201402260617","Villanova",16,"Daniel Ochefu",3,4,0,0,1,4,1, 4,5,0,0,1,0,3,7
+"http://sports.yahoo.com/ncaab/butler-bulldogs-villanova-wildcats-201402260617","Villanova",17,"Kris Jenkins",2,6,2,4,0,0,0, 1,1,1,0,0,0,3,6
+"http://sports.yahoo.com/ncaab/butler-bulldogs-villanova-wildcats-201402260617","Villanova",18,"Josh Hart",2,5,0,1,4,5,6, 2,8,1,2,2,0,2,8
+"http://sports.yahoo.com/ncaab/butler-bulldogs-villanova-wildcats-201402260617","Villanova",5,"Darryl Reynolds",1,1,0,0,0,2,2, 1,3,0,1,0,0,0,2
+"http://sports.yahoo.com/ncaab/presbyterian-blue-hose-coastal-carolina-chanticleers-201402260122","Presbyterian",37,"Jordan Downing",4,15,1,5,1,2,0, 2,2,1,2,0,2,2,10
+"http://sports.yahoo.com/ncaab/presbyterian-blue-hose-coastal-carolina-chanticleers-201402260122","Presbyterian",34,"William Truss",2,5,0,0,2,3,1, 14,15,0,2,1,2,4,6
+"http://sports.yahoo.com/ncaab/presbyterian-blue-hose-coastal-carolina-chanticleers-201402260122","Presbyterian",10,"Austin Anderson",1,2,0,1,0,0,0, 1,1,0,0,0,0,1,2
+"http://sports.yahoo.com/ncaab/presbyterian-blue-hose-coastal-carolina-chanticleers-201402260122","Presbyterian",6,"Jake Campbell",0,1,0,0,0,0,0, 0,0,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/presbyterian-blue-hose-coastal-carolina-chanticleers-201402260122","Presbyterian",12,"Will Adams",0,1,0,1,0,0,0, 4,4,1,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/presbyterian-blue-hose-coastal-carolina-chanticleers-201402260122","Presbyterian",37,"Reggie Dillard",4,10,1,4,0,0,1, 3,4,3,5,0,0,1,9
+"http://sports.yahoo.com/ncaab/presbyterian-blue-hose-coastal-carolina-chanticleers-201402260122","Presbyterian",28,"Markus Terry",6,12,1,4,3,5,1, 0,1,3,1,1,0,0,16
+"http://sports.yahoo.com/ncaab/presbyterian-blue-hose-coastal-carolina-chanticleers-201402260122","Presbyterian",36,"Ed Drew",3,6,0,0,2,2,3, 2,5,1,1,0,0,3,8
+"http://sports.yahoo.com/ncaab/presbyterian-blue-hose-coastal-carolina-chanticleers-201402260122","Coastal Carolina",15,"Eric Smith",2,4,0,2,0,1,0, 0,0,1,0,0,0,2,4
+"http://sports.yahoo.com/ncaab/presbyterian-blue-hose-coastal-carolina-chanticleers-201402260122","Coastal Carolina",33,"Warren Gillis",6,12,2,4,0,0,0, 2,2,3,3,1,0,3,14
+"http://sports.yahoo.com/ncaab/presbyterian-blue-hose-coastal-carolina-chanticleers-201402260122","Coastal Carolina",15,"El Hadji Ndieguene",0,2,0,0,0,0,0, 1,1,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/presbyterian-blue-hose-coastal-carolina-chanticleers-201402260122","Coastal Carolina",22,"Michel Enanga",2,6,0,2,0,0,3, 1,4,0,2,2,1,1,4
+"http://sports.yahoo.com/ncaab/presbyterian-blue-hose-coastal-carolina-chanticleers-201402260122","Coastal Carolina",10,"Uros Ljeskovic",2,2,0,0,2,5,3, 2,5,0,1,0,0,1,6
+"http://sports.yahoo.com/ncaab/presbyterian-blue-hose-coastal-carolina-chanticleers-201402260122","Coastal Carolina",31,"Badou Diagne",5,8,1,3,2,2,4, 14,18,1,0,1,2,2,13
+"http://sports.yahoo.com/ncaab/presbyterian-blue-hose-coastal-carolina-chanticleers-201402260122","Coastal Carolina",3,"Tristian Curtis",1,2,0,0,0,1,0, 1,1,0,0,0,0,0,2
+"http://sports.yahoo.com/ncaab/presbyterian-blue-hose-coastal-carolina-chanticleers-201402260122","Coastal Carolina",2,"Ron Trapps",1,2,1,2,0,0,0, 0,0,0,0,0,0,0,3
+"http://sports.yahoo.com/ncaab/presbyterian-blue-hose-coastal-carolina-chanticleers-201402260122","Coastal Carolina",25,"Josh Cameron",4,12,0,3,3,3,2, 1,3,2,0,0,0,1,11
+"http://sports.yahoo.com/ncaab/presbyterian-blue-hose-coastal-carolina-chanticleers-201402260122","Coastal Carolina",33,"Elijah Wilson",4,17,1,5,0,0,3, 2,5,2,0,4,1,1,9
+"http://sports.yahoo.com/ncaab/presbyterian-blue-hose-coastal-carolina-chanticleers-201402260122","Coastal Carolina",8,"Colton Ray-St Cyr",2,4,0,1,0,0,1, 1,2,0,0,0,0,1,4
+"http://sports.yahoo.com/ncaab/presbyterian-blue-hose-coastal-carolina-chanticleers-201402260122","Coastal Carolina",3,"Kyle Buffkin",0,0,0,0,0,0,0, 0,0,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/campbell-fighting-camels-radford-highlanders-201402260483","Campbell",29,"Reco McCarter",5,12,0,3,0,1,2, 1,3,3,4,0,0,3,10
+"http://sports.yahoo.com/ncaab/campbell-fighting-camels-radford-highlanders-201402260483","Campbell",19,"Darius Leonard",2,3,1,2,0,0,0, 1,1,1,0,0,0,3,5
+"http://sports.yahoo.com/ncaab/campbell-fighting-camels-radford-highlanders-201402260483","Campbell",3,"Marvelle Harris",0,0,0,0,0,0,0, 1,1,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/campbell-fighting-camels-radford-highlanders-201402260483","Campbell",29,"Andrew Ryan",7,13,3,4,1,2,2, 1,3,3,2,1,0,1,18
+"http://sports.yahoo.com/ncaab/campbell-fighting-camels-radford-highlanders-201402260483","Campbell",19,"Luke Moyer",4,5,4,5,0,0,0, 1,1,2,3,0,0,0,12
+"http://sports.yahoo.com/ncaab/campbell-fighting-camels-radford-highlanders-201402260483","Campbell",31,"Leek Leek",3,6,3,6,0,0,1, 3,4,2,1,1,1,3,9
+"http://sports.yahoo.com/ncaab/campbell-fighting-camels-radford-highlanders-201402260483","Campbell",25,"D.J. Mason",7,10,2,2,2,2,4, 4,8,1,2,0,0,3,18
+"http://sports.yahoo.com/ncaab/campbell-fighting-camels-radford-highlanders-201402260483","Campbell",24,"Kyre' Hamer",1,5,0,2,0,0,0, 4,4,4,2,1,1,3,2
+"http://sports.yahoo.com/ncaab/campbell-fighting-camels-radford-highlanders-201402260483","Campbell",21,"Quinton Ray",2,4,0,0,0,0,3, 2,5,0,2,0,0,2,4
+"http://sports.yahoo.com/ncaab/campbell-fighting-camels-radford-highlanders-201402260483","Radford",11,"Allen Dickerson",2,2,1,1,0,0,0, 0,0,0,0,0,0,0,5
+"http://sports.yahoo.com/ncaab/campbell-fighting-camels-radford-highlanders-201402260483","Radford",21,"Javonte Green",1,4,0,0,7,10,1, 3,4,1,1,4,0,2,9
+"http://sports.yahoo.com/ncaab/campbell-fighting-camels-radford-highlanders-201402260483","Radford",27,"R.J. Price",7,13,5,9,5,6,1, 2,3,2,0,1,0,1,24
+"http://sports.yahoo.com/ncaab/campbell-fighting-camels-radford-highlanders-201402260483","Radford",18,"Jalen Carethers",2,7,0,0,1,1,1, 3,4,0,0,1,2,2,5
+"http://sports.yahoo.com/ncaab/campbell-fighting-camels-radford-highlanders-201402260483","Radford",27,"Kyle Noreen",3,6,1,3,2,3,1, 0,1,3,0,1,0,1,9
+"http://sports.yahoo.com/ncaab/campbell-fighting-camels-radford-highlanders-201402260483","Radford",17,"Brandon Holcomb",0,2,0,0,1,2,0, 2,2,1,1,0,2,1,1
+"http://sports.yahoo.com/ncaab/campbell-fighting-camels-radford-highlanders-201402260483","Radford",23,"Kion Brown",6,8,0,0,0,0,2, 2,4,1,1,0,1,1,12
+"http://sports.yahoo.com/ncaab/campbell-fighting-camels-radford-highlanders-201402260483","Radford",28,"Rashun Davis",3,5,0,1,0,0,0, 0,0,4,1,0,0,3,6
+"http://sports.yahoo.com/ncaab/campbell-fighting-camels-radford-highlanders-201402260483","Radford",28,"Ya Ya Anderson",4,6,3,5,0,0,0, 0,0,1,1,1,0,0,11
+"http://sports.yahoo.com/ncaab/unc-asheville-bulldogs-winthrop-eagles-201402260649","N.C. Asheville",44,"Jaron Lane",7,12,3,5,5,8,1, 5,6,0,3,2,0,1,22
+"http://sports.yahoo.com/ncaab/unc-asheville-bulldogs-winthrop-eagles-201402260649","N.C. Asheville",33,"D.J. Cunningham",5,8,0,0,1,2,2, 6,8,2,5,2,2,3,11
+"http://sports.yahoo.com/ncaab/unc-asheville-bulldogs-winthrop-eagles-201402260649","N.C. Asheville",1,"Chudier Pal",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/unc-asheville-bulldogs-winthrop-eagles-201402260649","N.C. Asheville",31,"Corey Littlejohn",5,6,1,1,0,2,1, 3,4,2,3,0,2,5,11
+"http://sports.yahoo.com/ncaab/unc-asheville-bulldogs-winthrop-eagles-201402260649","N.C. Asheville",10,"Jaleel Roberts",1,2,0,1,0,0,1, 2,3,0,1,0,1,4,2
+"http://sports.yahoo.com/ncaab/unc-asheville-bulldogs-winthrop-eagles-201402260649","N.C. Asheville",36,"Sam Hughes",3,8,0,2,4,5,2, 3,5,4,0,0,0,3,10
+"http://sports.yahoo.com/ncaab/unc-asheville-bulldogs-winthrop-eagles-201402260649","N.C. Asheville",23,"David Robertson",2,3,1,2,0,0,0, 1,1,1,1,1,0,5,5
+"http://sports.yahoo.com/ncaab/unc-asheville-bulldogs-winthrop-eagles-201402260649","N.C. Asheville",40,"Andrew Rowsey",12,20,8,13,5,7,0, 6,6,3,6,1,0,2,37
+"http://sports.yahoo.com/ncaab/unc-asheville-bulldogs-winthrop-eagles-201402260649","N.C. Asheville",7,"Giacomo Zilli",1,1,0,0,0,0,0, 0,0,0,2,0,0,3,2
+"http://sports.yahoo.com/ncaab/unc-asheville-bulldogs-winthrop-eagles-201402260649","Winthrop",33,"Joab Jerome",3,8,3,6,8,10,1, 3,4,2,5,1,0,4,17
+"http://sports.yahoo.com/ncaab/unc-asheville-bulldogs-winthrop-eagles-201402260649","Winthrop",6,"Donovan Carter",0,0,0,0,0,0,0, 0,0,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/unc-asheville-bulldogs-winthrop-eagles-201402260649","Winthrop",29,"James Bourne",2,3,0,0,2,4,2, 4,6,0,0,0,0,1,6
+"http://sports.yahoo.com/ncaab/unc-asheville-bulldogs-winthrop-eagles-201402260649","Winthrop",35,"Andre Smith",5,10,3,5,4,4,0, 2,2,6,3,1,0,2,17
+"http://sports.yahoo.com/ncaab/unc-asheville-bulldogs-winthrop-eagles-201402260649","Winthrop",8,"Larry Brown",0,3,0,0,0,2,2, 0,2,0,0,0,0,5,0
+"http://sports.yahoo.com/ncaab/unc-asheville-bulldogs-winthrop-eagles-201402260649","Winthrop",41,"Keon Moore",8,15,3,8,3,4,0, 1,1,1,1,3,1,4,22
+"http://sports.yahoo.com/ncaab/unc-asheville-bulldogs-winthrop-eagles-201402260649","Winthrop",16,"Tevin Prescott",3,6,0,0,0,1,1, 1,2,0,0,0,1,3,6
+"http://sports.yahoo.com/ncaab/unc-asheville-bulldogs-winthrop-eagles-201402260649","Winthrop",33,"Keon Johnson",8,15,5,6,6,8,1, 3,4,3,1,3,0,1,27
+"http://sports.yahoo.com/ncaab/unc-asheville-bulldogs-winthrop-eagles-201402260649","Winthrop",17,"Josh Davenport",4,5,1,1,3,3,0, 0,0,2,1,3,0,2,12
+"http://sports.yahoo.com/ncaab/unc-asheville-bulldogs-winthrop-eagles-201402260649","Winthrop",7,"Jarad Scott",0,1,0,1,0,0,0, 1,1,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/vmi-keydets-high-point-panthers-201402261112","Virginia Military",32,"D.J. Covington",7,12,0,0,5,7,6, 8,14,0,5,0,0,4,19
+"http://sports.yahoo.com/ncaab/vmi-keydets-high-point-panthers-201402261112","Virginia Military",36,"Rodney Glasgow",7,19,1,9,0,0,1, 2,3,3,2,2,0,1,15
+"http://sports.yahoo.com/ncaab/vmi-keydets-high-point-panthers-201402261112","Virginia Military",17,"Brian Brown",0,2,0,2,0,0,1, 1,2,1,1,1,0,0,0
+"http://sports.yahoo.com/ncaab/vmi-keydets-high-point-panthers-201402261112","Virginia Military",4,"Jarid Watson",0,0,0,0,0,0,0, 0,0,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/vmi-keydets-high-point-panthers-201402261112","Virginia Military",10,"Jordan Weethee",1,5,0,3,2,2,1, 2,3,0,0,0,1,1,4
+"http://sports.yahoo.com/ncaab/vmi-keydets-high-point-panthers-201402261112","Virginia Military",15,"Phillip Anglade",0,0,0,0,0,0,1, 4,5,1,0,0,2,2,0
+"http://sports.yahoo.com/ncaab/vmi-keydets-high-point-panthers-201402261112","Virginia Military",21,"Tim Marshall",5,10,4,8,1,3,1, 1,2,1,1,0,0,0,15
+"http://sports.yahoo.com/ncaab/vmi-keydets-high-point-panthers-201402261112","Virginia Military",24,"Trey Chapman",1,3,0,0,2,2,2, 4,6,2,0,2,0,2,4
+"http://sports.yahoo.com/ncaab/vmi-keydets-high-point-panthers-201402261112","Virginia Military",38,"QJ Peterson",4,16,1,8,1,2,0, 1,1,2,1,1,0,3,10
+"http://sports.yahoo.com/ncaab/vmi-keydets-high-point-panthers-201402261112","Virginia Military",3,"Craig Hinton",0,0,0,0,0,0,0, 1,1,0,1,0,0,0,0
+"http://sports.yahoo.com/ncaab/vmi-keydets-high-point-panthers-201402261112","High Point",35,"Devante Wallace",6,11,1,3,3,4,0, 5,5,2,3,1,2,1,16
+"http://sports.yahoo.com/ncaab/vmi-keydets-high-point-panthers-201402261112","High Point",36,"John Brown",12,18,0,0,3,4,3, 7,10,3,1,2,0,1,27
+"http://sports.yahoo.com/ncaab/vmi-keydets-high-point-panthers-201402261112","High Point",19,"Derrell Edwards",1,3,0,0,0,0,0, 0,0,2,3,0,0,2,2
+"http://sports.yahoo.com/ncaab/vmi-keydets-high-point-panthers-201402261112","High Point",4,"Cliff Cornish",1,1,0,0,0,0,1, 0,1,0,1,0,0,2,2
+"http://sports.yahoo.com/ncaab/vmi-keydets-high-point-panthers-201402261112","High Point",11,"Haiishen McIntyre",2,3,0,0,0,0,0, 1,1,2,0,1,0,0,4
+"http://sports.yahoo.com/ncaab/vmi-keydets-high-point-panthers-201402261112","High Point",36,"Lorenzo Cugini",1,5,0,2,1,2,0, 5,5,1,0,2,0,3,3
+"http://sports.yahoo.com/ncaab/vmi-keydets-high-point-panthers-201402261112","High Point",2,"Tarique Thompson",0,1,0,0,0,0,1, 1,2,0,1,0,0,0,0
+"http://sports.yahoo.com/ncaab/vmi-keydets-high-point-panthers-201402261112","High Point",32,"Jorge Perez-Laham",2,4,0,1,2,2,0, 2,2,6,3,0,0,1,6
+"http://sports.yahoo.com/ncaab/vmi-keydets-high-point-panthers-201402261112","High Point",25,"Anthony Lindauer",4,10,2,8,0,0,0, 1,1,2,0,0,0,4,10
+"http://sports.yahoo.com/ncaab/gardner-webb-runnin-bulldogs-charleston-southern-buccaneers-201402260111","Gardner-Webb",32,"Naji Hibbert",3,9,1,2,3,4,0, 0,0,5,1,1,0,3,10
+"http://sports.yahoo.com/ncaab/gardner-webb-runnin-bulldogs-charleston-southern-buccaneers-201402260111","Gardner-Webb",8,"Jarvis Davis",1,2,0,1,1,1,0, 0,0,0,0,0,0,0,3
+"http://sports.yahoo.com/ncaab/gardner-webb-runnin-bulldogs-charleston-southern-buccaneers-201402260111","Gardner-Webb",20,"Josh Castellanos",1,2,1,1,0,0,0, 1,1,2,1,1,0,1,3
+"http://sports.yahoo.com/ncaab/gardner-webb-runnin-bulldogs-charleston-southern-buccaneers-201402260111","Gardner-Webb",12,"Mike Byron",0,1,0,0,0,0,1, 2,3,0,1,1,3,2,0
+"http://sports.yahoo.com/ncaab/gardner-webb-runnin-bulldogs-charleston-southern-buccaneers-201402260111","Gardner-Webb",28,"Donta Harper",4,8,0,0,3,5,0, 2,2,1,2,0,1,0,11
+"http://sports.yahoo.com/ncaab/gardner-webb-runnin-bulldogs-charleston-southern-buccaneers-201402260111","Gardner-Webb",31,"Tyler Strange",4,6,3,4,0,0,0, 2,2,2,0,1,0,0,11
+"http://sports.yahoo.com/ncaab/gardner-webb-runnin-bulldogs-charleston-southern-buccaneers-201402260111","Gardner-Webb",19,"Onzie Branch",4,6,0,0,5,7,2, 1,3,2,2,0,0,1,13
+"http://sports.yahoo.com/ncaab/gardner-webb-runnin-bulldogs-charleston-southern-buccaneers-201402260111","Gardner-Webb",33,"Jerome Hill",9,16,0,0,5,7,2, 2,4,1,1,1,0,2,23
+"http://sports.yahoo.com/ncaab/gardner-webb-runnin-bulldogs-charleston-southern-buccaneers-201402260111","Gardner-Webb",0,"Logan Stumpf",0,1,0,1,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/gardner-webb-runnin-bulldogs-charleston-southern-buccaneers-201402260111","Gardner-Webb",17,"Tyrell Nelson",2,5,0,0,0,0,3, 4,7,1,1,1,1,0,4
+"http://sports.yahoo.com/ncaab/gardner-webb-runnin-bulldogs-charleston-southern-buccaneers-201402260111","Charleston Sou.",12,"Alhaji Fullah",2,2,0,0,0,0,0, 1,1,0,1,0,0,1,4
+"http://sports.yahoo.com/ncaab/gardner-webb-runnin-bulldogs-charleston-southern-buccaneers-201402260111","Charleston Sou.",38,"Sheldon Strickland",6,10,2,3,0,0,0, 1,1,3,4,0,0,1,14
+"http://sports.yahoo.com/ncaab/gardner-webb-runnin-bulldogs-charleston-southern-buccaneers-201402260111","Charleston Sou.",39,"Matt Kennedy",6,10,2,2,2,2,0, 0,0,0,3,2,0,1,16
+"http://sports.yahoo.com/ncaab/gardner-webb-runnin-bulldogs-charleston-southern-buccaneers-201402260111","Charleston Sou.",3,"Mitchell Deter",0,0,0,0,0,0,0, 0,0,0,1,0,0,0,0
+"http://sports.yahoo.com/ncaab/gardner-webb-runnin-bulldogs-charleston-southern-buccaneers-201402260111","Charleston Sou.",2,"Greg Dorleus",0,1,0,0,0,0,0, 1,1,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/gardner-webb-runnin-bulldogs-charleston-southern-buccaneers-201402260111","Charleston Sou.",19,"Will Saunders",2,5,1,4,0,0,1, 0,1,0,0,0,0,1,5
+"http://sports.yahoo.com/ncaab/gardner-webb-runnin-bulldogs-charleston-southern-buccaneers-201402260111","Charleston Sou.",2,"Thomas Odom",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/gardner-webb-runnin-bulldogs-charleston-southern-buccaneers-201402260111","Charleston Sou.",30,"Paul Gombwer",6,7,0,0,2,4,4, 8,12,2,2,1,0,2,14
+"http://sports.yahoo.com/ncaab/gardner-webb-runnin-bulldogs-charleston-southern-buccaneers-201402260111","Charleston Sou.",17,"Cedrick Bowen",2,6,0,0,0,0,3, 4,7,0,0,1,0,1,4
+"http://sports.yahoo.com/ncaab/gardner-webb-runnin-bulldogs-charleston-southern-buccaneers-201402260111","Charleston Sou.",26,"Arlon Harper",4,10,2,6,7,7,0, 2,2,1,1,0,1,5,17
+"http://sports.yahoo.com/ncaab/gardner-webb-runnin-bulldogs-charleston-southern-buccaneers-201402260111","Charleston Sou.",9,"Malcolm Bernard",0,1,0,0,0,0,2, 1,3,1,1,0,0,2,0
+"http://sports.yahoo.com/ncaab/gardner-webb-runnin-bulldogs-charleston-southern-buccaneers-201402260111","Charleston Sou.",3,"Ty'Quan Bitting",1,2,0,0,0,0,1, 1,2,0,0,0,1,2,2
+"http://sports.yahoo.com/ncaab/michigan-wolverines-purdue-boilermakers-201402260474","Michigan",33,"Jordan Morgan",6,8,0,0,1,3,3, 6,9,3,0,2,1,3,13
+"http://sports.yahoo.com/ncaab/michigan-wolverines-purdue-boilermakers-201402260474","Michigan",11,"Jon Horford",0,1,0,0,0,0,1, 1,2,0,0,0,1,3,0
+"http://sports.yahoo.com/ncaab/michigan-wolverines-purdue-boilermakers-201402260474","Michigan",39,"Glenn Robinson III",7,11,0,1,3,4,2, 6,8,3,1,0,0,2,17
+"http://sports.yahoo.com/ncaab/michigan-wolverines-purdue-boilermakers-201402260474","Michigan",21,"Spike Albrecht",1,5,0,3,0,0,0, 0,0,4,1,2,0,2,2
+"http://sports.yahoo.com/ncaab/michigan-wolverines-purdue-boilermakers-201402260474","Michigan",41,"Nik Stauskas",5,18,0,4,5,7,1, 1,2,3,2,0,0,2,15
+"http://sports.yahoo.com/ncaab/michigan-wolverines-purdue-boilermakers-201402260474","Michigan",41,"Caris LeVert",4,12,2,5,4,4,3, 4,7,4,1,1,0,1,14
+"http://sports.yahoo.com/ncaab/michigan-wolverines-purdue-boilermakers-201402260474","Michigan",24,"Derrick Walton Jr.",2,6,2,6,2,4,2, 2,4,1,2,1,0,0,8
+"http://sports.yahoo.com/ncaab/michigan-wolverines-purdue-boilermakers-201402260474","Michigan",15,"Zak Irvin",2,4,2,4,2,3,0, 1,1,1,0,0,0,1,8
+"http://sports.yahoo.com/ncaab/michigan-wolverines-purdue-boilermakers-201402260474","Purdue",13,"Errick Peck",0,1,0,0,0,0,0, 0,0,1,0,0,1,0,0
+"http://sports.yahoo.com/ncaab/michigan-wolverines-purdue-boilermakers-201402260474","Purdue",41,"Terone Johnson",7,14,4,8,4,4,1, 3,4,3,3,0,0,0,22
+"http://sports.yahoo.com/ncaab/michigan-wolverines-purdue-boilermakers-201402260474","Purdue",6,"Travis Carroll",0,2,0,0,0,0,2, 1,3,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/michigan-wolverines-purdue-boilermakers-201402260474","Purdue",37,"Rapheal Davis",2,10,0,2,6,6,5, 5,10,3,0,0,0,2,10
+"http://sports.yahoo.com/ncaab/michigan-wolverines-purdue-boilermakers-201402260474","Purdue",31,"A.J. Hammons",4,7,0,0,3,3,3, 3,6,0,2,1,3,5,11
+"http://sports.yahoo.com/ncaab/michigan-wolverines-purdue-boilermakers-201402260474","Purdue",41,"Ronnie Johnson",9,15,1,3,2,2,0, 4,4,7,4,2,0,4,21
+"http://sports.yahoo.com/ncaab/michigan-wolverines-purdue-boilermakers-201402260474","Purdue",10,"Bryson Scott",0,1,0,1,0,0,0, 1,1,0,2,0,0,1,0
+"http://sports.yahoo.com/ncaab/michigan-wolverines-purdue-boilermakers-201402260474","Purdue",19,"Basil Smotherman",1,2,0,1,0,0,1, 1,2,1,0,0,0,2,2
+"http://sports.yahoo.com/ncaab/michigan-wolverines-purdue-boilermakers-201402260474","Purdue",27,"Kendall Stephens",3,11,2,9,2,3,0, 4,4,0,0,0,0,3,10
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-illinois-fighting-illini-201402260267","Nebraska",18,"Ray Gallegos",0,1,0,1,0,0,0, 2,2,0,1,0,1,4,0
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-illinois-fighting-illini-201402260267","Nebraska",13,"Leslee Smith",4,4,0,0,1,1,1, 3,4,1,2,0,0,3,9
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-illinois-fighting-illini-201402260267","Nebraska",27,"Walter Pitchford",1,6,0,3,0,0,1, 4,5,1,1,0,1,1,2
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-illinois-fighting-illini-201402260267","Nebraska",30,"David Rivers",4,4,0,0,0,0,1, 2,3,0,0,1,0,2,8
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-illinois-fighting-illini-201402260267","Nebraska",33,"Terran Petteway",5,18,1,6,2,2,0, 1,1,3,3,1,2,4,13
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-illinois-fighting-illini-201402260267","Nebraska",18,"Benny Parker",3,3,0,0,0,0,0, 1,1,1,1,1,0,2,6
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-illinois-fighting-illini-201402260267","Nebraska",36,"Shavon Shields",2,7,1,1,3,4,0, 9,9,1,4,0,0,2,8
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-illinois-fighting-illini-201402260267","Nebraska",3,"Nathan Hawkins",0,0,0,0,0,0,0, 2,2,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-illinois-fighting-illini-201402260267","Nebraska",22,"Tai Webster",1,2,1,2,0,0,0, 1,1,0,3,0,0,1,3
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-illinois-fighting-illini-201402260267","Illinois",18,"Joseph Bertrand",2,4,1,3,1,2,2, 0,2,0,1,0,0,2,6
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-illinois-fighting-illini-201402260267","Illinois",20,"Jon Ekey",3,5,2,4,0,0,4, 2,6,1,0,3,0,3,8
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-illinois-fighting-illini-201402260267","Illinois",31,"Rayvonte Rice",3,13,1,5,3,5,2, 7,9,1,2,4,0,2,10
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-illinois-fighting-illini-201402260267","Illinois",34,"Tracy Abrams",0,7,0,5,1,3,0, 4,4,5,0,2,0,1,1
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-illinois-fighting-illini-201402260267","Illinois",28,"Nnanna Egwu",3,11,0,1,2,2,2, 3,5,0,1,1,0,3,8
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-illinois-fighting-illini-201402260267","Illinois",6,"Jaylon Tate",0,0,0,0,0,1,0, 0,0,1,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-illinois-fighting-illini-201402260267","Illinois",20,"Malcolm Hill",2,3,2,2,4,4,1, 4,5,1,2,0,0,0,10
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-illinois-fighting-illini-201402260267","Illinois",7,"Maverick Morgan",1,1,0,0,0,0,0, 0,0,0,1,0,0,0,2
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-illinois-fighting-illini-201402260267","Illinois",31,"Kendrick Nunn",4,6,3,4,2,2,0, 3,3,3,2,1,0,0,13
+"http://sports.yahoo.com/ncaab/nebraska-cornhuskers-illinois-fighting-illini-201402260267","Illinois",5,"Austin Colbert",1,1,0,0,0,0,0, 0,0,0,0,0,0,0,2
+"http://sports.yahoo.com/ncaab/charleston-cougars-drexel-dragons-201402260172","Charleston",28,"Willis Hall",4,11,1,4,0,0,2, 1,3,0,5,0,0,3,9
+"http://sports.yahoo.com/ncaab/charleston-cougars-drexel-dragons-201402260172","Charleston",25,"Anthony Thomas",2,5,0,0,0,0,2, 3,5,0,1,1,0,1,4
+"http://sports.yahoo.com/ncaab/charleston-cougars-drexel-dragons-201402260172","Charleston",23,"Nori Johnson",2,5,2,5,0,0,0, 3,3,2,1,1,0,5,6
+"http://sports.yahoo.com/ncaab/charleston-cougars-drexel-dragons-201402260172","Charleston",27,"David Wishon",3,6,0,0,0,0,2, 1,3,2,1,0,2,1,6
+"http://sports.yahoo.com/ncaab/charleston-cougars-drexel-dragons-201402260172","Charleston",18,"Adjehi Baru",0,5,0,0,2,2,1, 1,2,0,0,0,0,1,2
+"http://sports.yahoo.com/ncaab/charleston-cougars-drexel-dragons-201402260172","Charleston",37,"Anthony Stitt",2,9,1,5,0,0,0, 6,6,3,2,1,0,1,5
+"http://sports.yahoo.com/ncaab/charleston-cougars-drexel-dragons-201402260172","Charleston",23,"Canyon Barry",2,5,0,0,1,2,0, 2,2,2,1,1,0,2,5
+"http://sports.yahoo.com/ncaab/charleston-cougars-drexel-dragons-201402260172","Charleston",19,"Theo Johnson",2,6,0,3,4,4,2, 1,3,1,2,0,2,3,8
+"http://sports.yahoo.com/ncaab/charleston-cougars-drexel-dragons-201402260172","Drexel",34,"Chris Fouch",3,10,1,7,4,4,0, 1,1,0,2,4,1,1,11
+"http://sports.yahoo.com/ncaab/charleston-cougars-drexel-dragons-201402260172","Drexel",38,"Frantz Massenat",6,15,1,3,11,12,1, 2,3,4,4,1,1,0,24
+"http://sports.yahoo.com/ncaab/charleston-cougars-drexel-dragons-201402260172","Drexel",29,"Dartaye Ruffin",4,5,0,0,0,0,3, 7,10,0,0,1,0,3,8
+"http://sports.yahoo.com/ncaab/charleston-cougars-drexel-dragons-201402260172","Drexel",4,"Stevan Manojlovic",0,0,0,0,0,0,0, 0,0,0,0,1,0,0,0
+"http://sports.yahoo.com/ncaab/charleston-cougars-drexel-dragons-201402260172","Drexel",1,"Jake Lerner",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/charleston-cougars-drexel-dragons-201402260172","Drexel",4,"Goran Pantovic",0,0,0,0,0,0,0, 1,1,0,0,0,2,0,0
+"http://sports.yahoo.com/ncaab/charleston-cougars-drexel-dragons-201402260172","Drexel",25,"Tavon Allen",1,7,0,2,0,0,2, 0,2,1,2,1,0,0,2
+"http://sports.yahoo.com/ncaab/charleston-cougars-drexel-dragons-201402260172","Drexel",13,"Mohamed Bah",1,2,0,0,0,0,1, 0,1,0,0,0,2,1,2
+"http://sports.yahoo.com/ncaab/charleston-cougars-drexel-dragons-201402260172","Drexel",1,"Khris Lane",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/charleston-cougars-drexel-dragons-201402260172","Drexel",34,"Rodney Williams",3,6,0,0,3,4,2, 4,6,2,0,0,0,3,9
+"http://sports.yahoo.com/ncaab/charleston-cougars-drexel-dragons-201402260172","Drexel",17,"Major Canady",0,2,0,0,0,0,1, 3,4,1,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/towson-tigers-james-madison-dukes-201402260282","Towson",32,"Mike Burwell",1,9,0,3,0,0,0, 3,3,0,2,0,0,5,2
+"http://sports.yahoo.com/ncaab/towson-tigers-james-madison-dukes-201402260282","Towson",40,"Jerrelle Benimon",9,19,1,3,9,10,3, 13,16,0,1,0,0,1,28
+"http://sports.yahoo.com/ncaab/towson-tigers-james-madison-dukes-201402260282","Towson",24,"Marcus Damas",2,8,0,1,2,2,0, 4,4,0,1,0,1,5,6
+"http://sports.yahoo.com/ncaab/towson-tigers-james-madison-dukes-201402260282","Towson",19,"Four McGlynn",0,4,0,3,4,4,0, 0,0,0,0,0,0,1,4
+"http://sports.yahoo.com/ncaab/towson-tigers-james-madison-dukes-201402260282","Towson",34,"Rafriel Guthrie",3,10,0,2,10,10,1, 2,3,1,1,2,1,2,16
+"http://sports.yahoo.com/ncaab/towson-tigers-james-madison-dukes-201402260282","Towson",26,"Timajh Parker-Rivera",2,4,0,0,5,5,3, 4,7,0,1,1,1,5,9
+"http://sports.yahoo.com/ncaab/towson-tigers-james-madison-dukes-201402260282","Towson",11,"John Davis",2,2,0,0,0,0,2, 1,3,0,0,0,0,4,4
+"http://sports.yahoo.com/ncaab/towson-tigers-james-madison-dukes-201402260282","Towson",14,"Walter Foster",0,0,0,0,0,0,2, 0,2,1,0,0,0,2,0
+"http://sports.yahoo.com/ncaab/towson-tigers-james-madison-dukes-201402260282","James Madison",33,"Andrey Semenov",7,13,6,11,2,2,0, 5,5,2,3,0,1,4,22
+"http://sports.yahoo.com/ncaab/towson-tigers-james-madison-dukes-201402260282","James Madison",3,"Christian Pierce",0,0,0,0,0,0,0, 0,0,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/towson-tigers-james-madison-dukes-201402260282","James Madison",39,"Ron Curry",3,9,0,4,2,5,0, 1,1,5,1,0,0,2,8
+"http://sports.yahoo.com/ncaab/towson-tigers-james-madison-dukes-201402260282","James Madison",38,"Charles Cooke",3,12,1,5,8,9,1, 3,4,2,2,1,2,2,15
+"http://sports.yahoo.com/ncaab/towson-tigers-james-madison-dukes-201402260282","James Madison",35,"Andre Nation",3,7,0,1,4,7,2, 4,6,3,1,2,1,4,10
+"http://sports.yahoo.com/ncaab/towson-tigers-james-madison-dukes-201402260282","James Madison",23,"Taylor Bessick",4,7,0,0,1,3,2, 1,3,0,0,1,1,5,9
+"http://sports.yahoo.com/ncaab/towson-tigers-james-madison-dukes-201402260282","James Madison",6,"Jackson Kent",0,1,0,1,0,0,0, 1,1,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/towson-tigers-james-madison-dukes-201402260282","James Madison",13,"Tom Vodanovich",1,3,0,1,0,0,1, 0,1,0,0,0,0,4,2
+"http://sports.yahoo.com/ncaab/towson-tigers-james-madison-dukes-201402260282","James Madison",10,"Yohanny Dalembert",0,1,0,0,0,0,0, 0,0,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/delaware-fightin-blue-hens-uncw-seahawks-201402260398","Delaware",36,"Carl Baptiste",5,9,0,0,0,0,4, 12,16,0,3,0,2,3,10
+"http://sports.yahoo.com/ncaab/delaware-fightin-blue-hens-uncw-seahawks-201402260398","Delaware",39,"Devon Saddler",5,17,0,4,1,2,3, 5,8,2,0,1,1,2,11
+"http://sports.yahoo.com/ncaab/delaware-fightin-blue-hens-uncw-seahawks-201402260398","Delaware",38,"Jarvis Threatt",7,10,1,1,9,20,0, 3,3,6,2,4,1,1,24
+"http://sports.yahoo.com/ncaab/delaware-fightin-blue-hens-uncw-seahawks-201402260398","Delaware",33,"Kyle Anderson",4,11,3,9,0,0,0, 2,2,3,0,0,1,4,11
+"http://sports.yahoo.com/ncaab/delaware-fightin-blue-hens-uncw-seahawks-201402260398","Delaware",4,"Marvin King-Davis",0,0,0,0,0,2,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/delaware-fightin-blue-hens-uncw-seahawks-201402260398","Delaware",30,"Davon Usher",3,10,2,6,3,8,1, 4,5,1,2,5,0,4,11
+"http://sports.yahoo.com/ncaab/delaware-fightin-blue-hens-uncw-seahawks-201402260398","Delaware",0,"Barnett Harris",0,0,0,0,0,0,0, 0,0,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/delaware-fightin-blue-hens-uncw-seahawks-201402260398","Delaware",10,"Cazmon Hayes",1,1,0,0,1,2,2, 0,2,0,1,0,0,1,3
+"http://sports.yahoo.com/ncaab/delaware-fightin-blue-hens-uncw-seahawks-201402260398","Delaware",10,"Devonne Pinkard",0,0,0,0,0,0,0, 3,3,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/delaware-fightin-blue-hens-uncw-seahawks-201402260398","N.C. Wilmington",13,"Ben Eblen",0,0,0,0,2,3,0, 1,1,0,0,0,0,4,2
+"http://sports.yahoo.com/ncaab/delaware-fightin-blue-hens-uncw-seahawks-201402260398","N.C. Wilmington",25,"Chris Dixon",2,10,0,4,1,2,0, 5,5,4,2,2,0,4,5
+"http://sports.yahoo.com/ncaab/delaware-fightin-blue-hens-uncw-seahawks-201402260398","N.C. Wilmington",24,"Tanner Milson",3,5,3,4,2,2,0, 0,0,1,1,1,0,4,11
+"http://sports.yahoo.com/ncaab/delaware-fightin-blue-hens-uncw-seahawks-201402260398","N.C. Wilmington",21,"Shane Reybold",3,8,0,0,0,0,2, 7,9,1,2,0,4,4,6
+"http://sports.yahoo.com/ncaab/delaware-fightin-blue-hens-uncw-seahawks-201402260398","N.C. Wilmington",6,"Marcus Graham",1,4,0,0,0,0,1, 0,1,0,0,0,0,1,2
+"http://sports.yahoo.com/ncaab/delaware-fightin-blue-hens-uncw-seahawks-201402260398","N.C. Wilmington",9,"Luke Hager",0,4,0,1,0,0,1, 0,1,0,1,1,0,1,0
+"http://sports.yahoo.com/ncaab/delaware-fightin-blue-hens-uncw-seahawks-201402260398","N.C. Wilmington",20,"Freddie Jackson",4,7,1,3,0,0,0, 5,5,3,3,0,1,1,9
+"http://sports.yahoo.com/ncaab/delaware-fightin-blue-hens-uncw-seahawks-201402260398","N.C. Wilmington",15,"Craig Ponder",1,6,0,1,0,0,1, 4,5,0,1,0,0,3,2
+"http://sports.yahoo.com/ncaab/delaware-fightin-blue-hens-uncw-seahawks-201402260398","N.C. Wilmington",20,"Dylan Sherwood",3,9,1,5,2,4,1, 2,3,0,1,0,0,1,9
+"http://sports.yahoo.com/ncaab/delaware-fightin-blue-hens-uncw-seahawks-201402260398","N.C. Wilmington",21,"Cedrick Williams",1,3,0,0,3,5,6, 2,8,0,2,0,0,2,5
+"http://sports.yahoo.com/ncaab/delaware-fightin-blue-hens-uncw-seahawks-201402260398","N.C. Wilmington",5,"Zack Allen",0,1,0,1,0,0,0, 0,0,1,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/delaware-fightin-blue-hens-uncw-seahawks-201402260398","N.C. Wilmington",6,"Chuck Ogbodo",0,2,0,0,0,0,1, 1,2,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/delaware-fightin-blue-hens-uncw-seahawks-201402260398","N.C. Wilmington",15,"Addison Spruill",2,6,0,1,2,3,2, 3,5,1,0,0,0,1,6
+"http://sports.yahoo.com/ncaab/hofstra-pride-william-and-mary-tribe-201402260658","Hofstra",40,"Zeke Upshaw",7,20,7,15,7,7,0, 2,2,2,4,2,0,0,28
+"http://sports.yahoo.com/ncaab/hofstra-pride-william-and-mary-tribe-201402260658","Hofstra",40,"Dion Nesmith",5,18,2,6,3,4,0, 2,2,5,1,1,0,1,15
+"http://sports.yahoo.com/ncaab/hofstra-pride-william-and-mary-tribe-201402260658","Hofstra",17,"Stephen Nwaukoni",0,3,0,0,1,2,4, 8,12,0,0,0,0,5,1
+"http://sports.yahoo.com/ncaab/hofstra-pride-william-and-mary-tribe-201402260658","Hofstra",35,"Jordan Allen",0,3,0,0,3,4,2, 0,2,0,2,0,0,5,3
+"http://sports.yahoo.com/ncaab/hofstra-pride-william-and-mary-tribe-201402260658","Hofstra",22,"Moussa Kone",5,6,0,0,0,0,6, 2,8,3,2,1,1,5,10
+"http://sports.yahoo.com/ncaab/hofstra-pride-william-and-mary-tribe-201402260658","Hofstra",8,"Darren Payen",0,1,0,1,2,2,1, 3,4,0,1,0,1,1,2
+"http://sports.yahoo.com/ncaab/hofstra-pride-william-and-mary-tribe-201402260658","Hofstra",38,"Jamall Robinson",6,11,2,4,1,2,2, 1,3,1,1,1,1,2,15
+"http://sports.yahoo.com/ncaab/hofstra-pride-william-and-mary-tribe-201402260658","Hofstra",0,"Dan Steinberg",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/hofstra-pride-william-and-mary-tribe-201402260658","William & Mary",23,"Kyle Gaillard",6,7,3,3,0,0,1, 1,2,3,1,0,1,2,15
+"http://sports.yahoo.com/ncaab/hofstra-pride-william-and-mary-tribe-201402260658","William & Mary",16,"Julian Boatner",2,2,1,1,0,0,0, 0,0,1,0,0,0,0,5
+"http://sports.yahoo.com/ncaab/hofstra-pride-william-and-mary-tribe-201402260658","William & Mary",31,"Brandon Britt",7,13,0,3,2,2,0, 0,0,3,2,0,0,1,16
+"http://sports.yahoo.com/ncaab/hofstra-pride-william-and-mary-tribe-201402260658","William & Mary",26,"Tim Rusthoven",1,4,0,0,0,0,1, 4,5,3,1,1,1,3,2
+"http://sports.yahoo.com/ncaab/hofstra-pride-william-and-mary-tribe-201402260658","William & Mary",31,"Marcus Thornton",4,11,1,6,4,4,0, 1,1,2,3,0,0,3,13
+"http://sports.yahoo.com/ncaab/hofstra-pride-william-and-mary-tribe-201402260658","William & Mary",14,"Sean Sheldon",0,1,0,0,3,4,0, 3,3,0,0,0,0,1,3
+"http://sports.yahoo.com/ncaab/hofstra-pride-william-and-mary-tribe-201402260658","William & Mary",24,"Terry Tarpey",2,2,0,0,2,2,2, 8,10,4,3,2,1,4,6
+"http://sports.yahoo.com/ncaab/hofstra-pride-william-and-mary-tribe-201402260658","William & Mary",13,"Daniel Dixon",1,3,1,3,0,0,0, 1,1,0,0,0,0,3,3
+"http://sports.yahoo.com/ncaab/hofstra-pride-william-and-mary-tribe-201402260658","William & Mary",22,"Omar Prewitt",5,9,4,6,2,3,1, 5,6,2,1,2,1,1,16
+"http://sports.yahoo.com/ncaab/florida-atlantic-owls-tulane-green-wave-201402260598","Florida Atlantic",25,"Dragan Sekelja",1,2,0,0,0,0,1, 4,5,1,4,1,3,3,2
+"http://sports.yahoo.com/ncaab/florida-atlantic-owls-tulane-green-wave-201402260598","Florida Atlantic",23,"Justin Raffington",2,5,0,0,0,0,0, 2,2,0,2,0,2,5,4
+"http://sports.yahoo.com/ncaab/florida-atlantic-owls-tulane-green-wave-201402260598","Florida Atlantic",34,"Pablo Bertone",12,17,2,4,2,4,2, 3,5,1,2,2,0,3,28
+"http://sports.yahoo.com/ncaab/florida-atlantic-owls-tulane-green-wave-201402260598","Florida Atlantic",0,"Brian Hornstein",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/florida-atlantic-owls-tulane-green-wave-201402260598","Florida Atlantic",31,"Jackson Trapp",1,5,1,3,4,4,1, 3,4,7,2,2,0,2,7
+"http://sports.yahoo.com/ncaab/florida-atlantic-owls-tulane-green-wave-201402260598","Florida Atlantic",9,"Richard Morrow",3,3,0,0,0,0,1, 0,1,0,2,0,0,5,6
+"http://sports.yahoo.com/ncaab/florida-atlantic-owls-tulane-green-wave-201402260598","Florida Atlantic",15,"D'Andre Johnson",0,3,0,0,2,2,0, 2,2,2,2,2,0,2,2
+"http://sports.yahoo.com/ncaab/florida-atlantic-owls-tulane-green-wave-201402260598","Florida Atlantic",37,"Marquan Botley",1,9,1,6,2,3,0, 3,3,2,2,1,0,1,5
+"http://sports.yahoo.com/ncaab/florida-atlantic-owls-tulane-green-wave-201402260598","Florida Atlantic",9,"Tyler Pate",2,3,0,1,2,3,0, 1,1,0,1,0,0,2,6
+"http://sports.yahoo.com/ncaab/florida-atlantic-owls-tulane-green-wave-201402260598","Florida Atlantic",17,"Grant Pelchen",2,4,0,0,0,0,1, 3,4,1,0,0,2,4,4
+"http://sports.yahoo.com/ncaab/florida-atlantic-owls-tulane-green-wave-201402260598","Tulane",16,"Tomas Bruha",2,5,0,0,1,4,4, 5,9,1,1,1,0,2,5
+"http://sports.yahoo.com/ncaab/florida-atlantic-owls-tulane-green-wave-201402260598","Tulane",11,"Kevin Thomas",0,4,0,0,0,0,2, 0,2,0,1,1,0,2,0
+"http://sports.yahoo.com/ncaab/florida-atlantic-owls-tulane-green-wave-201402260598","Tulane",38,"Jay Hook",6,14,3,7,2,2,1, 5,6,0,0,0,0,4,17
+"http://sports.yahoo.com/ncaab/florida-atlantic-owls-tulane-green-wave-201402260598","Tulane",1,"Max Keenan",0,0,0,0,0,0,0, 0,0,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/florida-atlantic-owls-tulane-green-wave-201402260598","Tulane",31,"Louis Dabney",4,12,1,2,9,11,0, 1,1,2,3,3,0,3,18
+"http://sports.yahoo.com/ncaab/florida-atlantic-owls-tulane-green-wave-201402260598","Tulane",37,"Trevante Drye",2,5,0,0,5,9,9, 5,14,0,2,3,1,3,9
+"http://sports.yahoo.com/ncaab/florida-atlantic-owls-tulane-green-wave-201402260598","Tulane",12,"Payton Henson",0,1,0,0,2,2,1, 2,3,0,1,0,0,1,2
+"http://sports.yahoo.com/ncaab/florida-atlantic-owls-tulane-green-wave-201402260598","Tulane",14,"Cameron Reynolds",0,4,0,2,0,0,1, 3,4,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/florida-atlantic-owls-tulane-green-wave-201402260598","Tulane",2,"Ryan Smith",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/florida-atlantic-owls-tulane-green-wave-201402260598","Tulane",38,"Jonathan Stark",7,14,0,2,7,8,0, 1,1,5,4,2,0,0,21
+"http://sports.yahoo.com/ncaab/kent-state-golden-flashes-bowling-green-falcons-201402260061","Kent St.",32,"Derek Jackson",2,7,0,1,2,2,0, 6,6,4,0,3,0,0,6
+"http://sports.yahoo.com/ncaab/kent-state-golden-flashes-bowling-green-falcons-201402260061","Kent St.",22,"Mark Henniger",4,7,0,0,2,4,5, 1,6,0,1,1,0,5,10
+"http://sports.yahoo.com/ncaab/kent-state-golden-flashes-bowling-green-falcons-201402260061","Kent St.",33,"Kris Brewer",4,10,1,3,5,6,0, 2,2,3,3,0,0,2,14
+"http://sports.yahoo.com/ncaab/kent-state-golden-flashes-bowling-green-falcons-201402260061","Kent St.",8,"K.K. Simmons",1,2,0,0,0,0,0, 0,0,1,0,1,0,1,2
+"http://sports.yahoo.com/ncaab/kent-state-golden-flashes-bowling-green-falcons-201402260061","Kent St.",30,"Devareaux Manley",6,13,4,9,0,0,1, 1,2,0,1,1,0,2,16
+"http://sports.yahoo.com/ncaab/kent-state-golden-flashes-bowling-green-falcons-201402260061","Kent St.",25,"Kellon Thomas",2,4,0,0,5,6,1, 1,2,2,0,1,0,4,9
+"http://sports.yahoo.com/ncaab/kent-state-golden-flashes-bowling-green-falcons-201402260061","Kent St.",20,"Chris Ortiz",0,4,0,1,0,0,0, 2,2,0,0,2,1,3,0
+"http://sports.yahoo.com/ncaab/kent-state-golden-flashes-bowling-green-falcons-201402260061","Kent St.",17,"Khaliq Spicer",2,4,0,0,1,2,0, 2,2,0,1,0,3,5,5
+"http://sports.yahoo.com/ncaab/kent-state-golden-flashes-bowling-green-falcons-201402260061","Kent St.",11,"Darren Goodson",1,12,0,1,2,4,5, 1,6,1,2,0,0,2,4
+"http://sports.yahoo.com/ncaab/kent-state-golden-flashes-bowling-green-falcons-201402260061","Kent St.",2,"Marquiez Lawrence",0,0,0,0,0,0,1, 0,1,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/kent-state-golden-flashes-bowling-green-falcons-201402260061","Bowling Green",18,"Craig Sealey",1,3,0,0,2,4,1, 5,6,1,0,0,0,2,4
+"http://sports.yahoo.com/ncaab/kent-state-golden-flashes-bowling-green-falcons-201402260061","Bowling Green",23,"Cameron Black",4,6,0,0,1,3,2, 4,6,1,2,0,5,4,9
+"http://sports.yahoo.com/ncaab/kent-state-golden-flashes-bowling-green-falcons-201402260061","Bowling Green",38,"Jehvon Clarke",6,11,1,3,8,9,1, 7,8,5,5,3,0,1,21
+"http://sports.yahoo.com/ncaab/kent-state-golden-flashes-bowling-green-falcons-201402260061","Bowling Green",4,"Josh Gomez",0,1,0,0,0,0,0, 1,1,0,1,0,0,0,0
+"http://sports.yahoo.com/ncaab/kent-state-golden-flashes-bowling-green-falcons-201402260061","Bowling Green",19,"Damarkeo Lyshe",3,7,2,5,0,0,0, 1,1,0,1,0,0,2,8
+"http://sports.yahoo.com/ncaab/kent-state-golden-flashes-bowling-green-falcons-201402260061","Bowling Green",35,"Spencer Parker",2,5,0,1,8,10,2, 3,5,2,3,0,0,4,12
+"http://sports.yahoo.com/ncaab/kent-state-golden-flashes-bowling-green-falcons-201402260061","Bowling Green",35,"Richaun Holmes",5,12,0,1,4,6,4, 6,10,3,1,0,4,2,14
+"http://sports.yahoo.com/ncaab/kent-state-golden-flashes-bowling-green-falcons-201402260061","Bowling Green",28,"JD Tisdale",1,2,0,0,3,6,0, 0,0,1,1,0,0,4,5
+"http://sports.yahoo.com/ncaab/central-michigan-chippewas-eastern-michigan-eagles-201402260181","Cent. Michigan",7,"Zach Saylor",0,2,0,0,0,0,0, 2,2,0,1,0,1,4,0
+"http://sports.yahoo.com/ncaab/central-michigan-chippewas-eastern-michigan-eagles-201402260181","Cent. Michigan",8,"DeAndray Buckley",0,1,0,1,2,4,1, 2,3,1,0,0,0,4,2
+"http://sports.yahoo.com/ncaab/central-michigan-chippewas-eastern-michigan-eagles-201402260181","Cent. Michigan",14,"Austin Keel",1,3,1,3,1,2,0, 1,1,1,2,1,0,1,4
+"http://sports.yahoo.com/ncaab/central-michigan-chippewas-eastern-michigan-eagles-201402260181","Cent. Michigan",32,"Chris Fowler",3,8,2,2,2,4,2, 2,4,2,3,1,0,1,10
+"http://sports.yahoo.com/ncaab/central-michigan-chippewas-eastern-michigan-eagles-201402260181","Cent. Michigan",27,"Blake Hibbitts",1,7,1,6,0,0,1, 2,3,0,1,0,0,1,3
+"http://sports.yahoo.com/ncaab/central-michigan-chippewas-eastern-michigan-eagles-201402260181","Cent. Michigan",8,"Spencer Krannitz",0,3,0,0,0,0,1, 0,1,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/central-michigan-chippewas-eastern-michigan-eagles-201402260181","Cent. Michigan",7,"Derrick Richardson Jr.",0,3,0,0,0,0,2, 0,2,0,0,1,0,0,0
+"http://sports.yahoo.com/ncaab/central-michigan-chippewas-eastern-michigan-eagles-201402260181","Cent. Michigan",29,"John Simons",2,4,1,2,1,2,3, 5,8,1,1,1,0,2,6
+"http://sports.yahoo.com/ncaab/central-michigan-chippewas-eastern-michigan-eagles-201402260181","Cent. Michigan",22,"Austin Stewart",0,5,0,1,2,2,2, 1,3,1,0,1,0,0,2
+"http://sports.yahoo.com/ncaab/central-michigan-chippewas-eastern-michigan-eagles-201402260181","Cent. Michigan",7,"Nick Carlos",1,4,1,2,0,0,2, 0,2,2,1,0,0,0,3
+"http://sports.yahoo.com/ncaab/central-michigan-chippewas-eastern-michigan-eagles-201402260181","Cent. Michigan",26,"Braylon Rayson",2,9,1,5,0,2,0, 3,3,1,3,3,0,2,5
+"http://sports.yahoo.com/ncaab/central-michigan-chippewas-eastern-michigan-eagles-201402260181","Cent. Michigan",13,"Rayshawn Simmons",3,4,1,1,0,2,0, 2,2,0,3,0,0,2,7
+"http://sports.yahoo.com/ncaab/central-michigan-chippewas-eastern-michigan-eagles-201402260181","East. Michigan",20,"J.R. Sims",3,5,0,1,1,1,1, 1,2,0,1,0,0,0,7
+"http://sports.yahoo.com/ncaab/central-michigan-chippewas-eastern-michigan-eagles-201402260181","East. Michigan",20,"Daylen Harrison",1,3,1,1,3,4,0, 7,7,1,2,2,0,2,6
+"http://sports.yahoo.com/ncaab/central-michigan-chippewas-eastern-michigan-eagles-201402260181","East. Michigan",23,"Glenn Bryant",5,9,0,0,2,4,1, 4,5,0,0,1,0,0,12
+"http://sports.yahoo.com/ncaab/central-michigan-chippewas-eastern-michigan-eagles-201402260181","East. Michigan",24,"Da'Shonte Riley",3,4,0,0,0,0,4, 4,8,0,1,0,2,2,6
+"http://sports.yahoo.com/ncaab/central-michigan-chippewas-eastern-michigan-eagles-201402260181","East. Michigan",25,"Mike Talley",1,5,0,2,2,2,0, 1,1,5,6,1,0,2,4
+"http://sports.yahoo.com/ncaab/central-michigan-chippewas-eastern-michigan-eagles-201402260181","East. Michigan",6,"Lekan Ajayi",0,1,0,0,0,1,1, 2,3,0,0,0,0,2,0
+"http://sports.yahoo.com/ncaab/central-michigan-chippewas-eastern-michigan-eagles-201402260181","East. Michigan",10,"Mo Hughley",0,2,0,0,0,0,1, 3,4,1,0,1,1,2,0
+"http://sports.yahoo.com/ncaab/central-michigan-chippewas-eastern-michigan-eagles-201402260181","East. Michigan",6,"Anthony Strickland",0,1,0,0,3,4,0, 1,1,0,0,0,1,0,3
+"http://sports.yahoo.com/ncaab/central-michigan-chippewas-eastern-michigan-eagles-201402260181","East. Michigan",1,"Ray Lee",0,1,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/central-michigan-chippewas-eastern-michigan-eagles-201402260181","East. Michigan",18,"Jalen Ross",1,2,0,0,0,0,0, 1,1,2,0,1,0,2,2
+"http://sports.yahoo.com/ncaab/central-michigan-chippewas-eastern-michigan-eagles-201402260181","East. Michigan",29,"Karrington Ward",6,11,3,7,3,4,0, 3,3,0,1,3,1,1,18
+"http://sports.yahoo.com/ncaab/central-michigan-chippewas-eastern-michigan-eagles-201402260181","East. Michigan",3,"Ali Farhat",0,2,0,2,0,0,0, 1,1,1,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/central-michigan-chippewas-eastern-michigan-eagles-201402260181","East. Michigan",15,"Darell Combs",2,5,2,5,0,0,0, 0,0,4,1,1,0,4,6
+"http://sports.yahoo.com/ncaab/buffalo-bulls-ohio-bobcats-201402260442","Buffalo",29,"Joshua Freelove",6,15,2,5,0,0,0, 2,2,0,0,1,0,1,14
+"http://sports.yahoo.com/ncaab/buffalo-bulls-ohio-bobcats-201402260442","Buffalo",33,"Will Regan",4,9,0,4,2,4,1, 3,4,2,0,0,0,3,10
+"http://sports.yahoo.com/ncaab/buffalo-bulls-ohio-bobcats-201402260442","Buffalo",36,"Javon McCrea",6,15,0,0,3,8,4, 3,7,2,1,2,1,2,15
+"http://sports.yahoo.com/ncaab/buffalo-bulls-ohio-bobcats-201402260442","Buffalo",4,"Auraum Nuiriankh",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/buffalo-bulls-ohio-bobcats-201402260442","Buffalo",33,"Jarod Oldham",6,10,0,1,1,3,2, 2,4,3,3,3,0,2,13
+"http://sports.yahoo.com/ncaab/buffalo-bulls-ohio-bobcats-201402260442","Buffalo",8,"Justin Moss",1,2,0,0,0,0,1, 5,6,1,0,0,0,4,2
+"http://sports.yahoo.com/ncaab/buffalo-bulls-ohio-bobcats-201402260442","Buffalo",10,"Xavier Ford",2,3,0,0,1,2,3, 2,5,1,2,0,0,5,5
+"http://sports.yahoo.com/ncaab/buffalo-bulls-ohio-bobcats-201402260442","Buffalo",17,"Jarryn Skeete",0,4,0,3,2,2,1, 1,2,0,0,1,0,1,2
+"http://sports.yahoo.com/ncaab/buffalo-bulls-ohio-bobcats-201402260442","Buffalo",30,"Shannon Evans",2,4,0,1,4,4,0, 5,5,3,1,4,2,0,8
+"http://sports.yahoo.com/ncaab/buffalo-bulls-ohio-bobcats-201402260442","Ohio",31,"Jon Smith",5,5,0,0,1,1,2, 1,3,1,1,1,0,4,11
+"http://sports.yahoo.com/ncaab/buffalo-bulls-ohio-bobcats-201402260442","Ohio",31,"Javarez Willis",3,10,2,5,0,0,0, 5,5,5,4,1,0,2,8
+"http://sports.yahoo.com/ncaab/buffalo-bulls-ohio-bobcats-201402260442","Ohio",16,"T.J. Hall",1,5,1,3,0,0,1, 3,4,1,1,1,0,4,3
+"http://sports.yahoo.com/ncaab/buffalo-bulls-ohio-bobcats-201402260442","Ohio",35,"Nick Kellogg",6,13,3,7,3,4,0, 5,5,2,4,0,0,4,18
+"http://sports.yahoo.com/ncaab/buffalo-bulls-ohio-bobcats-201402260442","Ohio",14,"Treg Setty",2,3,1,1,4,5,0, 5,5,2,0,0,0,2,9
+"http://sports.yahoo.com/ncaab/buffalo-bulls-ohio-bobcats-201402260442","Ohio",9,"Stevie Taylor",1,2,1,2,0,0,0, 0,0,0,0,0,0,3,3
+"http://sports.yahoo.com/ncaab/buffalo-bulls-ohio-bobcats-201402260442","Ohio",29,"Travis Wilkins",3,5,0,2,1,1,1, 2,3,1,1,0,0,0,7
+"http://sports.yahoo.com/ncaab/buffalo-bulls-ohio-bobcats-201402260442","Ohio",27,"Maurice Ndour",2,8,0,2,0,1,1, 3,4,1,3,0,1,1,4
+"http://sports.yahoo.com/ncaab/buffalo-bulls-ohio-bobcats-201402260442","Ohio",8,"Antonio Campbell",0,0,0,0,1,2,0, 1,1,0,0,1,0,2,1
+"http://sports.yahoo.com/ncaab/southern-illinois-salukis-uni-panthers-201402260418","Southern Ill.",30,"Desmar Jackson",4,8,0,1,2,2,1, 3,4,0,3,1,1,2,10
+"http://sports.yahoo.com/ncaab/southern-illinois-salukis-uni-panthers-201402260418","Southern Ill.",5,"Davante Drinkard",0,1,0,0,0,0,0, 1,1,0,1,0,0,1,0
+"http://sports.yahoo.com/ncaab/southern-illinois-salukis-uni-panthers-201402260418","Southern Ill.",4,"Colby Long",0,2,0,1,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/southern-illinois-salukis-uni-panthers-201402260418","Southern Ill.",33,"Anthony Beane",6,11,2,5,3,4,1, 1,2,0,2,0,0,2,17
+"http://sports.yahoo.com/ncaab/southern-illinois-salukis-uni-panthers-201402260418","Southern Ill.",8,"Bola Olaniyan",0,1,0,0,0,0,0, 0,0,0,1,0,0,3,0
+"http://sports.yahoo.com/ncaab/southern-illinois-salukis-uni-panthers-201402260418","Southern Ill.",13,"Jalen Pendleton",0,3,0,0,2,2,1, 1,2,1,0,0,0,1,2
+"http://sports.yahoo.com/ncaab/southern-illinois-salukis-uni-panthers-201402260418","Southern Ill.",16,"Mike Balogun",2,5,1,4,0,0,0, 0,0,2,0,0,0,0,5
+"http://sports.yahoo.com/ncaab/southern-illinois-salukis-uni-panthers-201402260418","Southern Ill.",10,"Marcus Fillyaw",0,1,0,1,0,0,1, 0,1,2,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/southern-illinois-salukis-uni-panthers-201402260418","Southern Ill.",33,"Sean O'Brien",5,9,1,1,0,0,2, 2,4,0,1,1,1,0,11
+"http://sports.yahoo.com/ncaab/southern-illinois-salukis-uni-panthers-201402260418","Southern Ill.",18,"Tyler Smithpeters",1,3,0,1,0,0,0, 1,1,1,1,1,0,5,2
+"http://sports.yahoo.com/ncaab/southern-illinois-salukis-uni-panthers-201402260418","Southern Ill.",22,"Bronson Verhines",2,3,0,0,0,1,2, 4,6,0,0,1,2,4,4
+"http://sports.yahoo.com/ncaab/southern-illinois-salukis-uni-panthers-201402260418","Southern Ill.",8,"Dawson Verhines",1,2,0,1,1,1,0, 1,1,0,0,0,0,0,3
+"http://sports.yahoo.com/ncaab/southern-illinois-salukis-uni-panthers-201402260418","Northern Iowa",6,"Matt Morrison",1,2,0,0,0,0,0, 0,0,0,1,0,0,1,2
+"http://sports.yahoo.com/ncaab/southern-illinois-salukis-uni-panthers-201402260418","Northern Iowa",8,"Chip Rank",0,2,0,2,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/southern-illinois-salukis-uni-panthers-201402260418","Northern Iowa",15,"Nate Buss",0,5,0,1,0,0,2, 4,6,0,1,0,0,0,0
+"http://sports.yahoo.com/ncaab/southern-illinois-salukis-uni-panthers-201402260418","Northern Iowa",12,"Max Martino",0,1,0,1,0,0,2, 1,3,0,0,0,0,2,0
+"http://sports.yahoo.com/ncaab/southern-illinois-salukis-uni-panthers-201402260418","Northern Iowa",34,"Matt Bohannon",6,12,5,10,0,0,0, 5,5,3,0,0,0,2,17
+"http://sports.yahoo.com/ncaab/southern-illinois-salukis-uni-panthers-201402260418","Northern Iowa",19,"Deon Mitchell",2,7,2,4,1,2,0, 1,1,3,1,2,0,1,7
+"http://sports.yahoo.com/ncaab/southern-illinois-salukis-uni-panthers-201402260418","Northern Iowa",23,"Marvin Singleton",4,5,0,1,0,0,0, 1,1,0,2,0,0,2,8
+"http://sports.yahoo.com/ncaab/southern-illinois-salukis-uni-panthers-201402260418","Northern Iowa",31,"Seth Tuttle",6,8,0,0,7,8,5, 2,7,7,0,1,0,1,19
+"http://sports.yahoo.com/ncaab/southern-illinois-salukis-uni-panthers-201402260418","Northern Iowa",22,"Wes Washpun",2,3,0,0,1,2,1, 3,4,2,1,0,0,3,5
+"http://sports.yahoo.com/ncaab/southern-illinois-salukis-uni-panthers-201402260418","Northern Iowa",2,"Matt MacDougall",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/southern-illinois-salukis-uni-panthers-201402260418","Northern Iowa",2,"Nate Buchheit",0,1,0,1,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/southern-illinois-salukis-uni-panthers-201402260418","Northern Iowa",1,"Ted Friedman",0,0,0,0,0,0,0, 1,1,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/southern-illinois-salukis-uni-panthers-201402260418","Northern Iowa",25,"Jeremy Morgan",5,7,3,5,2,2,2, 1,3,3,3,0,1,2,15
+"http://sports.yahoo.com/ncaab/indiana-state-sycamores-illinois-state-redbirds-201402260269","Indiana St.",19,"Lucas Eitel",1,2,1,2,0,0,1, 3,4,1,3,1,0,3,3
+"http://sports.yahoo.com/ncaab/indiana-state-sycamores-illinois-state-redbirds-201402260269","Indiana St.",27,"Jake Odum",2,6,0,2,5,6,1, 0,1,3,1,0,0,4,9
+"http://sports.yahoo.com/ncaab/indiana-state-sycamores-illinois-state-redbirds-201402260269","Indiana St.",27,"Manny Arop",2,9,1,6,2,2,0, 5,5,1,1,0,0,2,7
+"http://sports.yahoo.com/ncaab/indiana-state-sycamores-illinois-state-redbirds-201402260269","Indiana St.",11,"Jake Kitchell",1,1,0,0,2,3,2, 0,2,0,0,0,0,3,4
+"http://sports.yahoo.com/ncaab/indiana-state-sycamores-illinois-state-redbirds-201402260269","Indiana St.",20,"Devonte Brown",1,3,0,0,0,0,1, 4,5,2,3,1,1,2,2
+"http://sports.yahoo.com/ncaab/indiana-state-sycamores-illinois-state-redbirds-201402260269","Indiana St.",12,"Brandon Burnett",2,4,1,2,0,0,0, 2,2,0,0,0,0,1,5
+"http://sports.yahoo.com/ncaab/indiana-state-sycamores-illinois-state-redbirds-201402260269","Indiana St.",15,"Justin Gant",3,8,0,1,0,0,2, 1,3,1,1,0,0,1,6
+"http://sports.yahoo.com/ncaab/indiana-state-sycamores-illinois-state-redbirds-201402260269","Indiana St.",4,"TJ Bell",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/indiana-state-sycamores-illinois-state-redbirds-201402260269","Indiana St.",31,"Dawon Cummings",3,10,2,6,4,6,0, 3,3,3,0,0,0,1,12
+"http://sports.yahoo.com/ncaab/indiana-state-sycamores-illinois-state-redbirds-201402260269","Indiana St.",23,"Khristian Smith",4,7,0,0,1,2,1, 3,4,1,1,0,0,1,9
+"http://sports.yahoo.com/ncaab/indiana-state-sycamores-illinois-state-redbirds-201402260269","Indiana St.",11,"Demetrius Moore",1,4,0,0,0,0,0, 3,3,1,1,0,1,2,2
+"http://sports.yahoo.com/ncaab/indiana-state-sycamores-illinois-state-redbirds-201402260269","Illinois St.",28,"Nick Zeisloft",3,6,2,4,0,0,1, 1,2,0,1,2,0,0,8
+"http://sports.yahoo.com/ncaab/indiana-state-sycamores-illinois-state-redbirds-201402260269","Illinois St.",11,"Kaza Keane",1,2,0,0,1,2,0, 3,3,1,2,0,0,2,3
+"http://sports.yahoo.com/ncaab/indiana-state-sycamores-illinois-state-redbirds-201402260269","Illinois St.",2,"Matt Stacho",0,2,0,2,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/indiana-state-sycamores-illinois-state-redbirds-201402260269","Illinois St.",31,"Paris Lee",1,5,0,2,2,3,0, 1,1,3,0,1,0,3,4
+"http://sports.yahoo.com/ncaab/indiana-state-sycamores-illinois-state-redbirds-201402260269","Illinois St.",30,"Daishon Knight",6,15,1,4,7,8,0, 8,8,1,4,1,0,2,20
+"http://sports.yahoo.com/ncaab/indiana-state-sycamores-illinois-state-redbirds-201402260269","Illinois St.",21,"Bobby Hunter",2,2,1,1,4,6,0, 2,2,4,0,0,0,3,9
+"http://sports.yahoo.com/ncaab/indiana-state-sycamores-illinois-state-redbirds-201402260269","Illinois St.",11,"Jamaal Samuel",0,1,0,0,0,0,0, 0,0,0,0,0,1,2,0
+"http://sports.yahoo.com/ncaab/indiana-state-sycamores-illinois-state-redbirds-201402260269","Illinois St.",12,"Tony Wills",0,0,0,0,1,2,1, 1,2,1,1,0,0,3,1
+"http://sports.yahoo.com/ncaab/indiana-state-sycamores-illinois-state-redbirds-201402260269","Illinois St.",29,"Reggie Lynch",6,8,0,0,4,5,4, 4,8,0,3,2,5,2,16
+"http://sports.yahoo.com/ncaab/indiana-state-sycamores-illinois-state-redbirds-201402260269","Illinois St.",25,"Zach Lofton",5,11,3,7,3,6,0, 2,2,1,0,2,0,1,16
+"http://sports.yahoo.com/ncaab/boise-state-broncos-fresno-state-bulldogs-201402260217","Boise St.",31,"Thomas Bropleh",4,9,2,6,4,4,1, 4,5,1,4,0,0,2,14
+"http://sports.yahoo.com/ncaab/boise-state-broncos-fresno-state-bulldogs-201402260217","Boise St.",18,"Jeff Elorriaga",0,2,0,2,0,0,0, 0,0,1,0,0,0,2,0
+"http://sports.yahoo.com/ncaab/boise-state-broncos-fresno-state-bulldogs-201402260217","Boise St.",27,"Ryan Watkins",5,8,0,0,2,3,5, 1,6,2,1,0,0,2,12
+"http://sports.yahoo.com/ncaab/boise-state-broncos-fresno-state-bulldogs-201402260217","Boise St.",20,"Anthony Drmic",0,4,0,3,2,2,0, 7,7,0,2,0,0,0,2
+"http://sports.yahoo.com/ncaab/boise-state-broncos-fresno-state-bulldogs-201402260217","Boise St.",5,"Igor Hadziomerovic",0,2,0,1,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/boise-state-broncos-fresno-state-bulldogs-201402260217","Boise St.",2,"Joe Hanstad",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/boise-state-broncos-fresno-state-bulldogs-201402260217","Boise St.",28,"Derrick Marks",2,7,0,1,0,0,0, 1,1,1,3,0,0,4,4
+"http://sports.yahoo.com/ncaab/boise-state-broncos-fresno-state-bulldogs-201402260217","Boise St.",34,"Mikey Thompson",7,10,0,1,7,9,0, 0,0,2,1,1,0,3,21
+"http://sports.yahoo.com/ncaab/boise-state-broncos-fresno-state-bulldogs-201402260217","Boise St.",1,"Jake Ness",0,0,0,0,0,0,1, 0,1,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/boise-state-broncos-fresno-state-bulldogs-201402260217","Boise St.",2,"Edmunds Dukulis",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/boise-state-broncos-fresno-state-bulldogs-201402260217","Boise St.",1,"Joey Nebeker",1,2,0,0,0,0,0, 0,0,0,0,0,0,0,2
+"http://sports.yahoo.com/ncaab/boise-state-broncos-fresno-state-bulldogs-201402260217","Boise St.",29,"Nick Duncan",0,6,0,4,1,2,3, 8,11,0,1,0,0,0,1
+"http://sports.yahoo.com/ncaab/boise-state-broncos-fresno-state-bulldogs-201402260217","Boise St.",2,"Dezmyn Trent",0,0,0,0,0,0,0, 1,1,0,0,0,0,2,0
+"http://sports.yahoo.com/ncaab/boise-state-broncos-fresno-state-bulldogs-201402260217","Fresno St.",22,"Allen Huddleston",5,8,2,4,0,0,0, 2,2,1,0,1,0,2,12
+"http://sports.yahoo.com/ncaab/boise-state-broncos-fresno-state-bulldogs-201402260217","Fresno St.",36,"Tyler Johnson",4,12,2,4,5,6,1, 6,7,6,1,2,1,2,15
+"http://sports.yahoo.com/ncaab/boise-state-broncos-fresno-state-bulldogs-201402260217","Fresno St.",24,"Cezar Guerrero",4,12,1,4,0,0,0, 2,2,3,0,1,0,2,9
+"http://sports.yahoo.com/ncaab/boise-state-broncos-fresno-state-bulldogs-201402260217","Fresno St.",22,"Tanner Giddings",0,0,0,0,2,2,0, 3,3,0,1,0,0,2,2
+"http://sports.yahoo.com/ncaab/boise-state-broncos-fresno-state-bulldogs-201402260217","Fresno St.",36,"Marvelle Harris",9,11,4,4,4,4,1, 6,7,1,0,2,0,1,26
+"http://sports.yahoo.com/ncaab/boise-state-broncos-fresno-state-bulldogs-201402260217","Fresno St.",1,"Broderick Newbill",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/boise-state-broncos-fresno-state-bulldogs-201402260217","Fresno St.",1,"Blake Williams",0,0,0,0,0,0,0, 0,0,0,1,0,0,0,0
+"http://sports.yahoo.com/ncaab/boise-state-broncos-fresno-state-bulldogs-201402260217","Fresno St.",15,"Alex Davis",0,5,0,0,0,0,0, 1,1,1,0,0,0,3,0
+"http://sports.yahoo.com/ncaab/boise-state-broncos-fresno-state-bulldogs-201402260217","Fresno St.",11,"Karachi Edo",3,4,0,0,0,0,1, 1,2,1,0,0,2,2,6
+"http://sports.yahoo.com/ncaab/boise-state-broncos-fresno-state-bulldogs-201402260217","Fresno St.",32,"Paul Watson",2,4,2,3,0,0,1, 3,4,1,1,0,1,3,6
+"http://sports.yahoo.com/ncaab/colorado-state-rams-unlv-runnin-rebels-201402260401","Colorado St.",29,"Daniel Bejarano",7,20,3,7,4,5,1, 7,8,3,1,0,0,4,21
+"http://sports.yahoo.com/ncaab/colorado-state-rams-unlv-runnin-rebels-201402260401","Colorado St.",6,"Dwight Smith",0,2,0,0,0,0,0, 0,0,0,1,0,0,3,0
+"http://sports.yahoo.com/ncaab/colorado-state-rams-unlv-runnin-rebels-201402260401","Colorado St.",38,"J.J. Avila",7,14,2,5,6,6,3, 5,8,2,5,2,0,2,22
+"http://sports.yahoo.com/ncaab/colorado-state-rams-unlv-runnin-rebels-201402260401","Colorado St.",37,"Joe De Ciman",3,7,0,2,2,4,0, 3,3,3,0,0,0,2,8
+"http://sports.yahoo.com/ncaab/colorado-state-rams-unlv-runnin-rebels-201402260401","Colorado St.",35,"Jon Octeus",6,11,3,4,2,5,2, 4,6,2,1,0,0,5,17
+"http://sports.yahoo.com/ncaab/colorado-state-rams-unlv-runnin-rebels-201402260401","Colorado St.",24,"Gerson Santo",0,0,0,0,0,0,1, 4,5,0,1,0,0,5,0
+"http://sports.yahoo.com/ncaab/colorado-state-rams-unlv-runnin-rebels-201402260401","Colorado St.",6,"David Cohn",0,0,0,0,0,0,0, 0,0,1,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/colorado-state-rams-unlv-runnin-rebels-201402260401","Colorado St.",4,"Marcus Holt",0,1,0,0,0,0,1, 0,1,0,0,0,1,1,0
+"http://sports.yahoo.com/ncaab/colorado-state-rams-unlv-runnin-rebels-201402260401","Colorado St.",21,"Carlton Hurst",0,1,0,0,2,2,0, 4,4,1,1,0,0,2,2
+"http://sports.yahoo.com/ncaab/colorado-state-rams-unlv-runnin-rebels-201402260401","UNLV",29,"Bryce Dejean-Jones",6,15,1,4,6,8,3, 6,9,2,1,1,0,2,19
+"http://sports.yahoo.com/ncaab/colorado-state-rams-unlv-runnin-rebels-201402260401","UNLV",17,"Jelan Kendrick",4,8,1,2,2,5,0, 2,2,2,0,2,1,2,11
+"http://sports.yahoo.com/ncaab/colorado-state-rams-unlv-runnin-rebels-201402260401","UNLV",24,"Roscoe Smith",1,4,0,0,3,6,6, 5,11,2,2,0,2,4,5
+"http://sports.yahoo.com/ncaab/colorado-state-rams-unlv-runnin-rebels-201402260401","UNLV",33,"Kevin Olekaibe",6,14,2,9,1,2,0, 2,2,0,1,0,0,0,15
+"http://sports.yahoo.com/ncaab/colorado-state-rams-unlv-runnin-rebels-201402260401","UNLV",30,"Khem Birch",3,6,0,0,2,3,6, 3,9,1,1,0,2,3,8
+"http://sports.yahoo.com/ncaab/colorado-state-rams-unlv-runnin-rebels-201402260401","UNLV",37,"Deville Smith",4,12,2,8,2,2,1, 3,4,2,1,0,0,3,12
+"http://sports.yahoo.com/ncaab/colorado-state-rams-unlv-runnin-rebels-201402260401","UNLV",3,"Daquan Cook",0,2,0,2,0,0,0, 0,0,1,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/colorado-state-rams-unlv-runnin-rebels-201402260401","UNLV",0,"Charles Rushman",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/colorado-state-rams-unlv-runnin-rebels-201402260401","UNLV",4,"Kendall Smith",1,2,0,1,0,0,0, 0,0,0,0,0,0,2,2
+"http://sports.yahoo.com/ncaab/colorado-state-rams-unlv-runnin-rebels-201402260401","UNLV",23,"Christian Wood",2,4,1,2,1,1,2, 6,8,0,2,1,0,3,6
+"http://sports.yahoo.com/ncaab/california-golden-bears-arizona-wildcats-201402260017","California",31,"Justin Cobbs",5,12,0,4,2,2,0, 2,2,2,4,0,0,1,12
+"http://sports.yahoo.com/ncaab/california-golden-bears-arizona-wildcats-201402260017","California",27,"Richard Solomon",3,7,0,0,3,6,4, 3,7,2,3,0,1,3,9
+"http://sports.yahoo.com/ncaab/california-golden-bears-arizona-wildcats-201402260017","California",31,"Ricky Kreklow",2,5,2,4,0,0,0, 1,1,2,0,0,0,3,6
+"http://sports.yahoo.com/ncaab/california-golden-bears-arizona-wildcats-201402260017","California",6,"Christian Behrens",0,2,0,0,0,0,0, 1,1,0,0,1,0,1,0
+"http://sports.yahoo.com/ncaab/california-golden-bears-arizona-wildcats-201402260017","California",27,"David Kravish",3,8,0,2,1,2,1, 6,7,1,3,0,4,3,7
+"http://sports.yahoo.com/ncaab/california-golden-bears-arizona-wildcats-201402260017","California",1,"Garrett Galvin",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/california-golden-bears-arizona-wildcats-201402260017","California",25,"Tyrone Wallace",4,6,1,2,0,2,0, 2,2,1,1,0,0,3,9
+"http://sports.yahoo.com/ncaab/california-golden-bears-arizona-wildcats-201402260017","California",18,"Jabari Bird",3,7,0,2,1,2,0, 1,1,0,0,0,0,0,7
+"http://sports.yahoo.com/ncaab/california-golden-bears-arizona-wildcats-201402260017","California",11,"Jordan Mathews",3,5,1,1,0,0,0, 0,0,0,0,0,0,0,7
+"http://sports.yahoo.com/ncaab/california-golden-bears-arizona-wildcats-201402260017","California",3,"Roger Moute a Bidias",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/california-golden-bears-arizona-wildcats-201402260017","California",8,"Kameron Rooks",0,1,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/california-golden-bears-arizona-wildcats-201402260017","California",12,"Sam Singer",1,2,0,1,0,1,0, 1,1,2,2,2,0,2,2
+"http://sports.yahoo.com/ncaab/california-golden-bears-arizona-wildcats-201402260017","Arizona",5,"Jordin Mayes",0,0,0,0,0,2,0, 2,2,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/california-golden-bears-arizona-wildcats-201402260017","Arizona",33,"T.J. McConnell",6,10,1,3,0,0,0, 4,4,6,1,3,0,2,13
+"http://sports.yahoo.com/ncaab/california-golden-bears-arizona-wildcats-201402260017","Arizona",1,"Chris Johnson",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/california-golden-bears-arizona-wildcats-201402260017","Arizona",31,"Nick Johnson",7,14,2,4,6,8,2, 5,7,5,0,1,1,2,22
+"http://sports.yahoo.com/ncaab/california-golden-bears-arizona-wildcats-201402260017","Arizona",1,"Drew Mellon",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/california-golden-bears-arizona-wildcats-201402260017","Arizona",3,"Jacob Hazzard",1,3,1,2,0,0,0, 0,0,0,2,0,0,0,3
+"http://sports.yahoo.com/ncaab/california-golden-bears-arizona-wildcats-201402260017","Arizona",5,"Matt Korcheck",1,1,0,0,0,0,1, 0,1,0,1,0,1,0,2
+"http://sports.yahoo.com/ncaab/california-golden-bears-arizona-wildcats-201402260017","Arizona",29,"Kaleb Tarczewski",7,9,0,0,2,2,0, 3,3,1,1,0,1,2,16
+"http://sports.yahoo.com/ncaab/california-golden-bears-arizona-wildcats-201402260017","Arizona",26,"Gabe York",1,7,1,3,0,0,4, 1,5,5,0,0,0,2,3
+"http://sports.yahoo.com/ncaab/california-golden-bears-arizona-wildcats-201402260017","Arizona",3,"Zach Peters",0,0,0,0,0,0,0, 0,0,0,0,0,0,2,0
+"http://sports.yahoo.com/ncaab/california-golden-bears-arizona-wildcats-201402260017","Arizona",24,"Aaron Gordon",4,7,0,1,5,6,2, 2,4,0,1,1,0,2,13
+"http://sports.yahoo.com/ncaab/california-golden-bears-arizona-wildcats-201402260017","Arizona",25,"Rondae Hollis-Jefferson",4,10,0,1,4,4,2, 8,10,1,1,0,1,1,12
+"http://sports.yahoo.com/ncaab/california-golden-bears-arizona-wildcats-201402260017","Arizona",1,"Trey Mason",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/california-golden-bears-arizona-wildcats-201402260017","Arizona",13,"Elliott Pitts",1,2,1,2,0,0,0, 2,2,0,1,0,0,1,3
+"http://sports.yahoo.com/ncaab/stanford-cardinal-arizona-state-sun-devils-201402260018","Stanford",34,"Anthony Brown",6,9,3,6,6,7,1, 6,7,0,3,1,0,3,21
+"http://sports.yahoo.com/ncaab/stanford-cardinal-arizona-state-sun-devils-201402260018","Stanford",11,"John Gage",0,1,0,1,0,0,0, 1,1,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/stanford-cardinal-arizona-state-sun-devils-201402260018","Stanford",32,"Josh Huestis",4,10,0,2,1,2,4, 4,8,2,3,2,3,2,9
+"http://sports.yahoo.com/ncaab/stanford-cardinal-arizona-state-sun-devils-201402260018","Stanford",14,"Stefan Nastic",0,2,0,0,1,2,1, 0,1,0,3,0,1,1,1
+"http://sports.yahoo.com/ncaab/stanford-cardinal-arizona-state-sun-devils-201402260018","Stanford",36,"Dwight Powell",2,9,0,0,7,11,3, 3,6,1,3,0,2,3,11
+"http://sports.yahoo.com/ncaab/stanford-cardinal-arizona-state-sun-devils-201402260018","Stanford",22,"Robbie Lemons",0,2,0,2,0,0,1, 1,2,0,0,1,0,0,0
+"http://sports.yahoo.com/ncaab/stanford-cardinal-arizona-state-sun-devils-201402260018","Stanford",29,"Chasson Randle",7,14,2,6,1,1,0, 4,4,1,3,2,0,5,17
+"http://sports.yahoo.com/ncaab/stanford-cardinal-arizona-state-sun-devils-201402260018","Stanford",2,"Grant Verhoeven",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/stanford-cardinal-arizona-state-sun-devils-201402260018","Stanford",7,"Malcolm Allen",0,0,0,0,0,0,1, 0,1,0,0,0,0,2,0
+"http://sports.yahoo.com/ncaab/stanford-cardinal-arizona-state-sun-devils-201402260018","Stanford",12,"Marcus Allen",2,6,1,2,0,0,2, 0,2,0,0,1,0,1,5
+"http://sports.yahoo.com/ncaab/stanford-cardinal-arizona-state-sun-devils-201402260018","Stanford",1,"Schuyler Rimmer",0,0,0,0,0,2,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/stanford-cardinal-arizona-state-sun-devils-201402260018","Arizona St.",37,"Jermaine Marshall",6,12,2,6,2,3,0, 2,2,2,3,2,1,1,16
+"http://sports.yahoo.com/ncaab/stanford-cardinal-arizona-state-sun-devils-201402260018","Arizona St.",15,"Jordan Bachynski",1,6,0,0,0,0,0, 3,3,1,2,1,0,4,2
+"http://sports.yahoo.com/ncaab/stanford-cardinal-arizona-state-sun-devils-201402260018","Arizona St.",21,"Bo Barnes",3,6,2,4,0,1,0, 6,6,0,2,0,1,2,8
+"http://sports.yahoo.com/ncaab/stanford-cardinal-arizona-state-sun-devils-201402260018","Arizona St.",35,"Jahii Carson",8,11,2,3,8,8,0, 2,2,4,1,1,0,3,26
+"http://sports.yahoo.com/ncaab/stanford-cardinal-arizona-state-sun-devils-201402260018","Arizona St.",35,"Jonathan Gilling",2,4,2,4,0,0,0, 5,5,6,2,0,0,4,6
+"http://sports.yahoo.com/ncaab/stanford-cardinal-arizona-state-sun-devils-201402260018","Arizona St.",1,"Richie Edwards",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/stanford-cardinal-arizona-state-sun-devils-201402260018","Arizona St.",20,"Eric Jacobsen",2,2,0,0,1,2,3, 3,6,0,1,1,0,5,5
+"http://sports.yahoo.com/ncaab/stanford-cardinal-arizona-state-sun-devils-201402260018","Arizona St.",5,"Calaen Robinson",1,2,1,1,0,0,0, 0,0,1,0,1,0,0,3
+"http://sports.yahoo.com/ncaab/stanford-cardinal-arizona-state-sun-devils-201402260018","Arizona St.",1,"Egor Koulechov",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/stanford-cardinal-arizona-state-sun-devils-201402260018","Arizona St.",30,"Shaquielle McKissic",4,6,1,1,1,2,2, 3,5,4,2,1,0,3,10
+"http://sports.yahoo.com/ncaab/boston-university-terriers-army-black-knights-201402260024","Boston U.",30,"D.J. Irving",3,8,1,2,2,2,0, 10,10,3,3,0,0,3,9
+"http://sports.yahoo.com/ncaab/boston-university-terriers-army-black-knights-201402260024","Boston U.",16,"Malik Thomas",1,5,0,1,0,0,0, 1,1,0,1,0,0,0,2
+"http://sports.yahoo.com/ncaab/boston-university-terriers-army-black-knights-201402260024","Boston U.",29,"Travis Robinson",2,5,1,3,6,6,2, 2,4,0,1,1,1,2,11
+"http://sports.yahoo.com/ncaab/boston-university-terriers-army-black-knights-201402260024","Boston U.",25,"Dom Morris",3,8,0,0,0,1,1, 5,6,0,2,0,0,3,6
+"http://sports.yahoo.com/ncaab/boston-university-terriers-army-black-knights-201402260024","Boston U.",13,"Justin Alston",2,2,0,0,0,0,0, 2,2,0,0,0,0,3,4
+"http://sports.yahoo.com/ncaab/boston-university-terriers-army-black-knights-201402260024","Boston U.",20,"Nathan Dieudonne",1,4,0,2,0,1,0, 2,2,0,1,1,1,2,2
+"http://sports.yahoo.com/ncaab/boston-university-terriers-army-black-knights-201402260024","Boston U.",32,"John Papale",6,8,5,6,2,2,0, 3,3,1,3,3,0,2,19
+"http://sports.yahoo.com/ncaab/boston-university-terriers-army-black-knights-201402260024","Boston U.",28,"Maurice Watson Jr.",6,10,1,2,3,4,0, 1,1,6,2,1,0,3,16
+"http://sports.yahoo.com/ncaab/boston-university-terriers-army-black-knights-201402260024","Boston U.",7,"Cedric Hankerson",1,2,0,1,0,0,0, 0,0,0,0,0,0,3,2
+"http://sports.yahoo.com/ncaab/boston-university-terriers-army-black-knights-201402260024","Army",7,"Josh Herbeck",2,3,1,2,0,0,1, 1,2,1,0,1,0,1,5
+"http://sports.yahoo.com/ncaab/boston-university-terriers-army-black-knights-201402260024","Army",21,"Mo Williams",0,2,0,1,4,4,0, 0,0,0,0,0,0,3,4
+"http://sports.yahoo.com/ncaab/boston-university-terriers-army-black-knights-201402260024","Army",25,"Dylan Cox",3,7,0,2,3,4,0, 3,3,4,0,0,2,3,9
+"http://sports.yahoo.com/ncaab/boston-university-terriers-army-black-knights-201402260024","Army",32,"Kevin Ferguson",8,10,0,0,4,4,3, 7,10,2,2,1,6,2,20
+"http://sports.yahoo.com/ncaab/boston-university-terriers-army-black-knights-201402260024","Army",15,"Matt Gramling",1,3,0,1,0,0,0, 1,1,2,0,1,0,0,2
+"http://sports.yahoo.com/ncaab/boston-university-terriers-army-black-knights-201402260024","Army",18,"Tanner Plomb",1,7,0,4,1,2,1, 5,6,0,1,0,0,0,3
+"http://sports.yahoo.com/ncaab/boston-university-terriers-army-black-knights-201402260024","Army",7,"Travis Rollo",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/boston-university-terriers-army-black-knights-201402260024","Army",17,"Larry Toomey",1,6,0,3,2,2,0, 1,1,1,1,1,0,2,4
+"http://sports.yahoo.com/ncaab/boston-university-terriers-army-black-knights-201402260024","Army",28,"Kyle Wilson",4,8,3,4,4,6,0, 0,0,0,2,0,0,3,15
+"http://sports.yahoo.com/ncaab/boston-university-terriers-army-black-knights-201402260024","Army",5,"Scott Mammel",0,1,0,1,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/boston-university-terriers-army-black-knights-201402260024","Army",1,"Kieffer Jordan",0,0,0,0,0,0,0, 0,0,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/boston-university-terriers-army-black-knights-201402260024","Army",24,"Tanner Omlid",3,8,2,6,0,0,2, 5,7,2,2,2,0,3,8
+"http://sports.yahoo.com/ncaab/lehigh-mountain-hawks-bucknell-bison-201402260066","Lehigh",36,"Mackey McKnight",4,11,0,3,1,1,0, 1,1,6,6,1,0,3,9
+"http://sports.yahoo.com/ncaab/lehigh-mountain-hawks-bucknell-bison-201402260066","Lehigh",31,"Corey Schaefer",3,9,0,2,0,0,0, 3,3,1,1,0,0,2,6
+"http://sports.yahoo.com/ncaab/lehigh-mountain-hawks-bucknell-bison-201402260066","Lehigh",25,"Stefan Cvrkalj",1,7,1,4,0,0,0, 7,7,0,0,2,1,5,3
+"http://sports.yahoo.com/ncaab/lehigh-mountain-hawks-bucknell-bison-201402260066","Lehigh",26,"Jesse Chuku",5,9,4,6,4,4,2, 6,8,2,1,0,4,3,18
+"http://sports.yahoo.com/ncaab/lehigh-mountain-hawks-bucknell-bison-201402260066","Lehigh",23,"Justin Goldsborough",1,4,0,0,0,0,1, 3,4,0,1,1,1,3,2
+"http://sports.yahoo.com/ncaab/lehigh-mountain-hawks-bucknell-bison-201402260066","Lehigh",24,"Austin Price",3,10,2,3,3,3,0, 1,1,1,0,3,1,1,11
+"http://sports.yahoo.com/ncaab/lehigh-mountain-hawks-bucknell-bison-201402260066","Lehigh",4,"Miles Simelton",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/lehigh-mountain-hawks-bucknell-bison-201402260066","Lehigh",2,"Shane Whitfield",1,2,0,0,0,0,0, 0,0,0,0,0,0,1,2
+"http://sports.yahoo.com/ncaab/lehigh-mountain-hawks-bucknell-bison-201402260066","Lehigh",29,"Tim Kempton",4,7,0,0,2,3,2, 6,8,0,2,0,0,3,10
+"http://sports.yahoo.com/ncaab/lehigh-mountain-hawks-bucknell-bison-201402260066","Bucknell",27,"Brian Fitzpatrick",2,9,0,1,2,4,3, 6,9,1,1,0,1,2,6
+"http://sports.yahoo.com/ncaab/lehigh-mountain-hawks-bucknell-bison-201402260066","Bucknell",36,"Cameron Ayers",4,12,1,6,8,9,2, 3,5,4,0,2,0,1,17
+"http://sports.yahoo.com/ncaab/lehigh-mountain-hawks-bucknell-bison-201402260066","Bucknell",21,"Steven Kaspar",3,7,0,2,2,5,1, 4,5,4,1,1,1,0,8
+"http://sports.yahoo.com/ncaab/lehigh-mountain-hawks-bucknell-bison-201402260066","Bucknell",25,"Cory Starkey",4,9,0,0,0,0,2, 4,6,0,0,0,0,3,8
+"http://sports.yahoo.com/ncaab/lehigh-mountain-hawks-bucknell-bison-201402260066","Bucknell",18,"Ryan Frazier",0,3,0,1,1,2,1, 2,3,3,1,1,0,1,1
+"http://sports.yahoo.com/ncaab/lehigh-mountain-hawks-bucknell-bison-201402260066","Bucknell",28,"Chris Hass",5,13,2,6,0,0,1, 4,5,1,0,1,1,1,12
+"http://sports.yahoo.com/ncaab/lehigh-mountain-hawks-bucknell-bison-201402260066","Bucknell",11,"Dom Hoffman",1,5,0,0,0,0,1, 0,1,0,2,1,0,3,2
+"http://sports.yahoo.com/ncaab/lehigh-mountain-hawks-bucknell-bison-201402260066","Bucknell",17,"D.J. MacLeay",1,3,0,1,0,0,3, 5,8,0,3,1,1,2,2
+"http://sports.yahoo.com/ncaab/lehigh-mountain-hawks-bucknell-bison-201402260066","Bucknell",17,"John Azzinaro",2,5,2,3,3,3,0, 2,2,0,2,0,0,1,9
+"http://sports.yahoo.com/ncaab/lafayette-leopards-colgate-raiders-201402260124","Lafayette",0,"Jack Detmer",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/lafayette-leopards-colgate-raiders-201402260124","Lafayette",0,"Les Smith",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/lafayette-leopards-colgate-raiders-201402260124","Lafayette",0,"Alan Flannigan",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/lafayette-leopards-colgate-raiders-201402260124","Lafayette",35,"Joey Ptasinski",1,3,0,2,0,0,0, 4,4,3,0,1,0,2,2
+"http://sports.yahoo.com/ncaab/lafayette-leopards-colgate-raiders-201402260124","Lafayette",26,"Dan Trist",6,10,0,0,7,8,1, 3,4,0,3,0,0,1,19
+"http://sports.yahoo.com/ncaab/lafayette-leopards-colgate-raiders-201402260124","Lafayette",33,"Seth Hinrichs",2,10,0,6,0,0,1, 2,3,1,4,2,0,2,4
+"http://sports.yahoo.com/ncaab/lafayette-leopards-colgate-raiders-201402260124","Lafayette",31,"Bryce Scott",3,9,1,4,0,0,1, 2,3,0,1,0,1,4,7
+"http://sports.yahoo.com/ncaab/lafayette-leopards-colgate-raiders-201402260124","Lafayette",18,"Zach Rufer",2,5,1,4,0,0,1, 1,2,0,0,2,0,1,5
+"http://sports.yahoo.com/ncaab/lafayette-leopards-colgate-raiders-201402260124","Lafayette",3,"Ben Freeland",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/lafayette-leopards-colgate-raiders-201402260124","Lafayette",4,"Nathaniel Musters",0,1,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/lafayette-leopards-colgate-raiders-201402260124","Lafayette",34,"Nick Lindner",11,15,1,2,1,4,1, 2,3,6,0,0,0,2,24
+"http://sports.yahoo.com/ncaab/lafayette-leopards-colgate-raiders-201402260124","Lafayette",16,"Michael Hoffman",2,5,1,3,0,0,0, 1,1,0,0,0,0,5,5
+"http://sports.yahoo.com/ncaab/lafayette-leopards-colgate-raiders-201402260124","Lafayette",0,"Jake Newman",0,0,0,0,0,0,0, 0,0,0,1,0,0,0,0
+"http://sports.yahoo.com/ncaab/lafayette-leopards-colgate-raiders-201402260124","Colgate",33,"Murphy Burnatowski",8,12,3,6,6,7,0, 2,2,1,2,2,0,3,25
+"http://sports.yahoo.com/ncaab/lafayette-leopards-colgate-raiders-201402260124","Colgate",22,"Ethan Jacobs",7,10,2,4,2,2,1, 9,10,4,0,0,1,2,18
+"http://sports.yahoo.com/ncaab/lafayette-leopards-colgate-raiders-201402260124","Colgate",27,"Chad Johnson",5,9,1,3,2,2,0, 2,2,0,2,1,0,1,13
+"http://sports.yahoo.com/ncaab/lafayette-leopards-colgate-raiders-201402260124","Colgate",34,"Austin Tillotson",4,5,0,1,0,1,0, 3,3,7,2,3,0,1,8
+"http://sports.yahoo.com/ncaab/lafayette-leopards-colgate-raiders-201402260124","Colgate",29,"Luke Roh",1,3,0,0,0,2,0, 6,6,2,1,0,0,4,2
+"http://sports.yahoo.com/ncaab/lafayette-leopards-colgate-raiders-201402260124","Colgate",14,"Clayton Graham",1,2,0,0,0,0,0, 2,2,0,0,1,0,0,2
+"http://sports.yahoo.com/ncaab/lafayette-leopards-colgate-raiders-201402260124","Colgate",11,"Matt McMullen",2,3,0,0,2,2,1, 1,2,1,1,0,0,0,6
+"http://sports.yahoo.com/ncaab/lafayette-leopards-colgate-raiders-201402260124","Colgate",24,"Damon Sherman-Newsome",2,4,0,2,5,6,0, 2,2,1,0,0,0,1,9
+"http://sports.yahoo.com/ncaab/lafayette-leopards-colgate-raiders-201402260124","Colgate",6,"Nathan Harries",0,1,0,1,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/american-university-eagles-navy-midshipmen-201402260392","American",14,"Austin Carroll",2,6,2,6,0,0,0, 2,2,2,0,1,0,1,6
+"http://sports.yahoo.com/ncaab/american-university-eagles-navy-midshipmen-201402260392","American",40,"Tony Wroblicky",4,8,0,0,2,2,0, 7,7,2,7,0,0,2,10
+"http://sports.yahoo.com/ncaab/american-university-eagles-navy-midshipmen-201402260392","American",40,"Darius Gardner",5,6,2,3,3,4,3, 2,5,4,3,1,1,4,15
+"http://sports.yahoo.com/ncaab/american-university-eagles-navy-midshipmen-201402260392","American",7,"Kyle Kager",0,0,0,0,0,0,0, 3,3,0,1,0,0,0,0
+"http://sports.yahoo.com/ncaab/american-university-eagles-navy-midshipmen-201402260392","American",36,"John Schoof",4,10,4,8,3,4,1, 4,5,4,4,0,1,2,15
+"http://sports.yahoo.com/ncaab/american-university-eagles-navy-midshipmen-201402260392","American",40,"Jesse Reed",4,8,2,4,2,3,1, 3,4,1,1,2,2,2,12
+"http://sports.yahoo.com/ncaab/american-university-eagles-navy-midshipmen-201402260392","American",3,"Marko Vasic",0,1,0,1,0,0,0, 0,0,0,1,0,0,1,0
+"http://sports.yahoo.com/ncaab/american-university-eagles-navy-midshipmen-201402260392","American",20,"Charlie Jones",2,4,0,2,2,2,1, 3,4,2,1,1,1,1,6
+"http://sports.yahoo.com/ncaab/american-university-eagles-navy-midshipmen-201402260392","Navy",20,"James Loupos",3,3,0,0,2,3,1, 3,4,0,2,2,0,4,8
+"http://sports.yahoo.com/ncaab/american-university-eagles-navy-midshipmen-201402260392","Navy",4,"Thurgood Wynn",0,0,0,0,0,0,0, 0,0,0,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/american-university-eagles-navy-midshipmen-201402260392","Navy",36,"Worth Smith",4,9,0,0,3,3,2, 7,9,0,2,0,1,2,11
+"http://sports.yahoo.com/ncaab/american-university-eagles-navy-midshipmen-201402260392","Navy",10,"Earl McLaurin",0,1,0,0,0,0,0, 0,0,0,1,1,0,1,0
+"http://sports.yahoo.com/ncaab/american-university-eagles-navy-midshipmen-201402260392","Navy",38,"Brandon Venturini",7,14,2,4,2,2,2, 0,2,5,4,4,0,1,18
+"http://sports.yahoo.com/ncaab/american-university-eagles-navy-midshipmen-201402260392","Navy",19,"Will Kelly",2,7,0,0,0,0,1, 1,2,0,1,3,1,0,4
+"http://sports.yahoo.com/ncaab/american-university-eagles-navy-midshipmen-201402260392","Navy",16,"Kendall Knorr",0,3,0,2,0,0,2, 1,3,0,2,0,0,2,0
+"http://sports.yahoo.com/ncaab/american-university-eagles-navy-midshipmen-201402260392","Navy",27,"Zach Fong",1,8,1,7,2,2,0, 2,2,1,0,0,0,1,5
+"http://sports.yahoo.com/ncaab/american-university-eagles-navy-midshipmen-201402260392","Navy",3,"Michael Brown",0,1,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/american-university-eagles-navy-midshipmen-201402260392","Navy",25,"Tim Abruzzo",4,9,1,5,0,0,1, 2,3,2,1,1,0,3,9
+"http://sports.yahoo.com/ncaab/american-university-eagles-navy-midshipmen-201402260392","Navy",2,"Edward Alade",0,0,0,0,0,0,0, 1,1,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/texas-am-aggies-lsu-tigers-201402260319","Texas A&M",26,"Kourtney Roberson",3,6,0,0,3,5,2, 6,8,0,2,0,1,3,9
+"http://sports.yahoo.com/ncaab/texas-am-aggies-lsu-tigers-201402260319","Texas A&M",24,"Fabyon Harris",1,5,0,3,0,0,0, 3,3,0,0,1,0,1,2
+"http://sports.yahoo.com/ncaab/texas-am-aggies-lsu-tigers-201402260319","Texas A&M",3,"Blake McDonald",0,0,0,0,0,0,0, 0,0,0,1,1,0,0,0
+"http://sports.yahoo.com/ncaab/texas-am-aggies-lsu-tigers-201402260319","Texas A&M",27,"Jordan Green",3,8,2,4,4,4,1, 1,2,0,0,1,0,2,12
+"http://sports.yahoo.com/ncaab/texas-am-aggies-lsu-tigers-201402260319","Texas A&M",30,"Antwan Space",2,13,0,3,3,4,3, 4,7,1,3,1,2,2,7
+"http://sports.yahoo.com/ncaab/texas-am-aggies-lsu-tigers-201402260319","Texas A&M",24,"Jamal Jones",2,10,2,5,1,2,0, 0,0,0,0,1,0,0,7
+"http://sports.yahoo.com/ncaab/texas-am-aggies-lsu-tigers-201402260319","Texas A&M",12,"Shawn Smith",0,1,0,1,0,0,0, 2,2,0,1,1,0,2,0
+"http://sports.yahoo.com/ncaab/texas-am-aggies-lsu-tigers-201402260319","Texas A&M",1,"Kyle Dobbins",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/texas-am-aggies-lsu-tigers-201402260319","Texas A&M",33,"Alex Caruso",3,7,0,1,1,4,0, 3,3,5,1,5,0,0,7
+"http://sports.yahoo.com/ncaab/texas-am-aggies-lsu-tigers-201402260319","Texas A&M",10,"Tavario Miller",1,1,0,0,0,1,1, 2,3,0,0,0,0,0,2
+"http://sports.yahoo.com/ncaab/texas-am-aggies-lsu-tigers-201402260319","Texas A&M",1,"Don Thomas",0,0,0,0,1,2,0, 0,0,0,0,0,0,0,1
+"http://sports.yahoo.com/ncaab/texas-am-aggies-lsu-tigers-201402260319","Texas A&M",9,"Dylan Johns",1,1,0,0,0,0,1, 0,1,0,0,0,0,3,2
+"http://sports.yahoo.com/ncaab/texas-am-aggies-lsu-tigers-201402260319","LSU",23,"Andre Stringer",4,9,3,7,0,0,0, 3,3,3,0,1,0,0,11
+"http://sports.yahoo.com/ncaab/texas-am-aggies-lsu-tigers-201402260319","LSU",34,"Anthony Hickey",0,1,0,1,2,2,2, 3,5,8,4,1,0,2,2
+"http://sports.yahoo.com/ncaab/texas-am-aggies-lsu-tigers-201402260319","LSU",32,"Johnny O'Bryant III",6,12,0,0,3,6,2, 7,9,1,1,1,1,2,15
+"http://sports.yahoo.com/ncaab/texas-am-aggies-lsu-tigers-201402260319","LSU",33,"Shavon Coleman",4,12,1,5,0,1,1, 3,4,4,2,0,0,3,9
+"http://sports.yahoo.com/ncaab/texas-am-aggies-lsu-tigers-201402260319","LSU",1,"Shane Hammink",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/texas-am-aggies-lsu-tigers-201402260319","LSU",31,"Jarell Martin",7,9,4,5,2,3,1, 6,7,0,2,1,1,3,20
+"http://sports.yahoo.com/ncaab/texas-am-aggies-lsu-tigers-201402260319","LSU",3,"Darcy Malone",1,1,1,1,0,0,1, 0,1,0,2,0,0,2,3
+"http://sports.yahoo.com/ncaab/texas-am-aggies-lsu-tigers-201402260319","LSU",30,"Jordan Mickey",4,7,0,1,0,0,0, 6,6,0,1,0,5,0,8
+"http://sports.yahoo.com/ncaab/texas-am-aggies-lsu-tigers-201402260319","LSU",2,"John Odo",0,0,0,0,0,2,0, 0,0,0,0,0,0,2,0
+"http://sports.yahoo.com/ncaab/texas-am-aggies-lsu-tigers-201402260319","LSU",9,"Tim Quarterman",0,1,0,0,0,0,0, 1,1,2,0,0,0,1,0
+"http://sports.yahoo.com/ncaab/texas-am-aggies-lsu-tigers-201402260319","LSU",1,"Brandon Eddlestone",0,1,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/texas-am-aggies-lsu-tigers-201402260319","LSU",1,"Henry Shortess",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/alabama-crimson-tide-ole-miss-rebels-201402260365","Alabama",38,"Trevor Releford",6,14,2,8,2,5,1, 4,5,3,6,4,0,4,16
+"http://sports.yahoo.com/ncaab/alabama-crimson-tide-ole-miss-rebels-201402260365","Alabama",8,"Carl Engstrom",0,0,0,0,0,0,0, 0,0,0,0,0,0,2,0
+"http://sports.yahoo.com/ncaab/alabama-crimson-tide-ole-miss-rebels-201402260365","Alabama",36,"Rodney Cooper",1,5,1,3,3,4,3, 0,3,2,0,0,0,2,6
+"http://sports.yahoo.com/ncaab/alabama-crimson-tide-ole-miss-rebels-201402260365","Alabama",29,"Retin Obasohan",1,5,0,3,1,3,0, 2,2,3,5,0,0,4,3
+"http://sports.yahoo.com/ncaab/alabama-crimson-tide-ole-miss-rebels-201402260365","Alabama",30,"Levi Randolph",4,9,0,3,5,5,0, 0,0,3,1,2,0,2,13
+"http://sports.yahoo.com/ncaab/alabama-crimson-tide-ole-miss-rebels-201402260365","Alabama",6,"Dakota Slaughter",0,1,0,1,0,0,0, 1,1,1,0,0,1,1,0
+"http://sports.yahoo.com/ncaab/alabama-crimson-tide-ole-miss-rebels-201402260365","Alabama",38,"Shannon Hale",7,12,3,5,10,11,2, 7,9,0,2,1,0,3,27
+"http://sports.yahoo.com/ncaab/alabama-crimson-tide-ole-miss-rebels-201402260365","Alabama",4,"Algie Key",0,1,0,0,0,0,0, 0,0,0,0,0,0,2,0
+"http://sports.yahoo.com/ncaab/alabama-crimson-tide-ole-miss-rebels-201402260365","Alabama",11,"Jimmie Taylor",1,1,0,0,0,0,0, 1,1,0,0,0,0,4,2
+"http://sports.yahoo.com/ncaab/alabama-crimson-tide-ole-miss-rebels-201402260365","Mississippi",35,"Marshall Henderson",4,13,2,8,3,3,1, 0,1,2,4,4,0,3,13
+"http://sports.yahoo.com/ncaab/alabama-crimson-tide-ole-miss-rebels-201402260365","Mississippi",16,"Demarco Cox",1,2,0,0,3,4,1, 5,6,0,0,0,0,2,5
+"http://sports.yahoo.com/ncaab/alabama-crimson-tide-ole-miss-rebels-201402260365","Mississippi",30,"Aaron Jones",6,10,0,1,0,0,4, 2,6,1,2,1,2,3,12
+"http://sports.yahoo.com/ncaab/alabama-crimson-tide-ole-miss-rebels-201402260365","Mississippi",38,"Jarvis Summers",5,15,1,6,9,10,1, 3,4,5,1,1,0,4,20
+"http://sports.yahoo.com/ncaab/alabama-crimson-tide-ole-miss-rebels-201402260365","Mississippi",16,"Ladarius White",1,4,0,1,1,2,0, 0,0,1,2,0,0,1,3
+"http://sports.yahoo.com/ncaab/alabama-crimson-tide-ole-miss-rebels-201402260365","Mississippi",31,"Martavious Newby",4,4,2,2,5,7,4, 6,10,2,3,1,0,4,15
+"http://sports.yahoo.com/ncaab/alabama-crimson-tide-ole-miss-rebels-201402260365","Mississippi",23,"Anthony Perez",3,7,0,3,3,3,2, 6,8,2,2,0,1,3,9
+"http://sports.yahoo.com/ncaab/alabama-crimson-tide-ole-miss-rebels-201402260365","Mississippi",4,"Dwight Coleby",0,2,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/alabama-crimson-tide-ole-miss-rebels-201402260365","Mississippi",7,"Sebastian Saiz",0,1,0,0,2,2,3, 2,5,0,0,0,0,3,2
+"http://sports.yahoo.com/ncaab/tennessee-volunteers-mississippi-state-bulldogs-201402260366","Tennessee",31,"Jeronne Maymon",4,10,0,0,2,2,5, 6,11,0,2,1,0,2,10
+"http://sports.yahoo.com/ncaab/tennessee-volunteers-mississippi-state-bulldogs-201402260366","Tennessee",28,"Antonio Barton",1,6,0,4,2,3,1, 0,1,4,0,0,1,1,4
+"http://sports.yahoo.com/ncaab/tennessee-volunteers-mississippi-state-bulldogs-201402260366","Tennessee",36,"Jordan McRae",9,19,4,8,7,8,2, 8,10,4,1,0,1,4,29
+"http://sports.yahoo.com/ncaab/tennessee-volunteers-mississippi-state-bulldogs-201402260366","Tennessee",34,"Josh Richardson",1,9,1,5,4,4,0, 1,1,2,2,2,0,2,7
+"http://sports.yahoo.com/ncaab/tennessee-volunteers-mississippi-state-bulldogs-201402260366","Tennessee",35,"Jarnell Stokes",7,15,0,0,0,1,5, 4,9,0,4,0,1,3,14
+"http://sports.yahoo.com/ncaab/tennessee-volunteers-mississippi-state-bulldogs-201402260366","Tennessee",19,"Armani Moore",3,5,0,2,2,2,1, 3,4,1,2,3,0,3,8
+"http://sports.yahoo.com/ncaab/tennessee-volunteers-mississippi-state-bulldogs-201402260366","Tennessee",5,"Derek Reese",0,1,0,1,0,0,0, 1,1,0,0,0,0,2,0
+"http://sports.yahoo.com/ncaab/tennessee-volunteers-mississippi-state-bulldogs-201402260366","Tennessee",12,"Darius Thompson",1,1,1,1,0,0,1, 2,3,1,0,0,0,3,3
+"http://sports.yahoo.com/ncaab/tennessee-volunteers-mississippi-state-bulldogs-201402260366","Mississippi St.",35,"Roquez Johnson",6,13,0,0,7,10,1, 3,4,0,2,0,0,1,19
+"http://sports.yahoo.com/ncaab/tennessee-volunteers-mississippi-state-bulldogs-201402260366","Mississippi St.",1,"Tyson Cunningham",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/tennessee-volunteers-mississippi-state-bulldogs-201402260366","Mississippi St.",22,"Colin Borchert",3,5,1,1,0,0,0, 3,3,1,1,1,2,1,7
+"http://sports.yahoo.com/ncaab/tennessee-volunteers-mississippi-state-bulldogs-201402260366","Mississippi St.",36,"Trivante Bloodman",3,8,0,3,3,3,1, 3,4,2,2,0,0,2,9
+"http://sports.yahoo.com/ncaab/tennessee-volunteers-mississippi-state-bulldogs-201402260366","Mississippi St.",10,"Jacoby Davis",0,3,0,1,0,0,0, 1,1,0,2,2,0,1,0
+"http://sports.yahoo.com/ncaab/tennessee-volunteers-mississippi-state-bulldogs-201402260366","Mississippi St.",23,"Gavin Ware",2,5,0,0,2,2,3, 4,7,0,0,2,1,2,6
+"http://sports.yahoo.com/ncaab/tennessee-volunteers-mississippi-state-bulldogs-201402260366","Mississippi St.",25,"Craig Sword",3,9,0,1,3,5,0, 4,4,3,3,1,0,4,9
+"http://sports.yahoo.com/ncaab/tennessee-volunteers-mississippi-state-bulldogs-201402260366","Mississippi St.",32,"Fred Thomas",7,12,2,7,2,4,1, 5,6,3,1,0,0,3,18
+"http://sports.yahoo.com/ncaab/tennessee-volunteers-mississippi-state-bulldogs-201402260366","Mississippi St.",16,"I.J. Ready",0,1,0,1,0,0,0, 0,0,1,0,1,0,1,0
+"http://sports.yahoo.com/ncaab/south-carolina-gamecocks-auburn-tigers-201402260028","South Carolina",40,"Brenton Williams",7,11,5,9,7,8,0, 2,2,1,2,0,0,2,26
+"http://sports.yahoo.com/ncaab/south-carolina-gamecocks-auburn-tigers-201402260028","South Carolina",30,"Michael Carrera",1,6,0,2,2,4,5, 8,13,2,3,1,0,5,4
+"http://sports.yahoo.com/ncaab/south-carolina-gamecocks-auburn-tigers-201402260028","South Carolina",4,"Laimonas Chatkevicius",0,0,0,0,0,0,0, 0,0,0,1,0,0,1,0
+"http://sports.yahoo.com/ncaab/south-carolina-gamecocks-auburn-tigers-201402260028","South Carolina",21,"Mindaugas Kacinas",2,3,0,0,6,6,3, 2,5,1,3,1,1,3,10
+"http://sports.yahoo.com/ncaab/south-carolina-gamecocks-auburn-tigers-201402260028","South Carolina",14,"Brian Steele",2,5,1,3,0,0,1, 3,4,3,0,1,0,3,5
+"http://sports.yahoo.com/ncaab/south-carolina-gamecocks-auburn-tigers-201402260028","South Carolina",11,"Demetrius Henry",1,1,0,0,0,0,1, 0,1,0,2,0,1,3,2
+"http://sports.yahoo.com/ncaab/south-carolina-gamecocks-auburn-tigers-201402260028","South Carolina",24,"Duane Notice",3,8,0,1,2,2,0, 4,4,5,2,0,0,4,8
+"http://sports.yahoo.com/ncaab/south-carolina-gamecocks-auburn-tigers-201402260028","South Carolina",16,"Desmond Ringer",1,2,0,0,2,2,1, 2,3,0,1,0,0,4,4
+"http://sports.yahoo.com/ncaab/south-carolina-gamecocks-auburn-tigers-201402260028","South Carolina",8,"Jaylen Shaw",2,3,0,1,0,0,0, 0,0,0,1,0,0,2,4
+"http://sports.yahoo.com/ncaab/south-carolina-gamecocks-auburn-tigers-201402260028","South Carolina",32,"Sindarius Thornwell",2,13,0,4,0,3,2, 2,4,1,5,0,0,3,4
+"http://sports.yahoo.com/ncaab/south-carolina-gamecocks-auburn-tigers-201402260028","Auburn",26,"KT Harrell",2,8,1,4,6,6,0, 3,3,1,2,0,0,3,11
+"http://sports.yahoo.com/ncaab/south-carolina-gamecocks-auburn-tigers-201402260028","Auburn",36,"Chris Denson",8,11,1,4,5,9,1, 1,2,2,3,2,0,2,22
+"http://sports.yahoo.com/ncaab/south-carolina-gamecocks-auburn-tigers-201402260028","Auburn",36,"Allen Payne",5,7,0,1,5,7,0, 4,4,3,2,5,0,1,15
+"http://sports.yahoo.com/ncaab/south-carolina-gamecocks-auburn-tigers-201402260028","Auburn",15,"Jordon Granger",2,4,0,0,1,2,0, 1,1,0,1,0,0,3,5
+"http://sports.yahoo.com/ncaab/south-carolina-gamecocks-auburn-tigers-201402260028","Auburn",17,"Asauhn Dixon-Tatum",0,0,0,0,3,4,1, 3,4,0,2,0,0,3,3
+"http://sports.yahoo.com/ncaab/south-carolina-gamecocks-auburn-tigers-201402260028","Auburn",1,"C.J. Holmes",0,0,0,0,0,0,0, 0,0,0,1,0,0,0,0
+"http://sports.yahoo.com/ncaab/south-carolina-gamecocks-auburn-tigers-201402260028","Auburn",15,"Dion Wade",3,9,3,9,0,0,0, 4,4,1,0,3,3,1,9
+"http://sports.yahoo.com/ncaab/south-carolina-gamecocks-auburn-tigers-201402260028","Auburn",17,"Tahj Shamsid-Deen",4,5,3,3,3,4,0, 1,1,4,0,0,0,4,14
+"http://sports.yahoo.com/ncaab/south-carolina-gamecocks-auburn-tigers-201402260028","Auburn",2,"Alex Thompson",0,0,0,0,0,1,0, 0,0,0,0,0,0,0,0
+"http://sports.yahoo.com/ncaab/south-carolina-gamecocks-auburn-tigers-201402260028","Auburn",22,"Malcolm Canada",1,3,0,1,2,2,2, 2,4,3,0,1,0,2,4
+"http://sports.yahoo.com/ncaab/south-carolina-gamecocks-auburn-tigers-201402260028","Auburn",12,"Matthew Atewe",0,1,0,0,0,0,1, 0,1,0,0,0,0,4,0
+"http://sports.yahoo.com/ncaab/south-carolina-gamecocks-auburn-tigers-201402260028","Auburn",1,"Devin Waddell",0,0,0,0,0,0,0, 0,0,0,0,0,0,0,0
